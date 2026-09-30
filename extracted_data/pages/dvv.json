@@ -1,0 +1,532 @@
+{
+  "url": "https://akits.ac.in/dvv",
+  "title": "DVV",
+  "meta_description": "NAAC-DVV NAAC - DVV Extended Profile 1: StudentsLink1.1 – ProofClick Here2: TeachersLink2.1 – Proof 1Click Here2.1 – Proof 2Click Here3: InstitutionLink3.1 – ProofClick Here Criterion 1 Criterion 1 – Curricular AspectsLink1.2 Academic Flexibility Metric: 1.2.1 – ProofClick HereMetric: 1.2.2 – ProofClick Here1.3 Curriculum Enrichment Metric: 1.3.2 – ProofClick Here1.4 Feedback System Metric: 1.4.1 – ProofClick Here Criterion 2",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "DVV",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "NAAC-DVV"
+    },
+    {
+      "level": 2,
+      "text": "NAAC - DVV"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "1: Students",
+          "Link"
+        ],
+        [
+          "1.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "2: Teachers",
+          "Link"
+        ],
+        [
+          "2.1 – Proof 1",
+          "Click Here"
+        ],
+        [
+          "2.1 – Proof 2",
+          "Click Here"
+        ],
+        [
+          "3: Institution",
+          "Link"
+        ],
+        [
+          "3.1 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 1 – Curricular Aspects",
+        "Link"
+      ],
+      "rows": [
+        [
+          "1.2 Academic Flexibility",
+          ""
+        ],
+        [
+          "Metric: 1.2.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 1.2.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "1.3 Curriculum Enrichment",
+          ""
+        ],
+        [
+          "Metric: 1.3.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "1.4 Feedback System",
+          ""
+        ],
+        [
+          "Metric: 1.4.1 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 2 – Teaching-learning and Evaluation",
+        "Link"
+      ],
+      "rows": [
+        [
+          "2.1: Student Enrollment and Profile",
+          ""
+        ],
+        [
+          "Metric: 2.1.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 2.1.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "2.2: Student Teacher Ratio",
+          ""
+        ],
+        [
+          "Metric: 2.2.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "2.4: Teacher Profile and Quality",
+          ""
+        ],
+        [
+          "Metric: 2.4.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 2.4.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "2.6: Student Performance and Learning Outcomes",
+          ""
+        ],
+        [
+          "Metric: 2.6.3 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 3 – Research, Innovation and Extension",
+        "Link"
+      ],
+      "rows": [
+        [
+          "3.1: Resource Mobilization for Research",
+          ""
+        ],
+        [
+          "Metric: 3.1.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "3.2: Innovation Ecosystem",
+          ""
+        ],
+        [
+          "Metric: 3.2.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "3.3: Research Publications and Awards",
+          ""
+        ],
+        [
+          "Metric: 3.3.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 3.3.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "3.4: Extension Activities",
+          ""
+        ],
+        [
+          "Metric: 3.4.3 – Proof",
+          "Click Here"
+        ],
+        [
+          "3.5: Collaboration",
+          ""
+        ],
+        [
+          "Metric: 3.5.1 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 4 – Infrastructure and Learning Resources",
+        "Link"
+      ],
+      "rows": [
+        [
+          "4.1 Physical Facilities",
+          ""
+        ],
+        [
+          "Metric: 4.1.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "4.3: IT Infrastructure",
+          ""
+        ],
+        [
+          "Metric: 4.3.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "4.4: Maintenance of Campus Infrastructure",
+          ""
+        ],
+        [
+          "Metric: 4.4.1 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 5 – Student Support and Progression",
+        "Link"
+      ],
+      "rows": [
+        [
+          "5.1: Student Support",
+          ""
+        ],
+        [
+          "Metric: 5.1.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 5.1.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 5.1.3 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 5.1.4 – Proof",
+          "Click Here"
+        ],
+        [
+          "5.2: Student Progression",
+          ""
+        ],
+        [
+          "Metric: 5.2.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 5.2.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "5.3: Student Participation and Activities",
+          ""
+        ],
+        [
+          "Metric: 5.3.1 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 5.3.2 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 6 – Governance, Leadership and Management",
+        "Link"
+      ],
+      "rows": [
+        [
+          "6.2: Strategy Development and Deployment",
+          ""
+        ],
+        [
+          "Metric: 6.2.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "6.3: Faculty Empowerment Strategies",
+          ""
+        ],
+        [
+          "Metric: 6.3.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 6.3.3 – Proof",
+          "Click Here"
+        ],
+        [
+          "6.5: Internal Quality Assurance System",
+          ""
+        ],
+        [
+          "Metric: 6.5.2 – Proof",
+          "Click Here"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "Criterion 7 – Institutional Values and Best Practices",
+        "Link"
+      ],
+      "rows": [
+        [
+          "7.1: Institutional Values and Social Responsibilities",
+          ""
+        ],
+        [
+          "Metric: 7.1.2 – Proof",
+          "Click Here"
+        ],
+        [
+          "Metric: 7.1.3 – Proof",
+          "Click Here"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/DVV/EP/1.1/1.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/EP/2.1/2.1 PROOF INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/EP/2.2/2.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/EP/3.1/3.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C1/1.2.1/1.2.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C1/1.2.2/1.2.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C1/1.3.2/1.3.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C1/1.4.1/1.2.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.1.1/2.1.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.1.2/2.1.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.2.1/2.2.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.4.1/2.4.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.4.2/2.4.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C2/2.6.3/2.6.3 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.1.1/3.1.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.2.2/3.2.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.3.1/3.3.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.3.2/3.3.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.4.3/3.4.3 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C3/3.5.1/3.5.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C4/4.1/4.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C4/4.3/4.3.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C4/4.4/4.4.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.1.1/5.1.1 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.1.2/5.1.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.1.3/5.1.3 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.1.4/5.1.4 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.2.1/5.2.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.2.2/5.2.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in//DVV/C5/5.3.1/5.3.1 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C5/5.3.2/5.3.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C6/6.2.2/6.2.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C6/6.3.2/6.3.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C6/6.3.3/6.3.3 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C6/6.5.2/6.5.2 INDEX.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C7/7.1.2/7.1.2 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/DVV/C7/7.1.3/7.1.3 index.pdf",
+      "text": "Click Here",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "dvv\\index.html",
+  "route": "/dvv"
+}

@@ -1,0 +1,115 @@
+{
+  "url": "https://akits.ac.in/infrastructure/grievance",
+  "title": "Grievance",
+  "meta_description": "It is a committee to present grievances of all sorts for students, staff and parents.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Facilities",
+      "url": "https://akits.ac.in/infrastructure/"
+    },
+    {
+      "name": "Grievance",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/174_glbajajgrievance.jpg",
+  "headings": [
+    {
+      "level": 4,
+      "text": "STUDENT GRIEVANCE REDRESSAL COMMITTEE(SGRC)"
+    },
+    {
+      "level": 4,
+      "text": "Constitution of the Committee:"
+    }
+  ],
+  "paragraphs": [
+    "The Grievance Redressal Committee is established to address and resolve complaints and concerns raised by students, faculty, and staff in a fair, transparent, and timely manner.This committee is mandatory under guidelines from bodies like UGC, AICTE, and NAAC, and must exist in all higher educational institutions. Objectives of the Grievance Redressal Committee:1. To provide a platform for stakeholders (students, faculty, staff) to raise grievances related to academic, administrative, or personal matters.2. To investigate complaints impartially and confidentially.3. To resolve grievances in a time-bound manner.4. To promote a positive and supportive institutional climate. Common Grievances Handled:• Harassment (including bullying or ragging)• Unfair academic evaluation or discrimination• Delay in scholarship disbursement• Issues related to examination or attendance• Infrastructure problems• Administrative inefficiencies"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/174_glbajajgrievance.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of Member",
+        "Designation",
+        "Role in Committee"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.C.Simmi",
+          "Professor",
+          "Chair Person"
+        ],
+        [
+          "2",
+          "Dr.Y.Nirmala",
+          "Professor",
+          "Convenor"
+        ],
+        [
+          "3",
+          "Mrs.T.Sruthi",
+          "Faculty Member",
+          "C0-Convenor"
+        ],
+        [
+          "4",
+          "Mrs.V.Kavitha",
+          "Faculty Member",
+          "Member"
+        ],
+        [
+          "5",
+          "Miss.J.Roja",
+          "Faculty Member",
+          "Member"
+        ],
+        [
+          "6",
+          "Dr.E.Ramjee",
+          "JNTUH Professor",
+          "Member Secretary"
+        ],
+        [
+          "7",
+          "Miss.G.Shashikala",
+          "Student Member",
+          "Student Representative"
+        ],
+        [
+          "8",
+          "Miss.K.Rithika",
+          "Student Member",
+          "Student Representative"
+        ],
+        [
+          "9",
+          "Miss.A.Akhila",
+          "Student Member",
+          "Student Representative"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "infrastructure\\grievance\\index.html",
+  "route": "/infrastructure/grievance"
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://akits.ac.in/about-civil-engineering-department",
+  "title": "About Civil Engineering Department",
+  "meta_description": "About Our Department The planning, building, and upkeep of permanent structures, or public works, as they relate to the earth, water, civilization, and its processes, falls under the broad category of civil engineering. Today, the majority of civil engineering is focused on the construction of power plants, bridges, roads, railroads, buildings, water supply, irrigation, the environment,",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "About Civil Engineering Department",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "About Our Department"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "The planning, building, and upkeep of permanent structures, or public works, as they relate to the earth, water, civilization, and its processes, falls under the broad category of civil engineering. Today, the majority of civil engineering is focused on the construction of power plants, bridges, roads, railroads, buildings, water supply, irrigation, the environment, sewers, flood control, transit, and traffic. In essence, civil engineering may be thought of as the industry that improves the quality of life on earth. We have the best civil engineering colleges in KothagudemThe UG programmes offered by the CIVIL Department, which was founded in 2013 and has a yearly intake of 60 students for B.TECH (CIVIL), and 30 students for Diploma(CIVIL)."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/civil-engineering-img-py12eya2n0h1nsr5i5zxulxxhzxkxy6e2me5o1dcjc.jpg",
+      "alt": "civil-engineering-img",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-pulse-shrink"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "about-civil-engineering-department\\index.html",
+  "route": "/about-civil-engineering-department"
+}

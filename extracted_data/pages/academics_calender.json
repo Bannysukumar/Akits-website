@@ -1,0 +1,67 @@
+{
+  "url": "https://akits.ac.in/academics/calender",
+  "title": "ACADEMIC CALENDAR",
+  "meta_description": "Get your academic calendar for various course here.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Academics",
+      "url": "https://akits.ac.in/academics/"
+    },
+    {
+      "name": "Calendar",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/806Academic-Calendar.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "ACADEMIC CALENDAR"
+    },
+    {
+      "level": 4,
+      "text": "CALENDAR"
+    },
+    {
+      "level": 5,
+      "text": "CALENDAR"
+    },
+    {
+      "level": 5,
+      "text": "SYLLABUS"
+    },
+    {
+      "level": 5,
+      "text": "REGULATIONS"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/806Academic-Calendar.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/11/839888-300x300.png",
+      "alt": "",
+      "width": "28",
+      "height": "28",
+      "class": "alignnone wp-image-1946"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "academics\\calender\\index.html",
+  "route": "/academics/calender"
+}

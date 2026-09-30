@@ -1,0 +1,90 @@
+{
+  "url": "https://akits.ac.in/mining-engineering-labs",
+  "title": "Mining Engineering Labs",
+  "meta_description": "OUR LABS Mine Surveying Lab Mechanics Of Solids Lab Fluid Mechanics & Hydraulic Machines Lab Mineral Processing Engineering Lab Mine Environmental Engineering Lab Mine Machanization Lab Ground Control & Instrumentation Lab and Computer Applications in Mining Lab Rock Mechanics Engineering Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mining Engineering Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/01/Picture2-1024x768.png",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "elementor-animation-grow attachment-large size-large wp-image-4821"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/Picture3-q05lt833s8emo9wigrcfsc2nycgs1437g2j4pd4qew.png",
+      "alt": "Picture3",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-grow"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/Picture4-q05ltbugjkjrypr1usyy2b4ibvy8vwi4sl52mgz5q0.png",
+      "alt": "Picture4",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-grow"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Mine Surveying Lab",
+        "Mechanics Of Solids Lab",
+        "Fluid Mechanics & Hydraulic Machines Lab",
+        "Mineral Processing Engineering Lab",
+        "Mine Environmental Engineering Lab",
+        "Mine Machanization Lab",
+        "Ground Control & Instrumentation Lab and Computer Applications in Mining Lab",
+        "Rock Mechanics Engineering Lab"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mining-engineering-labs\\index.html",
+  "route": "/mining-engineering-labs"
+}

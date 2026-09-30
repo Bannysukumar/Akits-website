@@ -1,0 +1,70 @@
+{
+  "url": "https://akits.ac.in/mining-engineering-department-achievements",
+  "title": "Mining Engineering Department Achievements",
+  "meta_description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mining Engineering Department Achievements",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Achivements"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-04-16-at-10.47.17-AM-150x150.jpeg",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-04-16-at-11.06.22-AM-150x150.jpeg",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mining-engineering-department-achievements\\index.html",
+  "route": "/mining-engineering-department-achievements"
+}

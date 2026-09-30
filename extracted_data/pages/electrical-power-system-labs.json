@@ -1,0 +1,72 @@
+{
+  "url": "https://akits.ac.in/electrical-power-system-labs",
+  "title": "Electrical Power System Labs",
+  "meta_description": "OUR LABS Power Systems Computation Lab-I Advanced Power Systems Lab Power Systems Computation Lab-II Power System Protection Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Electrical Power System Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ps1-Copy-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12452"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/mat2-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12453"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Power Systems Computation Lab-I",
+        "Advanced Power Systems Lab",
+        "Power Systems Computation Lab-II",
+        "Power System Protection Lab"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "electrical-power-system-labs\\index.html",
+  "route": "/electrical-power-system-labs"
+}

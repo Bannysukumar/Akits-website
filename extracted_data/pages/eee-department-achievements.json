@@ -1,0 +1,124 @@
+{
+  "url": "https://akits.ac.in/eee-department-achievements",
+  "title": "EEE Department Achievements",
+  "meta_description": "Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "EEE Department Achievements",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Achivements"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/55-1024x790.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "790",
+      "class": "attachment-large size-large wp-image-12555"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/EEE-9-1024x1024.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-12537"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/rr-1024x723.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "723",
+      "class": "attachment-large size-large wp-image-12538"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-04-15-at-4.42.25-PM-1024x768.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-12539"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-04-16-at-10.55.52-AM-1024x458.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "458",
+      "class": "attachment-large size-large wp-image-12540"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WRK.jpg",
+      "alt": "",
+      "width": "616",
+      "height": "453",
+      "class": "attachment-large size-large wp-image-12541"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/PN.jpg",
+      "alt": "",
+      "width": "670",
+      "height": "487",
+      "class": "attachment-large size-large wp-image-12542"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-11.34.52-AM.jpeg",
+      "alt": "",
+      "width": "842",
+      "height": "595",
+      "class": "attachment-large size-large wp-image-12544"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IAEEEE-MEMBERSHIP-CERTIFICATE_page-0001-1024x724.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "724",
+      "class": "attachment-large size-large wp-image-12545"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IAENG_membership_509832_page-0001-725x1024.jpg",
+      "alt": "",
+      "width": "725",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-12546"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/suresh_page-0001-1024x724.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "724",
+      "class": "attachment-large size-large wp-image-12547"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/Document-from-akhilkosetti-1-1-724x1024.jpg",
+      "alt": "",
+      "width": "724",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-12548"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "eee-department-achievements\\index.html",
+  "route": "/eee-department-achievements"
+}

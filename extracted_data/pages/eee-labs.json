@@ -1,0 +1,113 @@
+{
+  "url": "https://akits.ac.in/eee-labs",
+  "title": "EEE Labs",
+  "meta_description": "OUR LABS Basic Electrical Engineering Lab Electrical and Electronics Engineering Lab Electrical Circuits Analysis Lab Electrical Machines-I Lab Electrical Machines-II Lab Control Systems Lab Power Electronics Lab Power Systems Lab Electrical Measuring Instrumentation Lab Simulation of Renewable Energy Systems Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "EEE Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/CS-LAB-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12269"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/em-1-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12270"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/MI-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12271"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-09-01-at-11.23.48-AM-1024x461.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "461",
+      "class": "attachment-large size-large wp-image-12274"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/PS-LAB-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12273"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/PE-LAB-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12272"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Basic Electrical Engineering Lab",
+        "Electrical and Electronics Engineering Lab",
+        "Electrical Circuits Analysis Lab",
+        "Electrical Machines-I Lab",
+        "Electrical Machines-II Lab",
+        "Control Systems Lab",
+        "Power Electronics Lab",
+        "Power Systems Lab",
+        "Electrical Measuring Instrumentation Lab",
+        "Simulation of Renewable Energy Systems Lab"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "eee-labs\\index.html",
+  "route": "/eee-labs"
+}

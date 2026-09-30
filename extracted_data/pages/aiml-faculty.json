@@ -1,0 +1,131 @@
+{
+  "url": "https://akits.ac.in/aiml-faculty",
+  "title": "AIML Faculty",
+  "meta_description": "AI&ML Faculty Faculty ListS.NoFaculty NameDesignationExperience/Years1SAIDAIAH ANGOTHAssociate Professor182VADLADI ASWINIAssistant Professor63VALASA KAVITHAAssistant Professor124CHATRAGADDA PRASANNAAssistant Professor55NALAGONDA RAMESHAssistant Professor46BANOTH NARASIMHA RAOAssistant Professor67LAKSHMANA RAO THUMMALAAssistant Professor38SREENIVASARAO PERALAAssistant Professor39THALLA VINCENT RAJUAssistant Professor710JATOTH SURESHAssistant Professor111BADAVATH NARESHAssistant Professor112REDDYMALLA SARITHAAssistant Professor313NALLAGONDA SAMATHAAssistant Professor114LAKSHMI THRIVENI DHARAVATHAssistant Professor2",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "AIML Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "AI&ML Faculty"
+    },
+    {
+      "level": 4,
+      "text": "Faculty List"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Faculty Name",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "SAIDAIAH ANGOTH",
+          "Associate Professor",
+          "18"
+        ],
+        [
+          "2",
+          "VADLADI ASWINI",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "3",
+          "VALASA KAVITHA",
+          "Assistant Professor",
+          "12"
+        ],
+        [
+          "4",
+          "CHATRAGADDA PRASANNA",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "5",
+          "NALAGONDA RAMESH",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "6",
+          "BANOTH NARASIMHA RAO",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "7",
+          "LAKSHMANA RAO THUMMALA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "8",
+          "SREENIVASARAO PERALA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "9",
+          "THALLA VINCENT RAJU",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "10",
+          "JATOTH SURESH",
+          "Assistant Professor",
+          "1"
+        ],
+        [
+          "11",
+          "BADAVATH NARESH",
+          "Assistant Professor",
+          "1"
+        ],
+        [
+          "12",
+          "REDDYMALLA SARITHA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "13",
+          "NALLAGONDA SAMATHA",
+          "Assistant Professor",
+          "1"
+        ],
+        [
+          "14",
+          "LAKSHMI THRIVENI DHARAVATH",
+          "Assistant Professor",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "aiml-faculty\\index.html",
+  "route": "/aiml-faculty"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://akits.ac.in/iiaq",
+  "title": "IIQA",
+  "meta_description": "IIQA Download PDF.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "IIQA",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "IIQA"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ABDULKALAM_INSTITUTE_OF_TECHNOLOGICAL_SCIENCES_iiqa.pdf",
+      "title": ""
+    }
+  ],
+  "tables": [],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/ABDULKALAM_INSTITUTE_OF_TECHNOLOGICAL_SCIENCES_iiqa.pdf",
+      "text": "Download PDF",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "iiaq\\index.html",
+  "route": "/iiaq"
+}

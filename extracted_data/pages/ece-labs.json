@@ -1,0 +1,116 @@
+{
+  "url": "https://akits.ac.in/ece-labs",
+  "title": "ECE Labs",
+  "meta_description": "Our LABS Electronic devices & Circuits Lab Digital System Design Lab Basic Simulation Lab Analog & Digital Communication Lab IC Applications Lab Electronic Circuit Analysis Lab Microprocessor & Microcontroller Lab Data Communication & Networks Lab Digital Signal Processing Lab E-CAD Lab Scripting Languages Lab Microwave & Optical Communications Lab List Item Quick Links About Our",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "ECE Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electronic-communication.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electronic-communication.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-08-31-at-7.57.19-PM-1024x461.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "461",
+      "class": "attachment-large size-large wp-image-12241"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-08-31-at-10.30.54-PM-1024x472.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "472",
+      "class": "attachment-large size-large wp-image-12242"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IMG-20240201-WA0065-1024x768.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-12243"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ece1-1024x577.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "577",
+      "class": "attachment-large size-large wp-image-12281"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ece2-1024x577.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "577",
+      "class": "attachment-large size-large wp-image-12282"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ece3-472x1024.jpg",
+      "alt": "",
+      "width": "472",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-12283"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Electronic devices & Circuits Lab",
+        "Digital System Design Lab",
+        "Basic Simulation Lab",
+        "Analog & Digital Communication Lab",
+        "IC Applications Lab",
+        "Electronic Circuit Analysis Lab",
+        "Microprocessor & Microcontroller Lab",
+        "Data Communication & Networks Lab",
+        "Digital Signal Processing Lab",
+        "E-CAD Lab",
+        "Scripting Languages Lab",
+        "Microwave & Optical Communications Lab",
+        "List Item"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "ece-labs\\index.html",
+  "route": "/ece-labs"
+}

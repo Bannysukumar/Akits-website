@@ -1,0 +1,143 @@
+{
+  "site_name": "AKITS",
+  "full_name": "Abdul Kalam Institute of Technological Sciences",
+  "tagline": "Vepalagadda, Sujatha Nagar, Bhadradri Kothagudem - 507120",
+  "status": "AUTONOMOUS",
+  "logo": "https://akits.ac.in/wp-content/uploads/2025/04/INSTITUTE-OF-TECHNOLOGICAL-SCIENCES-VEPALAGADDA-SUJATHA-NAGARBHADRADRI-KOTHAGUDEM-507120.png",
+  "favicon": "https://akits.ac.in/wp-content/uploads/2023/01/cropped-AKITLogo-32x32.jpg",
+
+  "accreditations": [
+    "NAAC B++ Grade",
+    "Autonomous",
+    "AICTE Approved, New Delhi",
+    "Affiliated to JNTU, Hyderabad",
+    "ISO 9001:2015 Certified",
+    "ISO 14001:2015 Certified",
+    "SBTET",
+    "ISTE"
+  ],
+  "counselling_code": "AKIT",
+  "counselling_exams": ["EAPCET", "EAMCET", "ECET", "ICET", "DIPLOMA"],
+
+  "contact": {
+    "address_line1": "Abdul Kalam Institute of Technological Sciences",
+    "address_line2": "Vepalagadda, Sujatha Nagar",
+    "city": "Bhadradri Kothagudem",
+    "state": "Telangana",
+    "pincode": "507120",
+    "country": "India",
+    "full_address": "Abdul Kalam Institute of Technological Sciences, Vepalagadda, Sujatha Nagar, Bhadradri Kothagudem - 507120, Telangana, India",
+    "google_maps_address": "AKITS, Abdul Kalam Engineering College Kothagudem, FHXH+89J, Kothagudem, Telangana 507120, India",
+    "google_maps_embed_query": "Abdul Kalam Engineering College Kothagudem",
+    "phones": [
+      "+91 9866698961",
+      "+91 9133397892",
+      "+91 8639164084",
+      "+91 9704545494"
+    ],
+    "emails": [
+      "akits.org@gmail.com",
+      "info@akits.ac.in"
+    ],
+    "contact_form": {
+      "fields": ["First Name", "Last Name", "Email", "Phone", "Comment or Message"],
+      "required_fields": ["First Name", "Last Name", "Phone"]
+    }
+  },
+
+  "announcement_ticker": [
+    "Interested candidates can send their resumes to akits.org@gmail.com or walk in for the interviews at college.",
+    "Free Hostel Facility Available",
+    "AICTE pay scales will be given to the deserved candidates."
+  ],
+
+  "social_links": {
+    "facebook": "https://www.facebook.com/AKITSofficial?mibextid=ZbWKwL",
+    "twitter": "https://twitter.com/akitsofficial12?s=09",
+    "youtube": "https://youtu.be/osibICIC0Po?si=kFVBxLsRU1tjMsEq",
+    "instagram": "https://twitter.com/akitsofficial12?s=09"
+  },
+
+  "knowledge_partners": [
+    "KTPS, Palwancha",
+    "ITC, Bhadrachalam",
+    "SCCL, Kothagudem",
+    "Nava Bharath Energy (I) Limited, Palwancha",
+    "Heavy Water Plant, Manuguru"
+  ],
+
+  "departments": [
+    {
+      "name": "Artificial Intelligence & Machine Learning (AI & ML)",
+      "short": "AIML",
+      "pages": ["about-aiml-department", "aiml-vision-mission", "aiml-hod-profile", "aiml-faculty", "aiml-labs", "aiml-epartment-achievements"]
+    },
+    {
+      "name": "Computer Science & Engineering",
+      "short": "CSE",
+      "pages": ["about-our-cse-department", "mission-vision-of-cse", "cse-hod-profile", "cse-faculty", "cse-labs", "cse-achievements"]
+    },
+    {
+      "name": "Electronics & Communications Engineering",
+      "short": "ECE",
+      "pages": ["about-ece-department", "ece-vision-mission", "ece-hod-profile", "ece-faculty", "ece-labs", "ece-department-achievements"]
+    },
+    {
+      "name": "Electrical & Electronics Engineering",
+      "short": "EEE",
+      "pages": ["about-eee-department", "eee-vision-mission", "eee-hod-profile", "eee-faculty", "eee-labs", "eee-department-achievements"]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "short": "MECH",
+      "pages": ["about-mechanical-department", "mechanical-vision-mission", "mechanical-hod-profile", "mechanical-faculty", "mechanical-labs", "mechanical-department-achievements"]
+    },
+    {
+      "name": "Civil Engineering",
+      "short": "CIVIL",
+      "pages": ["about-civil-engineering-department", "civil-engineering-vision-mission", "civil-engineering-hod-profile", "civil-engineering-faculty", "civil-engineering-labs", "civil-department-achievements"]
+    },
+    {
+      "name": "Mining Engineering",
+      "short": "MINING",
+      "pages": ["about-mining-engineering-department", "mining-engineering-vision-mission", "mining-engineering-hod-profile", "mining-engineering-faculty", "mining-engineering-labs", "mining-engineering-department-achievements"]
+    },
+    {
+      "name": "Electrical Power Systems",
+      "short": "EPS",
+      "pages": ["about-electrical-power-system", "electrical-power-system-vision-mission", "electrical-power-system-hod-profile", "electrical-power-system-faculty", "electrical-power-system-labs", "electrical-power-system-department-achievements"]
+    },
+    {
+      "name": "Thermal Engineering",
+      "short": "THERMAL",
+      "pages": ["about-thermal-engineering", "thermal-engineering-mission-vision", "thermal-engineering-hod-profile", "thermal-engineering-faculty", "thermal-engineering-labs", "thermal-engineering-department-achievements"]
+    },
+    {
+      "name": "Data Science",
+      "short": "DS",
+      "pages": ["about-data-science", "data-science-faculty", "data-science-labs"]
+    },
+    {
+      "name": "MBA",
+      "short": "MBA",
+      "pages": ["mba-mission-vision", "mba-labs", "mba-department-achievements"]
+    }
+  ],
+
+  "affiliation_logos": [
+    "https://akits.ac.in/wp-content/uploads/2025/04/5-1.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/7-1.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/6-1.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/4-2.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/3-2.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/1-2.png",
+    "https://akits.ac.in/wp-content/uploads/2025/04/2-2.png"
+  ],
+
+  "copyright": "Copyright ©2022 All rights reserved by AKITS | Designed by V2 IT SOLUTIONS PVT LTD",
+
+  "meta": {
+    "description": "The Abdul Kalam College in Kothagudem is one of the best Engineering colleges offering multi-disciplinary education for students equipped with top facilities.",
+    "og_image": "https://akits.ac.in/wp-content/uploads/2022/11/cropped-logo-akit.webp"
+  }
+}

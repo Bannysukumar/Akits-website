@@ -1,0 +1,38 @@
+{
+  "url": "https://akits.ac.in/prospectus",
+  "title": "Prospectus",
+  "meta_description": "AKITS PROSPECTUS AKITS PROSPECTUS CLICK HERE (PROSPECTUS)",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Prospectus",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "AKITS PROSPECTUS"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2026/03/AKITS1_compressed.pdf",
+      "text": "CLICK HERE (PROSPECTUS)",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "prospectus\\index.html",
+  "route": "/prospectus"
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://akits.ac.in/gallery/video-gallery",
+  "title": "Video Gallery",
+  "meta_description": "For various videos of events and functions at AKITS please visit here.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Gallery",
+      "url": "https://akits.ac.in/gallery/"
+    },
+    {
+      "name": "Video Gallery",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/31.png",
+  "headings": [],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/31.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/02/WhatsApp-Video-2025-02-22-at-11.15.18-AM.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2026/05/WhatsApp-Video-2026-05-15-at-9.52.38-AM-2-1-1.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2026/05/WhatsApp-Video-2026-05-15-at-9.52.40-AM-1-1.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/WhatsApp-Video-2022-12-28-at-11.32.36-AM.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/WhatsApp-Video-2022-12-28-at-11.10.26-AM.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/VID-20221228-WA0010.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/Untitled-1-1.mp4#t=1",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/WhatsApp-Video-2022-12-28-at-11.17.33-AM-3.mp4",
+      "poster": ""
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/12/VID-20221228-WA0013-1.mp4",
+      "poster": ""
+    }
+  ],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "gallery\\video-gallery\\index.html",
+  "route": "/gallery/video-gallery"
+}

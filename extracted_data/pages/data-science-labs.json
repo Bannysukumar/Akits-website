@@ -1,0 +1,88 @@
+{
+  "url": "https://akits.ac.in/data-science-labs",
+  "title": "Data Science Labs",
+  "meta_description": "Our LABS Data Structures Lab Programming For Problem Solving Lab Operating Systems Lab Database Management Systems Lab Java Programming Lab Computer Networks & Web Technologies Lab Python Programming Lab C++ Programming Lab IT Workshop Lab Software Engineering Lab Cryptography & Network Security Lab Compiler Design Lab Machine Learning Lab Quick Links About Our Department Misson",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Data Science Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-08-31-at-5.58.33-PM-1-1024x626.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "626",
+      "class": "attachment-large size-large wp-image-12426"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IMG-20220607-WA0026-1.jpg",
+      "alt": "",
+      "width": "854",
+      "height": "548",
+      "class": "attachment-large size-large wp-image-11695"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-08-31-at-1.54.56-PM.jpeg",
+      "alt": "",
+      "width": "600",
+      "height": "300",
+      "class": "attachment-large size-large wp-image-12010"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Data Structures Lab",
+        "Programming For Problem Solving Lab",
+        "Operating Systems Lab",
+        "Database Management Systems Lab",
+        "Java Programming Lab",
+        "Computer Networks & Web Technologies Lab",
+        "Python Programming Lab",
+        "C++ Programming Lab",
+        "IT Workshop Lab",
+        "Software Engineering Lab",
+        "Cryptography & Network Security Lab",
+        "Compiler Design Lab",
+        "Machine Learning Lab"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "data-science-labs\\index.html",
+  "route": "/data-science-labs"
+}

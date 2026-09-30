@@ -1,0 +1,32 @@
+{
+  "url": "https://akits.ac.in/nirf",
+  "title": "NIRF",
+  "meta_description": "NIRF",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "NIRF",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "NIRF"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "nirf\\index.html",
+  "route": "/nirf"
+}

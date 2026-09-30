@@ -1,0 +1,131 @@
+{
+  "url": "https://akits.ac.in/about-placement",
+  "title": "About Placement",
+  "meta_description": "We offers our students maximum number of opportunities for Placements in top companies.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "About Placement",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/National-Servi-1.png",
+  "headings": [
+    {
+      "level": 4,
+      "text": "Quick Links"
+    },
+    {
+      "level": 3,
+      "text": "About Placement"
+    },
+    {
+      "level": 3,
+      "text": "Vision&Mission"
+    },
+    {
+      "level": 3,
+      "text": "Recently introduced:"
+    }
+  ],
+  "paragraphs": [
+    "The institute has a fully functional Training and Placement Cell, and by inviting numerous firms to the Institute for placements, it can offer campus positions to our young, aspiring engineers. Multinational corporations have given the Institute its approval to put students based on their academic performance and the infrastructure that is provided for the aspiring engineers’ complete development.",
+    "The Institute refreshes the curriculum by shifting societal needs and offers quality instruction. It has the best college placements in Telangana. Without educational field trips to industry and a time of training in prestigious engineering establishments to solidify the ideas they have learned in regular classrooms and laboratory instruction, we believe that a student’s preparation for a career in engineering is incomplete.",
+    "These facts have been taken into account as the T&P cell has formed its relationship with the sector. In addition, we organise brief training courses in collaboration with reputable national organisations.The institute is confident enough to invite engineering groups to assess the professional competence of its graduates.",
+    "Based on the qualitative needs of the hiring organisation, the institute can screen and narrow down a pool of candidates. The cell wants to place 100% of the qualified students from the present branches throughout the current academic year.",
+    "Online Aptitude test",
+    "Mock Interviews",
+    "C-Language Orientation Classes",
+    "Communication skills in English"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/National-Servi-1.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671788347100-1-1024x462.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "462",
+      "class": "attachment-large size-large wp-image-3385"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671788347151-2.jpg",
+      "alt": "",
+      "width": "1280",
+      "height": "578",
+      "class": "attachment-full size-full wp-image-3381"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/1671788346963-1-pzl3expk5at0adsnilgraq7sf2pdzlpyykplg4uw1k.jpg",
+      "alt": "1671788346963 (1)",
+      "width": "",
+      "height": "",
+      "class": ""
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671788346374-1-2.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "300",
+      "class": "attachment-2048x2048 size-2048x2048 wp-image-3422"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Placement",
+        "Vision&Mission",
+        "Recently Introduced"
+      ]
+    },
+    {
+      "type": "ordered",
+      "items": [
+        "Offer top-notch instruction at the undergraduate and graduate levels.",
+        "Intensify research efforts and establish a premier centre for product innovation.",
+        "Encourage Indian companies to develop cutting-edge technologies"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "Career counselling and guidance",
+        "Educational excursions, business visits, and industry exposure for the students",
+        "Maintaining contact with the business to arrange for practical training during breaks",
+        "Introduce pupils to new employment opportunities by providing details",
+        "Encourage self-reflection in your students.",
+        "Aid in the creation of a competency inventory for our pupils.",
+        "Motivate them to use their skills to develop the ones required for a certain career.",
+        "Focus your comments on the popular domain, aptitude, and IQ exams.",
+        "Make our pupils’ professional profiles",
+        "Permit prospective employers to view these profiles",
+        "Connect with business and industry, and present our students’ profiles to them",
+        "Develop interview, group discussion, presentation, and other job-specific abilities.",
+        "For better placements, conduct recruitment processes by organisational criteria.",
+        "Give the industry and society as a whole the best human resources possible.",
+        "Give details on the numerous courses offered at various universities and the application process.",
+        "Advice on choosing universities both in India and overseas",
+        "Provide study guides for a variety of competitive exams, including the GMAT, CAT, GRE, and TOEFL.",
+        "The ability to prepare and take practice tests using audio and video.",
+        "Putting a lot of focus on improving written and spoken communication abilities",
+        "Advice on how to write a curriculum vitae, a resume, and report writing skills"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "about-placement\\index.html",
+  "route": "/about-placement"
+}

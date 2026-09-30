@@ -1,0 +1,149 @@
+{
+  "url": "https://akits.ac.in/infrastructure/hostel-3",
+  "title": "Hostel",
+  "meta_description": "A separate dormitory with well-lit, ventilated rooms for boys and girls on the campus of Abdul Kalam institute of technology & science.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Facilities",
+      "url": "https://akits.ac.in/infrastructure/"
+    },
+    {
+      "name": "Hostel",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/7-1-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Hostel"
+    },
+    {
+      "level": 4,
+      "text": "Hostel Committee"
+    }
+  ],
+  "paragraphs": [
+    "• A separate hostel facility is available for boys and girls and provided a separate cots to each and every student with well-lit, ventilated rooms for boys and girls on the campus of Abdul Kalam institute of technological & science.",
+    "• The health of the students staying in the hostel is supported by a mineral water plant and a medical centre.",
+    "•Food ,Snacks and drinks available at AKITS Cafeteria in all over the day",
+    "• Hostels offer security at all times.",
+    "• After College hours, hostel students have access to the internet, library resources, sports & games",
+    "•Tutorial Classes are conducted for hostel students."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/7-1-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/20190129_105649-1-1-1-scaled-q1bfwhn2v0178wcz0z3sqomy9awnm3asie2qd4bpvo.jpg",
+      "alt": "20190129_105649 (1) (1) (1)",
+      "width": "",
+      "height": "",
+      "class": ""
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/19_optimized_3000-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "attachment-large size-large wp-image-10252"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/20_optimized_3000-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "elementor-animation-grow attachment-large size-large wp-image-10253"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/DSC_1596-1-1-scaled-q1bhi2950zb0ajrmupyz29imzuu8xwdg5h4mbubmbc.jpg",
+      "alt": "DSC_1596 (1) (1)",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-grow"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/11_optimized_3000-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "elementor-animation-grow attachment-large size-large wp-image-10254"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Member",
+        "Designation",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mr.M.Lakpathi",
+          "Convenor",
+          "EEE"
+        ],
+        [
+          "2",
+          "Mr.B.Athiram",
+          "Hostel Warden",
+          "EEE"
+        ],
+        [
+          "3",
+          "Miss.S.Nagadurga Sree",
+          "Member",
+          "EEE"
+        ],
+        [
+          "4",
+          "Mrs.CH.Divya",
+          "Hostel Warden",
+          "ECE"
+        ],
+        [
+          "5",
+          "Mrs.CH.Manga",
+          "Member",
+          "H&S"
+        ],
+        [
+          "6",
+          "Mr.P.Babu Rao",
+          "Member",
+          "EEE"
+        ],
+        [
+          "7",
+          "Mr.B.Vinod",
+          "Member",
+          "MINING"
+        ],
+        [
+          "8",
+          "Mr.T.Vincent",
+          "Member",
+          "CSE"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "infrastructure\\hostel-3\\index.html",
+  "route": "/infrastructure/hostel-3"
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://akits.ac.in/infrastructure/nptel",
+  "title": "NPTEL",
+  "meta_description": "It is an initiative financed by the Ministry of Human Resource Development, Government of India, to create and promote open access, web-based, multimedia learning.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Facilities",
+      "url": "https://akits.ac.in/infrastructure/"
+    },
+    {
+      "name": "NPTEL",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/Untitled-design.png",
+  "headings": [
+    {
+      "level": 3,
+      "text": "NPTEL"
+    }
+  ],
+  "paragraphs": [
+    "Seven Indian Institutes of Technology (IIT-Bombay, Delhi, Kanpur, Kharagpur, Madras,Roorkee, and Guwahati) and the Indian Institute of Science, Bangalore, are responsible for the creation and management of the National Programme on Technology Enhanced Learning (NPTEL).",
+    "It is an initiative financed by the Ministry of Human Resource Development, Government of India, to create and promote open access, web-based, multimedia learning. Open online courses with certification have also been started by NPTEL, and new courses in many fields are frequently released."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/Untitled-design.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/IMG-20241206-WA0026-r55l3mqi9gk6bfq7vusn4mg9c1gyv18vnufcvn29q0.jpg",
+      "alt": "IMG-20241206-WA0026",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-grow"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/NPTL-PAPERS_page-0002-1024x717.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "717",
+      "class": "attachment-large size-large wp-image-10608"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/NPTL-PAPERS_page-0003-1024x727.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "727",
+      "class": "attachment-large size-large wp-image-10609"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/JSR-RMS-2-IJSDR-2_page-0001-1024x725.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "725",
+      "class": "attachment-large size-large wp-image-10610"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/certifi-sjetty_page-0001-1024x791.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "791",
+      "class": "attachment-large size-large wp-image-10612"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/NPTL-PAPERS_page-0006-1024x711.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "711",
+      "class": "attachment-large size-large wp-image-10613"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/NPTL-PAPERS_page-0005-1024x711.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "711",
+      "class": "attachment-large size-large wp-image-10614"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/studentmembercertificate_page-0001-791x1024.jpg",
+      "alt": "",
+      "width": "791",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-10615"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IAENG_membership_228533_page-0001-1-725x1024.jpg",
+      "alt": "",
+      "width": "725",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-10616"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "infrastructure\\nptel\\index.html",
+  "route": "/infrastructure/nptel"
+}

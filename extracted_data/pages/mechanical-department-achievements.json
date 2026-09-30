@@ -1,0 +1,70 @@
+{
+  "url": "https://akits.ac.in/mechanical-department-achievements",
+  "title": "Mechanical Department Achievements",
+  "meta_description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mechanical Department Achievements",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Achivements"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/me-300x200.png",
+      "alt": "",
+      "width": "300",
+      "height": "200",
+      "class": "attachment-medium size-medium"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/me2-300x150.png",
+      "alt": "",
+      "width": "300",
+      "height": "150",
+      "class": "attachment-medium size-medium"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mechanical-department-achievements\\index.html",
+  "route": "/mechanical-department-achievements"
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://akits.ac.in/thermal-engineering-mission-vision",
+  "title": "Thermal Engineering Mission & Vision",
+  "meta_description": "Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society.OUR MISSION To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical attitudes,",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Thermal Engineering Mission &amp; Vision",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Vision & Mission"
+    },
+    {
+      "level": 4,
+      "text": "OUR VISION"
+    },
+    {
+      "level": 4,
+      "text": "OUR MISSION"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "To be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society."
+  ],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "ordered",
+      "items": [
+        "To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical attitudes, technical knowledge, and professional skills.",
+        "To provide state-of-the-art facilities that will help students develop their analytical, problem-solving, and research skills to adapt to the changing needs of society.",
+        "To develop through counselling and mentoring the qualities of leadership and lifelong learning necessary for successful professional careers."
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "thermal-engineering-mission-vision\\index.html",
+  "route": "/thermal-engineering-mission-vision"
+}

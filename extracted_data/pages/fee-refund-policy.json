@@ -1,0 +1,42 @@
+{
+  "url": "https://akits.ac.in/fee-refund-policy",
+  "title": "Fee Refund Policy",
+  "meta_description": "FEE REFUND POLICY FEE REFUND POLICY FEE REFUND POLICY 2024-25",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Fee Refund Policy",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 4,
+      "text": "FEE REFUND POLICY"
+    },
+    {
+      "level": 2,
+      "text": "FEE REFUND POLICY"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/AKITS-UGC_Fee_Refund_Policy2024-25.pdf",
+      "text": "FEE REFUND POLICY 2024-25",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "fee-refund-policy\\index.html",
+  "route": "/fee-refund-policy"
+}

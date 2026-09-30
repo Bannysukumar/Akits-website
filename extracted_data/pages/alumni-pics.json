@@ -1,0 +1,138 @@
+{
+  "url": "https://akits.ac.in/alumni-pics",
+  "title": "Alumni PIcs | Abdul Kalam Institute of Technology & Science",
+  "meta_description": "Checkout our Alumni pics here.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Alumni Pics",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/13-1-1.jpg",
+  "headings": [
+    {
+      "level": 3,
+      "text": "MECHTRIX-2k22"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/13-1-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499117.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4082"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499068.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4081"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499000.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4080"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499279.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4068"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499227.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4061"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499195.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4060"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866498970.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4059"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499046.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4062"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499025.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4057"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499140.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4067"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499332.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4079"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499358-1.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4077"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499257-1.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4069"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/1671866499095.jpg",
+      "alt": "",
+      "width": "600",
+      "height": "400",
+      "class": "attachment-large size-large wp-image-4066"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "alumni-pics\\index.html",
+  "route": "/alumni-pics"
+}

@@ -1,0 +1,72 @@
+{
+  "url": "https://akits.ac.in/about-mechanical-department",
+  "title": "About Mechanical Department",
+  "meta_description": "ABOUT OUR DEPARTMENT The Department of Mechanical Engineering was established in 2007, and it has been acting as a support department for other disciplines ever since. In terms of staff, students, and activities, the Department is one of the biggest in best mechanical engineering colleges. It also continues to take the lead and grow its activities",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "About Mechanical Department",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "ABOUT OUR DEPARTMENT"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    },
+    {
+      "level": 4,
+      "text": "Strength of the Department"
+    }
+  ],
+  "paragraphs": [
+    "The Department of Mechanical Engineering was established in 2007, and it has been acting as a support department for other disciplines ever since. In terms of staff, students, and activities, the Department is one of the biggest in best mechanical engineering colleges. It also continues to take the lead and grow its activities in a variety of ways. The department now offers a Diploma Course, one M. Tech. Thermal Engineering post-graduate programme, and undergraduate programmes.",
+    "The department has excellent resources, including both traditional equipment and the most recent software. ANSYS, CFD, CREO, AUTOCAD, and EDGECAM are just a few of the engineering software programmes that the department has loaded onto its more than 60 workstations and computing systems.",
+    "The department features a central workshop facility that is adequately furnished with the essential tools for providing technical instruction to students across all subject areas.15 laboratories and 1 center of excellence support the academic activities.",
+    "The Department is expanding its services for industrial consulting and has strong industry-institute ties. The students consistently achieve high rankings and scores in all competitive exams, including the UPSC, GATE, GRE, CAT, GMAT, TOEFL, and IELTS tests. The Department has alumni located all over the world."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/Picture4-q05ltbuiza3i9jdy0hcd8957mvh3nmz7d7bqvcvnp4.png",
+      "alt": "Picture4",
+      "width": "",
+      "height": "",
+      "class": "elementor-animation-pulse-shrink"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "about-mechanical-department\\index.html",
+  "route": "/about-mechanical-department"
+}

@@ -1,0 +1,73 @@
+{
+  "url": "https://akits.ac.in/eee-hod-profile",
+  "title": "EEE Hod Profile",
+  "meta_description": "HOD PROFILE Mr.P.BABU RAO is a Associate Professor and Head of the Electrical & Electronics Engineering Department. He is pursuing PhD in Power Electronics and Drives from Sri Satyasai University of Technology and Medical Sciences.-M.P.He received M.Tech in Power Electronics from Jawaharlal Nehru Technological University-hyderabad in 2010, B.Tech degree in Electrical & Electronics Engineering from",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "EEE Hod Profile",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "HOD PROFILE"
+    },
+    {
+      "level": 2,
+      "text": "Mr. P.BABU RAO"
+    },
+    {
+      "level": 2,
+      "text": "M.Tech.(Ph.D)"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "Mr.P.BABU RAO is a Associate Professor and Head of the Electrical & Electronics Engineering Department. He is pursuing PhD in Power Electronics and Drives from Sri Satyasai University of Technology and Medical Sciences.-M.P.He received M.Tech in Power Electronics from Jawaharlal Nehru Technological University-hyderabad in 2010, B.Tech degree in Electrical & Electronics Engineering from Dr.PalRaj College of Engineering, Bhadrachalam in 2001.He has a teaching experience of 20+ years. His research includes FACTS controllers, power electronics applications to power systems, optimization techniques and power system operation & control. He has published 16 National/International Journals & Conferences."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/DSC_1564.jpg",
+      "alt": "",
+      "width": "193",
+      "height": "224",
+      "class": "attachment-full size-full wp-image-3214"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "eee-hod-profile\\index.html",
+  "route": "/eee-hod-profile"
+}

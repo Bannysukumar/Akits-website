@@ -1,0 +1,823 @@
+[
+  {
+    "label": "Home",
+    "href": "https://akits.ac.in/",
+    "path": "/"
+  },
+  {
+    "label": "About",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "About Us",
+        "href": "https://akits.ac.in/about-us/",
+        "path": "about-us"
+      },
+      {
+        "label": "Service Rules",
+        "href": "https://akits.ac.in/about/service-rules/",
+        "path": "about/service-rules"
+      },
+      {
+        "label": "Mandatory Disclosure",
+        "href": "https://akits.ac.in/mandatory-documents/mandatory-discourse/",
+        "path": "mandatory-documents/mandatory-discourse"
+      }
+    ]
+  },
+  {
+    "label": "Administration",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Administration",
+        "href": "https://akits.ac.in/administration/",
+        "path": "administration"
+      },
+      {
+        "label": "Teaching Faculty",
+        "href": "https://akits.ac.in/teaching-staff/",
+        "path": "teaching-staff"
+      },
+      {
+        "label": "Non-Teaching Staff",
+        "href": "https://akits.ac.in/non-teaching-staff/",
+        "path": "non-teaching-staff"
+      }
+    ]
+  },
+  {
+    "label": "Admissions",
+    "href": "https://akits.ac.in/admissions/",
+    "path": "admissions",
+    "children": [
+      {
+        "label": "Prospectus",
+        "href": "https://akits.ac.in/prospectus/",
+        "path": "prospectus"
+      },
+      {
+        "label": "Fee Refund Policy",
+        "href": "https://akits.ac.in/fee-refund-policy/",
+        "path": "fee-refund-policy"
+      },
+      {
+        "label": "Admission Process and Guidelines",
+        "href": "https://akits.ac.in/admission-process-and-guidelines/",
+        "path": "admission-process-and-guidelines"
+      }
+    ]
+  },
+  {
+    "label": "Academics",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Calendar",
+        "href": "https://akits.ac.in/academics/calender/",
+        "path": "academics/calender"
+      },
+      {
+        "label": "Syllabus",
+        "href": "https://akits.ac.in/academics/syllabus/",
+        "path": "academics/syllabus"
+      },
+      {
+        "label": "Regulations",
+        "href": "https://akits.ac.in/academics/regulations/",
+        "path": "academics/regulations"
+      },
+      {
+        "label": "Academic Photos",
+        "href": "https://akits.ac.in/academic-photos/",
+        "path": "academic-photos"
+      },
+      {
+        "label": "Non-Academics Photos",
+        "href": "https://akits.ac.in/non-academics-photos/",
+        "path": "non-academics-photos"
+      },
+      {
+        "label": "Exam Notifications",
+        "href": "https://akits.ac.in/exam-notifications/",
+        "path": "exam-notifications"
+      }
+    ]
+  },
+  {
+    "label": "Departments",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "(AI & ML)",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About AIML Department",
+            "href": "https://akits.ac.in/about-aiml-department/",
+            "path": "about-aiml-department"
+          },
+          {
+            "label": "AIML Vision & Mission",
+            "href": "https://akits.ac.in/aiml-vision-mission/",
+            "path": "aiml-vision-mission"
+          },
+          {
+            "label": "AIML Hod Profile",
+            "href": "https://akits.ac.in/aiml-hod-profile/",
+            "path": "aiml-hod-profile"
+          },
+          {
+            "label": "AIML Faculty",
+            "href": "https://akits.ac.in/aiml-faculty/",
+            "path": "aiml-faculty"
+          },
+          {
+            "label": "AIML Labs",
+            "href": "https://akits.ac.in/aiml-labs/",
+            "path": "aiml-labs"
+          },
+          {
+            "label": "AIML Department Achievements",
+            "href": "https://akits.ac.in/aiml-epartment-achievements/",
+            "path": "aiml-epartment-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Computer Science & Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Our CSE Department",
+            "href": "https://akits.ac.in/about-our-cse-department/",
+            "path": "about-our-cse-department"
+          },
+          {
+            "label": "Mission & Vission Of CSE",
+            "href": "https://akits.ac.in/mission-vision-of-cse/",
+            "path": "mission-vision-of-cse"
+          },
+          {
+            "label": "CSE HOD Profile",
+            "href": "https://akits.ac.in/cse-hod-profile/",
+            "path": "cse-hod-profile"
+          },
+          {
+            "label": "CSE Faculty",
+            "href": "https://akits.ac.in/cse-faculty/",
+            "path": "cse-faculty"
+          },
+          {
+            "label": "CSE Labs",
+            "href": "https://akits.ac.in/cse-labs/",
+            "path": "cse-labs"
+          },
+          {
+            "label": "Cse Achievements",
+            "href": "https://akits.ac.in/cse-achievements/",
+            "path": "cse-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Electronics & Communications Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About ECE Department",
+            "href": "https://akits.ac.in/about-ece-department/",
+            "path": "about-ece-department"
+          },
+          {
+            "label": "ECE Vision & Mission",
+            "href": "https://akits.ac.in/ece-vision-mission/",
+            "path": "ece-vision-mission"
+          },
+          {
+            "label": "ECE Hod Profile",
+            "href": "https://akits.ac.in/ece-hod-profile/",
+            "path": "ece-hod-profile"
+          },
+          {
+            "label": "ECE Faculty",
+            "href": "https://akits.ac.in/ece-faculty/",
+            "path": "ece-faculty"
+          },
+          {
+            "label": "ECE Labs",
+            "href": "https://akits.ac.in/ece-labs/",
+            "path": "ece-labs"
+          },
+          {
+            "label": "ECE Department Achievements",
+            "href": "https://akits.ac.in/ece-department-achievements/",
+            "path": "ece-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Electrical & Electronics Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About EEE Department",
+            "href": "https://akits.ac.in/about-eee-department/",
+            "path": "about-eee-department"
+          },
+          {
+            "label": "EEE Vision & Mission",
+            "href": "https://akits.ac.in/eee-vision-mission/",
+            "path": "eee-vision-mission"
+          },
+          {
+            "label": "EEE Hod Profile",
+            "href": "https://akits.ac.in/eee-hod-profile/",
+            "path": "eee-hod-profile"
+          },
+          {
+            "label": "EEE Faculty",
+            "href": "https://akits.ac.in/eee-faculty/",
+            "path": "eee-faculty"
+          },
+          {
+            "label": "EEE Labs",
+            "href": "https://akits.ac.in/eee-labs/",
+            "path": "eee-labs"
+          },
+          {
+            "label": "EEE Department Achievements",
+            "href": "https://akits.ac.in/eee-department-achievements/",
+            "path": "eee-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Mechanical Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Mechanical Department",
+            "href": "https://akits.ac.in/about-mechanical-department/",
+            "path": "about-mechanical-department"
+          },
+          {
+            "label": "Mechanical Vision & Mission",
+            "href": "https://akits.ac.in/mechanical-vision-mission/",
+            "path": "mechanical-vision-mission"
+          },
+          {
+            "label": "Mechanical Hod Profile",
+            "href": "https://akits.ac.in/mechanical-hod-profile/",
+            "path": "mechanical-hod-profile"
+          },
+          {
+            "label": "Mechanical Faculty",
+            "href": "https://akits.ac.in/mechanical-faculty/",
+            "path": "mechanical-faculty"
+          },
+          {
+            "label": "Mechanical Labs",
+            "href": "https://akits.ac.in/mechanical-labs/",
+            "path": "mechanical-labs"
+          },
+          {
+            "label": "Mechanical Department Achievements",
+            "href": "https://akits.ac.in/mechanical-department-achievements/",
+            "path": "mechanical-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Civil Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Civil Engineering Department",
+            "href": "https://akits.ac.in/about-civil-engineering-department/",
+            "path": "about-civil-engineering-department"
+          },
+          {
+            "label": "Civil Engineering Vision & Mission",
+            "href": "https://akits.ac.in/civil-engineering-vision-mission/",
+            "path": "civil-engineering-vision-mission"
+          },
+          {
+            "label": "Civil Engineering Hod Profile",
+            "href": "https://akits.ac.in/civil-engineering-hod-profile/",
+            "path": "civil-engineering-hod-profile"
+          },
+          {
+            "label": "Civil Engineering Faculty",
+            "href": "https://akits.ac.in/civil-engineering-faculty/",
+            "path": "civil-engineering-faculty"
+          },
+          {
+            "label": "Civil Engineering Labs",
+            "href": "https://akits.ac.in/civil-engineering-labs/",
+            "path": "civil-engineering-labs"
+          },
+          {
+            "label": "Civil Department Achievements",
+            "href": "https://akits.ac.in/civil-department-achievements/",
+            "path": "civil-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Mining Engineering",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Mining Engineering",
+            "href": "https://akits.ac.in/about-mining-engineering/",
+            "path": "about-mining-engineering"
+          },
+          {
+            "label": "Mining Engineering Mission & Vision",
+            "href": "https://akits.ac.in/mining-engineering-mission-vision/",
+            "path": "mining-engineering-mission-vision"
+          },
+          {
+            "label": "Mining Engineering Hod Profile",
+            "href": "https://akits.ac.in/mining-engineering-hod-profile/",
+            "path": "mining-engineering-hod-profile"
+          },
+          {
+            "label": "Mining Engineering Faculty",
+            "href": "https://akits.ac.in/mining-engineering-faculty/",
+            "path": "mining-engineering-faculty"
+          },
+          {
+            "label": "Mining Engineering Labs",
+            "href": "https://akits.ac.in/mining-engineering-labs/",
+            "path": "mining-engineering-labs"
+          },
+          {
+            "label": "Mining Engineering Department Achievements",
+            "href": "https://akits.ac.in/mining-engineering-department-achievements/",
+            "path": "mining-engineering-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Master Of Business Administration",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About MBA",
+            "href": "https://akits.ac.in/about-mba/",
+            "path": "about-mba"
+          },
+          {
+            "label": "MBA Mission & Vision",
+            "href": "https://akits.ac.in/mba-mission-vision/",
+            "path": "mba-mission-vision"
+          },
+          {
+            "label": "MBA Hod Profile",
+            "href": "https://akits.ac.in/mba-hod-profile/",
+            "path": "mba-hod-profile"
+          },
+          {
+            "label": "MBA Faculty",
+            "href": "https://akits.ac.in/mba-faculty/",
+            "path": "mba-faculty"
+          },
+          {
+            "label": "MBA Labs",
+            "href": "https://akits.ac.in/mba-labs/",
+            "path": "mba-labs"
+          },
+          {
+            "label": "MBA Department Achievements",
+            "href": "https://akits.ac.in/mba-department-achievements/",
+            "path": "mba-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "M.Tech(Electrical Power System)",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Electrical Power System",
+            "href": "https://akits.ac.in/about-electrical-power-system/",
+            "path": "about-electrical-power-system"
+          },
+          {
+            "label": "Electrical Power System Vision & Mission",
+            "href": "https://akits.ac.in/electrical-power-system-vision-mission/",
+            "path": "electrical-power-system-vision-mission"
+          },
+          {
+            "label": "Electrical Power System Hod Profile",
+            "href": "https://akits.ac.in/electrical-power-system-hod-profile/",
+            "path": "electrical-power-system-hod-profile"
+          },
+          {
+            "label": "Electrical Power System Faculty",
+            "href": "https://akits.ac.in/electrical-power-system-faculty/",
+            "path": "electrical-power-system-faculty"
+          },
+          {
+            "label": "Electrical Power System Labs",
+            "href": "https://akits.ac.in/electrical-power-system-labs/",
+            "path": "electrical-power-system-labs"
+          },
+          {
+            "label": "Electrical Power System Department Achievements",
+            "href": "https://akits.ac.in/electrical-power-system-department-achievements/",
+            "path": "electrical-power-system-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "M.Tech (Thermal Engineering)",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Thermal Engineering",
+            "href": "https://akits.ac.in/about-thermal-engineering/",
+            "path": "about-thermal-engineering"
+          },
+          {
+            "label": "Thermal Engineering Mission & Vision",
+            "href": "https://akits.ac.in/thermal-engineering-mission-vision/",
+            "path": "thermal-engineering-mission-vision"
+          },
+          {
+            "label": "Thermal Engineering Hod Profile",
+            "href": "https://akits.ac.in/thermal-engineering-hod-profile/",
+            "path": "thermal-engineering-hod-profile"
+          },
+          {
+            "label": "Thermal Engineering Faculty",
+            "href": "https://akits.ac.in/thermal-engineering-faculty/",
+            "path": "thermal-engineering-faculty"
+          },
+          {
+            "label": "Thermal Engineering Labs",
+            "href": "https://akits.ac.in/thermal-engineering-labs/",
+            "path": "thermal-engineering-labs"
+          },
+          {
+            "label": "Thermal Engineering Department Achievements",
+            "href": "https://akits.ac.in/thermal-engineering-department-achievements/",
+            "path": "thermal-engineering-department-achievements"
+          }
+        ]
+      },
+      {
+        "label": "Data Science",
+        "href": "#",
+        "path": "#",
+        "children": [
+          {
+            "label": "About Data Science",
+            "href": "https://akits.ac.in/about-data-science/",
+            "path": "about-data-science"
+          },
+          {
+            "label": "Mission & Vision of Data Science",
+            "href": "https://akits.ac.in/mission-vision-of-data-science/",
+            "path": "mission-vision-of-data-science"
+          },
+          {
+            "label": "Data Science Hod Profile",
+            "href": "https://akits.ac.in/data-science-hod-profile/",
+            "path": "data-science-hod-profile"
+          },
+          {
+            "label": "Data Science Faculty",
+            "href": "https://akits.ac.in/data-science-faculty/",
+            "path": "data-science-faculty"
+          },
+          {
+            "label": "Data Science Labs",
+            "href": "https://akits.ac.in/data-science-labs/",
+            "path": "data-science-labs"
+          },
+          {
+            "label": "Data Science Department Achievements",
+            "href": "https://akits.ac.in/data-science-depart-achievements/",
+            "path": "data-science-depart-achievements"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Placements",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "About Placement",
+        "href": "https://akits.ac.in/about-placement/",
+        "path": "about-placement"
+      },
+      {
+        "label": "Placement Activities",
+        "href": "https://akits.ac.in/training-placements/placement-activities/",
+        "path": "training-placements/placement-activities"
+      },
+      {
+        "label": "Training Activities",
+        "href": "https://akits.ac.in/training-placements/placement-training/",
+        "path": "training-placements/placement-training"
+      },
+      {
+        "label": "Recruiting Companies",
+        "href": "https://akits.ac.in/training-placements/recruiting-companies/",
+        "path": "training-placements/recruiting-companies"
+      },
+      {
+        "label": "Placement Record",
+        "href": "https://akits.ac.in/placement-record/",
+        "path": "placement-record"
+      },
+      {
+        "label": "Placement Photos",
+        "href": "https://akits.ac.in/placement-photos/",
+        "path": "placement-photos"
+      }
+    ]
+  },
+  {
+    "label": "Facilities & Committees",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Grievance Redressal Committee",
+        "href": "https://akits.ac.in/infrastructure/grievance/",
+        "path": "infrastructure/grievance"
+      },
+      {
+        "label": "Anti Ragging Committee",
+        "href": "https://akits.ac.in/infrastructure/anti-ragging-committee/",
+        "path": "infrastructure/anti-ragging-committee"
+      },
+      {
+        "label": "Committee For SC/ST",
+        "href": "https://akits.ac.in/committee-for-sc-st/",
+        "path": "committee-for-sc-st"
+      },
+      {
+        "label": "Internal Compliant Committee",
+        "href": "https://akits.ac.in/internal-compliant-committee/",
+        "path": "internal-compliant-committee"
+      },
+      {
+        "label": "Cultural Celebrations",
+        "href": "https://akits.ac.in/cultural-celebrations/",
+        "path": "cultural-celebrations"
+      },
+      {
+        "label": "Minority Cell",
+        "href": "https://akits.ac.in/minority-cell/",
+        "path": "minority-cell"
+      },
+      {
+        "label": "OBC Cell",
+        "href": "https://akits.ac.in/obc-cell/",
+        "path": "obc-cell"
+      },
+      {
+        "label": "NSS / NCC",
+        "href": "https://akits.ac.in/infrastructure/nss/",
+        "path": "infrastructure/nss"
+      },
+      {
+        "label": "Sports",
+        "href": "https://akits.ac.in/sports/",
+        "path": "sports"
+      },
+      {
+        "label": "Equal Opportunity Cell",
+        "href": "https://akits.ac.in/equal-opportunity-cell/",
+        "path": "equal-opportunity-cell"
+      },
+      {
+        "label": "Sexual Harassment Committee",
+        "href": "https://akits.ac.in/sexual-harassment-committee/",
+        "path": "sexual-harassment-committee"
+      },
+      {
+        "label": "TCS&NTA Exam Cell",
+        "href": "https://akits.ac.in/infrastructure/tcsnta-exam-cell/",
+        "path": "infrastructure/tcsnta-exam-cell"
+      },
+      {
+        "label": "Transportation",
+        "href": "https://akits.ac.in/infrastructure/transportation/",
+        "path": "infrastructure/transportation"
+      },
+      {
+        "label": "Library",
+        "href": "https://akits.ac.in/infrastructure/library/",
+        "path": "infrastructure/library"
+      },
+      {
+        "label": "Hostel",
+        "href": "https://akits.ac.in/infrastructure/hostel-3/",
+        "path": "infrastructure/hostel-3"
+      },
+      {
+        "label": "Cafeteria",
+        "href": "https://akits.ac.in/infrastructure/cafeteria/",
+        "path": "infrastructure/cafeteria"
+      },
+      {
+        "label": "NPTEL",
+        "href": "https://akits.ac.in/infrastructure/nptel/",
+        "path": "infrastructure/nptel"
+      },
+      {
+        "label": "IIC",
+        "href": "https://akits.ac.in/infrastructure/iicinstitute-industries-interaction-council/",
+        "path": "infrastructure/iicinstitute-industries-interaction-council"
+      }
+    ]
+  },
+  {
+    "label": "RTI",
+    "href": "https://akits.ac.in/rti/",
+    "path": "rti"
+  },
+  {
+    "label": "Mandatory Documents",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "AICTE",
+        "href": "https://akits.ac.in/mandatory-documents/aicte/",
+        "path": "mandatory-documents/aicte"
+      },
+      {
+        "label": "NIR",
+        "href": "https://akits.ac.in/nir/",
+        "path": "nir"
+      },
+      {
+        "label": "NIRF",
+        "href": "https://akits.ac.in/nirf/",
+        "path": "nirf"
+      },
+      {
+        "label": "ISO",
+        "href": "https://akits.ac.in/mandatory-documents/iso/",
+        "path": "mandatory-documents/iso"
+      },
+      {
+        "label": "JNTUH",
+        "href": "https://akits.ac.in/jntuh/",
+        "path": "jntuh"
+      },
+      {
+        "label": "UGC 2F & 12B",
+        "href": "https://akits.ac.in/ugc-2f12b/",
+        "path": "ugc-2f12b"
+      },
+      {
+        "label": "OMBUDSMAN",
+        "href": "https://akits.ac.in/mandatory-documents/ombudsman/",
+        "path": "mandatory-documents/ombudsman"
+      },
+      {
+        "label": "ISTE Chapter",
+        "href": "https://akits.ac.in/iste-chapter/",
+        "path": "iste-chapter"
+      },
+      {
+        "label": "Online Greviance Redressal Form",
+        "href": "https://akits.ac.in/mandatory-documents/online-greviance-redressal-form/",
+        "path": "mandatory-documents/online-greviance-redressal-form"
+      },
+      {
+        "label": "MOUS & Collobrations",
+        "href": "https://akits.ac.in/mous-collobrations/",
+        "path": "mous-collobrations"
+      }
+    ]
+  },
+  {
+    "label": "NAAC",
+    "href": "https://akits.ac.in/mandatory-documents/naac/",
+    "path": "mandatory-documents/naac",
+    "children": [
+      {
+        "label": "IIQA",
+        "href": "https://akits.ac.in/iiaq/",
+        "path": "iiaq"
+      },
+      {
+        "label": "DVV",
+        "href": "https://akits.ac.in/dvv/",
+        "path": "dvv"
+      },
+      {
+        "label": "IQAC",
+        "href": "https://akits.ac.in/iqac/",
+        "path": "iqac"
+      }
+    ]
+  },
+  {
+    "label": "Alumni",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Alumni",
+        "href": "https://akits.ac.in/alumni/",
+        "path": "alumni"
+      },
+      {
+        "label": "Alumni Registration",
+        "href": "https://akits.ac.in/alumni-registration/",
+        "path": "alumni-registration"
+      },
+      {
+        "label": "Alumni Pics",
+        "href": "https://akits.ac.in/alumni-pics/",
+        "path": "alumni-pics"
+      }
+    ]
+  },
+  {
+    "label": "R&D Cell",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Research",
+        "href": "https://akits.ac.in/research/",
+        "path": "research"
+      },
+      {
+        "label": "Journal Publications",
+        "href": "https://akits.ac.in/journal-publications/",
+        "path": "journal-publications"
+      },
+      {
+        "label": "Book Chapter Publicaitons",
+        "href": "https://akits.ac.in/book-chapter-publicaitons/",
+        "path": "book-chapter-publicaitons"
+      },
+      {
+        "label": "Miscellinous",
+        "href": "https://akits.ac.in/miscellinous/",
+        "path": "miscellinous"
+      }
+    ]
+  },
+  {
+    "label": "ERP",
+    "href": "https://akits.ac.in/erp/",
+    "path": "erp"
+  },
+  {
+    "label": "Gallery",
+    "href": "#",
+    "path": "#",
+    "children": [
+      {
+        "label": "Photo Gallery",
+        "href": "https://akits.ac.in/gallery/photo-gallery/",
+        "path": "gallery/photo-gallery"
+      },
+      {
+        "label": "Media Gallery",
+        "href": "https://akits.ac.in/gallery/media-gallery/",
+        "path": "gallery/media-gallery"
+      },
+      {
+        "label": "Video Gallery",
+        "href": "https://akits.ac.in/gallery/video-gallery/",
+        "path": "gallery/video-gallery"
+      }
+    ]
+  },
+  {
+    "label": "Contact Us",
+    "href": "https://akits.ac.in/contact-us/",
+    "path": "contact-us"
+  }
+]

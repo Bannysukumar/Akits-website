@@ -1,0 +1,78 @@
+{
+  "url": "https://akits.ac.in/training-placements/placement-training",
+  "title": "Training Activities",
+  "meta_description": "We conduct Traning activities for our student to get better in every aspect of their learning",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Training & Placement",
+      "url": "https://akits.ac.in/training-placements/"
+    },
+    {
+      "name": "Training Activities",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/10-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Training Activities"
+    }
+  ],
+  "paragraphs": [
+    "As we move forward with this academic year (2007–2008), Abdul Kalam college in Kothagudem is developing a strong Training and Placement/HR team to help place our future students and engineers. By sponsoring them during their semester breaks, students are exposed to the industry and outside environment in addition to the university-framed academics. By encouraging them to sponsor programmes like industrial seminars, entrepreneurship development programmes, organising seminars by corporate executives and eminent academicians, and coaching them for GATE, GRE, GMAT, and TOFEL, among other things, the Training and Placement Department at Abdul Kalam Institute of Technological Sciences also plays a crucial role in the career development of the students.",
+    "Student Career Development:",
+    "Our Future Activities:"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/10-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Our Training and Placement divison will also engages campus placement interviews from various industries organisations for final year students of all branches of Engineering students.",
+        "To meet the growing demand of quality teachers Engineering colleges Training and Placement divison also identifies students who are interested in teaching career and forwarding them to early induction programme conducted by AICTE, New Delhi.",
+        "The Department receives guidence from the senior faculty members of the college and also advisors from external professional bodies and leading HRD consultants."
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "The rapidly advancing technological innovations around the world push educational institutions to shape college-admitted pupils to make them stand out in a cutthroat environment.",
+        "In addition to university coursework, the Abdulkalam Institute of Technological Sciences offers courses that are career-focused according to the area of study.",
+        "The orientation programmes force the student to learn about related engineering disciplines to meet industry requirements.",
+        "The GRE, TOEFL, GATE, and other competitive tests are among those for which students are trained by a separate cell of the Bureau of Higher Studies.",
+        "By financing them for seminars held by various institutes and organisations as well as by hosting monthly seminars on campus, students are also encouraged to improve their communication abilities.",
+        "Depending on their interests and preferences, students can study on separate computers with a variety of CD-ROM titles spanning technical and general knowledge."
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "The relationship between industry and institution",
+        "Information sharing, education, and training",
+        "Arranging for seminars and expert presentations from academics and industry",
+        "Offering options for both on- and off-campus selecting programmes",
+        "Logistics"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "training-placements\\placement-training\\index.html",
+  "route": "/training-placements/placement-training"
+}

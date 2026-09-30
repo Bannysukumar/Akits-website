@@ -1,0 +1,95 @@
+{
+  "url": "https://akits.ac.in/thermal-engineering-faculty",
+  "title": "Thermal Engineering Faculty",
+  "meta_description": "OUR FACULTY M.TECH(TE)Faculty List S.No Name of the Faculty Designation Experience/Years 1 Dr.RAMAKRISHNA MUCHARLA Professor 22 2 Dr.VENKATA NARAYANA BEERAVELLI Associate Professor 16 3 Dr.V SITARAM PRASAD VEERAVELLI Professor 25 3 Mr.YANAKAPATI KRISHNA Associate Professor 8 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Thermal Engineering Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "M.TECH(TE)Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image.jpg",
+      "alt": "",
+      "width": "316",
+      "height": "159",
+      "class": "attachment-full size-full wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Faculty",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.RAMAKRISHNA MUCHARLA",
+          "Professor",
+          "22"
+        ],
+        [
+          "2",
+          "Dr.VENKATA NARAYANA BEERAVELLI",
+          "Associate Professor",
+          "16"
+        ],
+        [
+          "3",
+          "Dr.V SITARAM PRASAD VEERAVELLI",
+          "Professor",
+          "25"
+        ],
+        [
+          "3",
+          "Mr.YANAKAPATI KRISHNA",
+          "Associate Professor",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "thermal-engineering-faculty\\index.html",
+  "route": "/thermal-engineering-faculty"
+}

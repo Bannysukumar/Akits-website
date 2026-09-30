@@ -1,0 +1,156 @@
+{
+  "url": "https://akits.ac.in/mining-engineering-faculty",
+  "title": "Mining Engineering Faculty",
+  "meta_description": "OUR FACULTY MINING Faculty List S.No Faculty Name Designation Experience/Years 1 VINOD BANOTH Assistant Professor 8 2 DONGIRI PRASANTH Assistant Professor 5 3 VIKRAM SAKINALA Assistant Professor 6 4 MUNIPALA MANOHAR Assistant Professor 4 5 SAI NARENDRA PENTA Assistant Professor 4 6 BALAKRISHNA SURLA Assistant Professor 3 7 BANOTH PRASAD Assistant Professor 6 8 VENKATARAM",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mining Engineering Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "MINING Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/1-2-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image.jpg",
+      "alt": "",
+      "width": "316",
+      "height": "159",
+      "class": "attachment-large size-large wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Faculty Name",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "VINOD BANOTH",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "2",
+          "DONGIRI PRASANTH",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "3",
+          "VIKRAM SAKINALA",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "4",
+          "MUNIPALA MANOHAR",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "5",
+          "SAI NARENDRA PENTA",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "6",
+          "BALAKRISHNA SURLA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "7",
+          "BANOTH PRASAD",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "8",
+          "VENKATARAM KOCHERLAKOTA",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "9",
+          "MALOTH RAMESH",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "10",
+          "YAMMANURU MABU SUBAHAN",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "11",
+          "SAYED SAYEEDUDDINZABI",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "12",
+          "MOHAMMAD YAKUB PASHA",
+          "Assistant Professor",
+          "2"
+        ],
+        [
+          "13",
+          "SATHUNURI KIRAN",
+          "Assistant Professor",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mining-engineering-faculty\\index.html",
+  "route": "/mining-engineering-faculty"
+}

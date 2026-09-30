@@ -1,0 +1,35 @@
+{
+  "url": "https://akits.ac.in/alumni-registration",
+  "title": "Alumni Registration | Abdul Kalam Institute of Technology & Science",
+  "meta_description": "Register with Alumni by filling out this form",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Alumni Registration",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Alumni Registration"
+    }
+  ],
+  "paragraphs": [
+    "First First Last Last",
+    "Father’s Name Parent Status Roll Number * Your Batch Your Branch Email Mobile Number * Alternative Mobile No Date Of Birth Job/Study Profile Job/Study Profile Address If you are human, leave this field blank. Submit"
+  ],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "alumni-registration\\index.html",
+  "route": "/alumni-registration"
+}

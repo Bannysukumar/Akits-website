@@ -1,0 +1,71 @@
+{
+  "url": "https://akits.ac.in/ece-hod-profile",
+  "title": "ECE Hod Profile",
+  "meta_description": "HOD PROFILE Sri G.KRISHNA MOHAN,B.Tech, M.Tech,(Ph.D) is the department’s head. He has been teaching in Electronic and communication for 14 years and has produced several research publications in both national and international journals. The department has highly trained and committed instructors that train students for overall growth. The department offers educational tools for students to",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "ECE Hod Profile",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electronic-communication.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "HOD PROFILE"
+    },
+    {
+      "level": 2,
+      "text": "Mr. G.KRISHNA MOHAN"
+    },
+    {
+      "level": 2,
+      "text": "M.Tech.(Ph.D)"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electronic-communication.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2022/12/IMG-20221222-WA0032-1.jpg",
+      "alt": "",
+      "width": "278",
+      "height": "300",
+      "class": "attachment-medium size-medium wp-image-3189"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "ece-hod-profile\\index.html",
+  "route": "/ece-hod-profile"
+}

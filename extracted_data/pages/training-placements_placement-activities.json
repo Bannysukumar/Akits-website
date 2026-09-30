@@ -1,0 +1,87 @@
+{
+  "url": "https://akits.ac.in/training-placements/placement-activities",
+  "title": "Placement Activities",
+  "meta_description": "We Conduct So many Placement Drives and activities for our students to get a better job in reputed company",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Training & Placement",
+      "url": "https://akits.ac.in/training-placements/"
+    },
+    {
+      "name": "Placement Activities",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/10-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Placement Activities"
+    }
+  ],
+  "paragraphs": [
+    "Final placements at the best educational institutions are the product of extremely methodical interactions between the business community and the students, as well as ongoing career counselling. Students get ongoing career guidance from the outset of the programme, and this guidance is rigorously followed up with potential employers to secure their participation in the Institute’s placement programme. In addition to assisting the students in landing their “dream employment,” this also helps the visiting placement organisations find the “best” applicant for their business."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/10-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.No",
+          "Name of the Organization",
+          "Skill Development Activity"
+        ],
+        [
+          "1.",
+          "Telangana Academy for Skill and Knowledge (TASK)",
+          "Aptitude, Soft Skills and Technical Trainings"
+        ],
+        [
+          "2.",
+          "IT Curve, Hyderabad",
+          "Aptitude, Soft Skills training"
+        ],
+        [
+          "3.",
+          "Myaks Skills Lab, Hyderabad",
+          "Aptitude, Communication, Soft Skills, Psychology, Mock Interviews, tests, technical training and Counseling"
+        ],
+        [
+          "4.",
+          "Skill You Enterprises Ltd., Hyderabad",
+          "Technical Training"
+        ],
+        [
+          "5.",
+          "Salesforce",
+          "Salesforce Technology"
+        ],
+        [
+          "6.",
+          "Oracle",
+          "Oracle DBMS"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "training-placements\\placement-activities\\index.html",
+  "route": "/training-placements/placement-activities"
+}

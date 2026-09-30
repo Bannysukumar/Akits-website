@@ -1,0 +1,68 @@
+{
+  "url": "https://akits.ac.in/about-us",
+  "title": "The best engineering colleges",
+  "meta_description": "We are one of the best engineering colleges where students can enjoy high-quality education and skills.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "About Us",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/About-Us-banner-1536x394-1.png",
+  "headings": [
+    {
+      "level": 3,
+      "text": "OUR COLLEGE"
+    },
+    {
+      "level": 4,
+      "text": "Mission"
+    },
+    {
+      "level": 4,
+      "text": "Vision"
+    }
+  ],
+  "paragraphs": [
+    "Abdul Kalam Institute of Technological Sciences (AKITS) located at Kothagudem- an industrial hub in BhadradriKothagudem district ,is sponsored by the “Global Educational Society”,with the Governing Body Members are Ln. Dosapati Venkateswar Rao as Chairman and Ln. Ch. Laxminarayana as Secretary and Correspondent. The Society is supported by other eminent personalities Ln. G.S. Shankar Rao and Sri. Ch. Ravikanth as Vice Chairmans, Sri. D. Kranthi Kumar as Joint Secretary, Dosapati Karthik as Treasurer, Mrs.Ch. Dhanalaxmi and Sri. Ch. Srikanth as Members. We are one of the best engineering colleges where students can enjoy high-quality education and skills.. The members of the trust are eminent personalities in various walks of life and dedicate their selves to the cause of education. In light of this, AKITS has been established in 2006 with special attention to the technical education and approved by AICTE, New Delhi and affiliated to the premier and world renowned Jawaharlal Nehru Technological University, Hyderabad.The AKITS expands itself as “Always Best In Technical-education” by making use of the latest technologies and quality teaching. It lays emphasis on innovative research, investment in high-quality facilities and first-rate infrastructure.",
+    "Abdul Kalam Institute of Technological Sciences (AKITS) strives to make students confident and creative builders of their future. AKITS believes learning is maximized when it takes place in an environment enriched with support, encouragement and assistance. In AKITS we encourage the students to meet academic challenges with openness, enthusiasm, and a willingness to solve problems. We provide a rigorous, academic program through which effective educators lead students to take responsibility for learning. To raise itself as a centre of excellence through integrated educational, academic and industrial research and consultancy services. To actively participate in the development of technical manpower and physical infrastructure for enhancing the country’s credibility and stature. To undertake cooperative research in the industry for up gradation of current technologies and development of new ones, to improve quality and cost effectiveness, while participating in the ongoing process of globalization. To play a noble role for making significant contributions for social up liftment through technical education.",
+    "To create technically proficient, socially conscious engineers, managers, and business owners who are prepared for the future.",
+    "To involve academic staff and students in cutting-edge research initiatives associated with businesses, universities, and international research organisations.",
+    "To provide value-based education and engage in multidisciplinary research in cutting-edge technologies, we aspire to be a top-tier university that will contribute to the country’s sustained socio-economic growth."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/About-Us-banner-1536x394-1.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/Untitled-1400-x-395-px-2560-x-1153-px-9.png",
+      "alt": "",
+      "width": "2240",
+      "height": "1009",
+      "class": "attachment-full size-full wp-image-9991"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/5_3000-1-1024x574.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "574",
+      "class": "attachment-large size-large wp-image-10444"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "about-us\\index.html",
+  "route": "/about-us"
+}

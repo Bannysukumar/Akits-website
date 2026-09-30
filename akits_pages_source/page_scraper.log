@@ -1,0 +1,810 @@
+16:00:46 | INFO     | Starting full page crawl...
+
+16:00:46 | INFO     | ------------------------------------------------------------
+  [35mPage [1/100][0m (depth=0)
+  URL: [33mhttps://akits.ac.in/[0m
+16:00:47 | INFO     |   Title: [36mAbdul Kalam Institute of Technology & Science | AKITS[0m
+16:00:47 | INFO     |   Content: 66 images, 3 videos, 0 iframes, 196 links, 1 forms
+16:00:47 | INFO     |   [32m[SAVED][0m -> [36mindex.html[0m (217.5 KB)
+16:00:47 | INFO     |   Resources: 138 paths saved to _resources.json
+16:00:47 | INFO     |   Queued [34m136[0m new internal links
+16:00:47 | INFO     | ------------------------------------------------------------
+  [35mPage [2/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/gallery/video-gallery[0m
+16:00:47 | INFO     |   Title: [36mVideo Gallery | AKITS[0m
+16:00:47 | INFO     |   Content: 10 images, 9 videos, 0 iframes, 172 links, 1 forms
+16:00:47 | INFO     |   [32m[SAVED][0m -> [36mgallery\video-gallery\index.html[0m (150.9 KB)
+16:00:47 | INFO     |   Resources: 79 paths saved to _resources.json
+16:00:47 | INFO     |   Queued [34m133[0m new internal links
+16:00:48 | INFO     | ------------------------------------------------------------
+  [35mPage [3/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/thermal-engineering-faculty[0m
+16:00:48 | INFO     |   Title: [36mThermal Engineering Faculty - AKITS[0m
+16:00:48 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:48 | INFO     |   [32m[SAVED][0m -> [36mthermal-engineering-faculty\index.html[0m (143.9 KB)
+16:00:48 | INFO     |   Resources: 68 paths saved to _resources.json
+16:00:48 | INFO     |   Queued [34m132[0m new internal links
+16:00:49 | INFO     | ------------------------------------------------------------
+  [35mPage [4/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/training-placements/placement-training[0m
+16:00:49 | INFO     |   Title: [36mTraining Activities | AKITS[0m
+16:00:49 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:00:49 | INFO     |   [32m[SAVED][0m -> [36mtraining-placements\placement-training\index.html[0m (146.4 KB)
+16:00:49 | INFO     |   Resources: 70 paths saved to _resources.json
+16:00:49 | INFO     |   Queued [34m131[0m new internal links
+16:00:49 | INFO     | ------------------------------------------------------------
+  [35mPage [5/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/data-science-faculty[0m
+16:00:50 | INFO     |   Title: [36mData Science Faculty - AKITS[0m
+16:00:50 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:50 | INFO     |   [32m[SAVED][0m -> [36mdata-science-faculty\index.html[0m (146.9 KB)
+16:00:50 | INFO     |   Resources: 68 paths saved to _resources.json
+16:00:50 | INFO     |   Queued [34m130[0m new internal links
+16:00:50 | INFO     | ------------------------------------------------------------
+  [35mPage [6/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/civil-engineering-hod-profile[0m
+16:00:50 | INFO     |   Title: [36mCivil Engineering Hod Profile - AKITS[0m
+16:00:50 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:50 | INFO     |   [32m[SAVED][0m -> [36mcivil-engineering-hod-profile\index.html[0m (149.7 KB)
+16:00:50 | INFO     |   Resources: 73 paths saved to _resources.json
+16:00:50 | INFO     |   Queued [34m129[0m new internal links
+16:00:51 | INFO     | ------------------------------------------------------------
+  [35mPage [7/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mous-collobrations[0m
+16:00:51 | INFO     |   Title: [36mMOUS & Collobrations - AKITS[0m
+16:00:51 | INFO     |   Content: 22 images, 0 videos, 0 iframes, 188 links, 1 forms
+16:00:51 | INFO     |   [32m[SAVED][0m -> [36mmous-collobrations\index.html[0m (155.8 KB)
+16:00:51 | INFO     |   Resources: 94 paths saved to _resources.json
+16:00:51 | INFO     |   Queued [34m128[0m new internal links
+16:00:52 | INFO     | ------------------------------------------------------------
+  [35mPage [8/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/equal-opportunity-cell[0m
+16:00:52 | INFO     |   Title: [36mEqual Opportunity Cell - AKITS[0m
+16:00:52 | INFO     |   Content: 15 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:00:52 | INFO     |   [32m[SAVED][0m -> [36mequal-opportunity-cell\index.html[0m (147.7 KB)
+16:00:52 | INFO     |   Resources: 72 paths saved to _resources.json
+16:00:52 | INFO     |   Queued [34m127[0m new internal links
+16:00:52 | INFO     | ------------------------------------------------------------
+  [35mPage [9/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mechanical-hod-profile[0m
+16:00:53 | INFO     |   Title: [36mMechanical Hod Profile - AKITS[0m
+16:00:53 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:53 | INFO     |   [32m[SAVED][0m -> [36mmechanical-hod-profile\index.html[0m (149.5 KB)
+16:00:53 | INFO     |   Resources: 73 paths saved to _resources.json
+16:00:53 | INFO     |   Queued [34m126[0m new internal links
+16:00:53 | INFO     | ------------------------------------------------------------
+  [35mPage [10/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/dvv[0m
+16:00:53 | INFO     |   Title: [36mDVV - AKITS[0m
+16:00:53 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 209 links, 1 forms
+16:00:53 | INFO     |   [32m[SAVED][0m -> [36mdvv\index.html[0m (152.5 KB)
+16:00:53 | INFO     |   Resources: 103 paths saved to _resources.json
+16:00:53 | INFO     |   Queued [34m125[0m new internal links
+16:00:54 | INFO     | ------------------------------------------------------------
+  [35mPage [11/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/electrical-power-system-department-achievements[0m
+16:00:54 | INFO     |   Title: [36mElectrical Power System Department Achievements - AKITS[0m
+16:00:54 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 180 links, 1 forms
+16:00:54 | INFO     |   [32m[SAVED][0m -> [36melectrical-power-system-department-achievements\index.html[0m (143.8 KB)
+16:00:54 | INFO     |   Resources: 71 paths saved to _resources.json
+16:00:54 | INFO     |   Queued [34m126[0m new internal links
+16:00:55 | INFO     | ------------------------------------------------------------
+  [35mPage [12/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/non-teaching-staff[0m
+16:00:55 | INFO     |   Title: [36mNon-Teaching Staff - AKITS[0m
+16:00:55 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:00:55 | INFO     |   [32m[SAVED][0m -> [36mnon-teaching-staff\index.html[0m (138.3 KB)
+16:00:55 | INFO     |   Resources: 66 paths saved to _resources.json
+16:00:55 | INFO     |   Queued [34m123[0m new internal links
+16:00:55 | INFO     | ------------------------------------------------------------
+  [35mPage [13/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/fee-refund-policy[0m
+16:00:55 | INFO     |   Title: [36mFee Refund Policy - AKITS[0m
+16:00:55 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:00:55 | INFO     |   [32m[SAVED][0m -> [36mfee-refund-policy\index.html[0m (136.3 KB)
+16:00:55 | INFO     |   Resources: 67 paths saved to _resources.json
+16:00:56 | INFO     |   Queued [34m122[0m new internal links
+16:00:56 | INFO     | ------------------------------------------------------------
+  [35mPage [14/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mba-labs[0m
+16:00:56 | INFO     |   Title: [36mMBA Labs - AKITS[0m
+16:00:56 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:56 | INFO     |   [32m[SAVED][0m -> [36mmba-labs\index.html[0m (151.1 KB)
+16:00:56 | INFO     |   Resources: 75 paths saved to _resources.json
+16:00:56 | INFO     |   Queued [34m121[0m new internal links
+16:00:57 | INFO     | ------------------------------------------------------------
+  [35mPage [15/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/iste-chapter[0m
+16:00:57 | INFO     |   Title: [36mISTE Chapter - AKITS[0m
+16:00:57 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:00:57 | INFO     |   [32m[SAVED][0m -> [36miste-chapter\index.html[0m (142.3 KB)
+16:00:57 | INFO     |   Resources: 71 paths saved to _resources.json
+16:00:57 | INFO     |   Queued [34m120[0m new internal links
+16:00:57 | INFO     | ------------------------------------------------------------
+  [35mPage [16/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mining-engineering-labs[0m
+16:00:58 | INFO     |   Title: [36mMining Engineering Labs - AKITS[0m
+16:00:58 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:58 | INFO     |   [32m[SAVED][0m -> [36mmining-engineering-labs\index.html[0m (154.2 KB)
+16:00:58 | INFO     |   Resources: 77 paths saved to _resources.json
+16:00:58 | INFO     |   Queued [34m119[0m new internal links
+16:00:58 | INFO     | ------------------------------------------------------------
+  [35mPage [17/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-thermal-engineering[0m
+16:00:58 | INFO     |   Title: [36mAbout Thermal Engineering - AKITS[0m
+16:00:58 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:00:58 | INFO     |   [32m[SAVED][0m -> [36mabout-thermal-engineering\index.html[0m (145.0 KB)
+16:00:58 | INFO     |   Resources: 69 paths saved to _resources.json
+16:00:58 | INFO     |   Queued [34m118[0m new internal links
+16:00:59 | INFO     | ------------------------------------------------------------
+  [35mPage [18/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/rti[0m
+16:00:59 | INFO     |   Title: [36mRTI - AKITS[0m
+16:00:59 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:00:59 | INFO     |   [32m[SAVED][0m -> [36mrti\index.html[0m (143.9 KB)
+16:00:59 | INFO     |   Resources: 66 paths saved to _resources.json
+16:00:59 | INFO     |   Queued [34m117[0m new internal links
+16:01:00 | INFO     | ------------------------------------------------------------
+  [35mPage [19/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/ece-hod-profile[0m
+16:01:00 | INFO     |   Title: [36mECE Hod Profile - AKITS[0m
+16:01:00 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 179 links, 1 forms
+16:01:00 | INFO     |   [32m[SAVED][0m -> [36mece-hod-profile\index.html[0m (149.4 KB)
+16:01:00 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:00 | INFO     |   Queued [34m116[0m new internal links
+16:01:00 | INFO     | ------------------------------------------------------------
+  [35mPage [20/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/library[0m
+16:01:00 | INFO     |   Title: [36mLibrary | Abdul Kalam Institute of Technology & Science[0m
+16:01:00 | INFO     |   Content: 18 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:00 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\library\index.html[0m (160.4 KB)
+16:01:01 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:01 | INFO     |   Queued [34m115[0m new internal links
+16:01:01 | INFO     | ------------------------------------------------------------
+  [35mPage [21/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/civil-department-achievements[0m
+16:01:01 | INFO     |   Title: [36mCivil Department Achievements - AKITS[0m
+16:01:01 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 180 links, 1 forms
+16:01:01 | INFO     |   [32m[SAVED][0m -> [36mcivil-department-achievements\index.html[0m (148.8 KB)
+16:01:01 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:01 | INFO     |   Queued [34m114[0m new internal links
+16:01:02 | INFO     | ------------------------------------------------------------
+  [35mPage [22/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/eee-vision-mission[0m
+16:01:02 | INFO     |   Title: [36mEEE Vision & Mission - AKITS[0m
+16:01:02 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:02 | INFO     |   [32m[SAVED][0m -> [36meee-vision-mission\index.html[0m (148.5 KB)
+16:01:02 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:02 | INFO     |   Queued [34m113[0m new internal links
+16:01:03 | INFO     | ------------------------------------------------------------
+  [35mPage [23/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mechanical-faculty[0m
+16:01:03 | INFO     |   Title: [36mMechanical Faculty - AKITS[0m
+16:01:03 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:03 | INFO     |   [32m[SAVED][0m -> [36mmechanical-faculty\index.html[0m (156.0 KB)
+16:01:03 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:03 | INFO     |   Queued [34m112[0m new internal links
+16:01:03 | INFO     | ------------------------------------------------------------
+  [35mPage [24/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/book-chapter-publicaitons[0m
+16:01:03 | INFO     |   Title: [36mBook Chapter Publicaitons - AKITS[0m
+16:01:03 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:01:03 | INFO     |   [32m[SAVED][0m -> [36mbook-chapter-publicaitons\index.html[0m (135.5 KB)
+16:01:03 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:04 | INFO     |   Queued [34m111[0m new internal links
+16:01:04 | INFO     | ------------------------------------------------------------
+  [35mPage [25/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/teaching-staff[0m
+16:01:04 | INFO     |   Title: [36mTeaching Faculty - AKITS[0m
+16:01:04 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:04 | INFO     |   [32m[SAVED][0m -> [36mteaching-staff\index.html[0m (158.4 KB)
+16:01:04 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:04 | INFO     |   Queued [34m110[0m new internal links
+16:01:05 | INFO     | ------------------------------------------------------------
+  [35mPage [26/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/ece-department-achievements[0m
+16:01:05 | INFO     |   Title: [36mECE Department Achievements - AKITS[0m
+16:01:05 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 181 links, 1 forms
+16:01:05 | INFO     |   [32m[SAVED][0m -> [36mece-department-achievements\index.html[0m (149.2 KB)
+16:01:05 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:05 | INFO     |   Queued [34m109[0m new internal links
+16:01:06 | INFO     | ------------------------------------------------------------
+  [35mPage [27/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/thermal-engineering-department-achievements[0m
+16:01:06 | INFO     |   Title: [36mThermal Engineering Department Achievements - AKITS[0m
+16:01:06 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:06 | INFO     |   [32m[SAVED][0m -> [36mthermal-engineering-department-achievements\index.html[0m (138.5 KB)
+16:01:06 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:06 | INFO     |   Queued [34m108[0m new internal links
+16:01:06 | INFO     | ------------------------------------------------------------
+  [35mPage [28/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/training-placements/placement-activities[0m
+16:01:06 | INFO     |   Title: [36mPlacement Activities | AKITS[0m
+16:01:06 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:06 | INFO     |   [32m[SAVED][0m -> [36mtraining-placements\placement-activities\index.html[0m (143.3 KB)
+16:01:06 | INFO     |   Resources: 69 paths saved to _resources.json
+16:01:06 | INFO     |   Queued [34m107[0m new internal links
+16:01:07 | INFO     | ------------------------------------------------------------
+  [35mPage [29/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/data-science-labs[0m
+16:01:07 | INFO     |   Title: [36mData Science Labs - AKITS[0m
+16:01:07 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:07 | INFO     |   [32m[SAVED][0m -> [36mdata-science-labs\index.html[0m (147.1 KB)
+16:01:07 | INFO     |   Resources: 70 paths saved to _resources.json
+16:01:07 | INFO     |   Queued [34m106[0m new internal links
+16:01:08 | INFO     | ------------------------------------------------------------
+  [35mPage [30/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/free-hostel[0m
+16:01:08 | INFO     |   Title: [36mFree Hostel - AKITS[0m
+16:01:08 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 2 forms
+16:01:08 | INFO     |   [32m[SAVED][0m -> [36mfree-hostel\index.html[0m (141.9 KB)
+16:01:08 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:08 | INFO     |   Queued [34m106[0m new internal links
+16:01:08 | INFO     | ------------------------------------------------------------
+  [35mPage [31/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/internal-compliant-committee[0m
+16:01:09 | INFO     |   Title: [36mInternal Compliant Committee - AKITS[0m
+16:01:09 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 174 links, 1 forms
+16:01:09 | INFO     |   [32m[SAVED][0m -> [36minternal-compliant-committee\index.html[0m (145.6 KB)
+16:01:09 | INFO     |   Resources: 67 paths saved to _resources.json
+16:01:09 | INFO     |   Queued [34m105[0m new internal links
+16:01:09 | INFO     | ------------------------------------------------------------
+  [35mPage [32/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/academics/syllabus[0m
+16:01:09 | INFO     |   Title: [36mSyllabus | AKITS[0m
+16:01:09 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 180 links, 1 forms
+16:01:09 | INFO     |   [32m[SAVED][0m -> [36macademics\syllabus\index.html[0m (149.8 KB)
+16:01:09 | INFO     |   Resources: 72 paths saved to _resources.json
+16:01:09 | INFO     |   Queued [34m109[0m new internal links
+16:01:10 | INFO     | ------------------------------------------------------------
+  [35mPage [33/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/eee-hod-profile[0m
+16:01:10 | INFO     |   Title: [36mEEE Hod Profile - AKITS[0m
+16:01:10 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:10 | INFO     |   [32m[SAVED][0m -> [36meee-hod-profile\index.html[0m (149.4 KB)
+16:01:10 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:10 | INFO     |   Queued [34m103[0m new internal links
+16:01:11 | INFO     | ------------------------------------------------------------
+  [35mPage [34/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/committee-for-sc-st[0m
+16:01:11 | INFO     |   Title: [36mCommittee For SC/ST - AKITS[0m
+16:01:11 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:11 | INFO     |   [32m[SAVED][0m -> [36mcommittee-for-sc-st\index.html[0m (140.0 KB)
+16:01:11 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:11 | INFO     |   Queued [34m102[0m new internal links
+16:01:11 | INFO     | ------------------------------------------------------------
+  [35mPage [35/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/sports[0m
+16:01:11 | INFO     |   Title: [36mSports - AKITS[0m
+16:01:11 | INFO     |   Content: 17 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:11 | INFO     |   [32m[SAVED][0m -> [36msports\index.html[0m (145.6 KB)
+16:01:11 | INFO     |   Resources: 75 paths saved to _resources.json
+16:01:11 | INFO     |   Queued [34m101[0m new internal links
+16:01:12 | INFO     | ------------------------------------------------------------
+  [35mPage [36/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mba-mission-vision[0m
+16:01:12 | INFO     |   Title: [36mMBA Mission & Vision - AKITS[0m
+16:01:12 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:12 | INFO     |   [32m[SAVED][0m -> [36mmba-mission-vision\index.html[0m (147.9 KB)
+16:01:12 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:12 | INFO     |   Queued [34m100[0m new internal links
+16:01:13 | INFO     | ------------------------------------------------------------
+  [35mPage [37/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/placement-record[0m
+16:01:13 | INFO     |   Title: [36mPlacement Record | AKITS[0m
+16:01:13 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:13 | INFO     |   [32m[SAVED][0m -> [36mplacement-record\index.html[0m (147.9 KB)
+16:01:13 | INFO     |   Resources: 69 paths saved to _resources.json
+16:01:13 | INFO     |   Queued [34m99[0m new internal links
+16:01:13 | INFO     | ------------------------------------------------------------
+  [35mPage [38/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/alumni-pics[0m
+16:01:14 | INFO     |   Title: [36mAlumni PIcs | Abdul Kalam Institute of Technology & Science[0m
+16:01:14 | INFO     |   Content: 24 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:14 | INFO     |   [32m[SAVED][0m -> [36malumni-pics\index.html[0m (156.9 KB)
+16:01:14 | INFO     |   Resources: 84 paths saved to _resources.json
+16:01:14 | INFO     |   Queued [34m98[0m new internal links
+16:01:14 | INFO     | ------------------------------------------------------------
+  [35mPage [39/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/thermal-engineering-labs[0m
+16:01:14 | INFO     |   Title: [36mThermal Engineering Labs - AKITS[0m
+16:01:14 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:14 | INFO     |   [32m[SAVED][0m -> [36mthermal-engineering-labs\index.html[0m (145.3 KB)
+16:01:14 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:14 | INFO     |   Queued [34m97[0m new internal links
+16:01:15 | INFO     | ------------------------------------------------------------
+  [35mPage [40/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/civil-engineering-faculty[0m
+16:01:15 | INFO     |   Title: [36mCivil Engineering Faculty - AKITS[0m
+16:01:15 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:15 | INFO     |   [32m[SAVED][0m -> [36mcivil-engineering-faculty\index.html[0m (158.1 KB)
+16:01:15 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:15 | INFO     |   Queued [34m96[0m new internal links
+16:01:16 | INFO     | ------------------------------------------------------------
+  [35mPage [41/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/electrical-power-system-labs[0m
+16:01:16 | INFO     |   Title: [36mElectrical Power System Labs - AKITS[0m
+16:01:16 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:16 | INFO     |   [32m[SAVED][0m -> [36melectrical-power-system-labs\index.html[0m (143.4 KB)
+16:01:16 | INFO     |   Resources: 69 paths saved to _resources.json
+16:01:16 | INFO     |   Queued [34m95[0m new internal links
+16:01:16 | INFO     | ------------------------------------------------------------
+  [35mPage [42/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/exam-notifications[0m
+16:01:16 | INFO     |   Title: [36mExam Notifications - AKITS[0m
+16:01:16 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 190 links, 1 forms
+16:01:16 | INFO     |   [32m[SAVED][0m -> [36mexam-notifications\index.html[0m (149.8 KB)
+16:01:16 | INFO     |   Resources: 82 paths saved to _resources.json
+16:01:16 | INFO     |   Queued [34m95[0m new internal links
+16:01:17 | INFO     | ------------------------------------------------------------
+  [35mPage [43/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/aiml-hod-profile[0m
+16:01:17 | INFO     |   Title: [36mAIML Hod Profile - AKITS[0m
+16:01:17 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:17 | INFO     |   [32m[SAVED][0m -> [36maiml-hod-profile\index.html[0m (141.7 KB)
+16:01:17 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:17 | INFO     |   Queued [34m93[0m new internal links
+16:01:18 | INFO     | ------------------------------------------------------------
+  [35mPage [44/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-civil-engineering-department[0m
+16:01:18 | INFO     |   Title: [36mAbout Civil Engineering Department - AKITS[0m
+16:01:18 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:18 | INFO     |   [32m[SAVED][0m -> [36mabout-civil-engineering-department\index.html[0m (152.1 KB)
+16:01:18 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:18 | INFO     |   Queued [34m92[0m new internal links
+16:01:18 | INFO     | ------------------------------------------------------------
+  [35mPage [45/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/eee-department-achievements[0m
+16:01:18 | INFO     |   Title: [36mEEE Department Achievements - AKITS[0m
+16:01:18 | INFO     |   Content: 22 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:18 | INFO     |   [32m[SAVED][0m -> [36meee-department-achievements\index.html[0m (156.9 KB)
+16:01:18 | INFO     |   Resources: 83 paths saved to _resources.json
+16:01:19 | INFO     |   Queued [34m91[0m new internal links
+16:01:19 | INFO     | ------------------------------------------------------------
+  [35mPage [46/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/iqac[0m
+16:01:19 | INFO     |   Title: [36mIQAC - AKITS[0m
+16:01:19 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 181 links, 1 forms
+16:01:19 | INFO     |   [32m[SAVED][0m -> [36miqac\index.html[0m (144.5 KB)
+16:01:19 | INFO     |   Resources: 76 paths saved to _resources.json
+16:01:19 | INFO     |   Queued [34m90[0m new internal links
+16:01:20 | INFO     | ------------------------------------------------------------
+  [35mPage [47/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/academics/calender[0m
+16:01:20 | INFO     |   Title: [36mACADEMIC CALENDAR | AKITS[0m
+16:01:20 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 179 links, 1 forms
+16:01:20 | INFO     |   [32m[SAVED][0m -> [36macademics\calender\index.html[0m (149.5 KB)
+16:01:20 | INFO     |   Resources: 72 paths saved to _resources.json
+16:01:20 | INFO     |   Queued [34m93[0m new internal links
+16:01:21 | INFO     | ------------------------------------------------------------
+  [35mPage [48/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/aiml-faculty[0m
+16:01:21 | INFO     |   Title: [36mAIML Faculty - AKITS[0m
+16:01:21 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:21 | INFO     |   [32m[SAVED][0m -> [36maiml-faculty\index.html[0m (146.5 KB)
+16:01:21 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:21 | INFO     |   Queued [34m88[0m new internal links
+16:01:21 | INFO     | ------------------------------------------------------------
+  [35mPage [49/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/contact-form-for-admissions[0m
+16:01:21 | INFO     |   Title: [36mContact Form For Admissions - AKITS[0m
+16:01:21 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:01:21 | INFO     |   [32m[SAVED][0m -> [36mcontact-form-for-admissions\index.html[0m (140.6 KB)
+16:01:21 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:21 | INFO     |   Queued [34m88[0m new internal links
+16:01:22 | INFO     | ------------------------------------------------------------
+  [35mPage [50/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/academics/regulations[0m
+16:01:22 | INFO     |   Title: [36mRegulations | AKITS[0m
+16:01:22 | INFO     |   Content: 13 images, 0 videos, 0 iframes, 179 links, 1 forms
+16:01:22 | INFO     |   [32m[SAVED][0m -> [36macademics\regulations\index.html[0m (149.5 KB)
+16:01:22 | INFO     |   Resources: 72 paths saved to _resources.json
+16:01:22 | INFO     |   Queued [34m90[0m new internal links
+16:01:23 | INFO     | ------------------------------------------------------------
+  [35mPage [51/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/admission-process-and-guidelines[0m
+16:01:23 | INFO     |   Title: [36mAdmission Process and Guidelines - AKITS[0m
+16:01:23 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:01:23 | INFO     |   [32m[SAVED][0m -> [36madmission-process-and-guidelines\index.html[0m (142.1 KB)
+16:01:23 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:23 | INFO     |   Queued [34m86[0m new internal links
+16:01:23 | INFO     | ------------------------------------------------------------
+  [35mPage [52/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/nptel[0m
+16:01:24 | INFO     |   Title: [36mNPTEL | AKITS[0m
+16:01:24 | INFO     |   Content: 19 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:24 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\nptel\index.html[0m (155.7 KB)
+16:01:24 | INFO     |   Resources: 80 paths saved to _resources.json
+16:01:24 | INFO     |   Queued [34m85[0m new internal links
+16:01:24 | INFO     | ------------------------------------------------------------
+  [35mPage [53/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mandatory-documents/online-greviance-redressal-form[0m
+16:01:24 | INFO     |   Title: [36mOnline Grievance Redressal Form | AKITS[0m
+16:01:24 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 2 forms
+16:01:24 | INFO     |   [32m[SAVED][0m -> [36mmandatory-documents\online-greviance-redressal-form\index.html[0m (149.2 KB)
+16:01:24 | INFO     |   Resources: 70 paths saved to _resources.json
+16:01:24 | INFO     |   Queued [34m84[0m new internal links
+16:01:25 | INFO     | ------------------------------------------------------------
+  [35mPage [54/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/alumni-registration[0m
+16:01:25 | INFO     |   Title: [36mAlumni Registration | Abdul Kalam Institute of Technology & [0m
+16:01:25 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 2 forms
+16:01:25 | INFO     |   [32m[SAVED][0m -> [36malumni-registration\index.html[0m (138.5 KB)
+16:01:25 | INFO     |   Resources: 64 paths saved to _resources.json
+16:01:25 | INFO     |   Queued [34m83[0m new internal links
+16:01:26 | INFO     | ------------------------------------------------------------
+  [35mPage [55/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/cultural-celebrations[0m
+16:01:26 | INFO     |   Title: [36mCultural Celebrations | AKITS[0m
+16:01:26 | INFO     |   Content: 14 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:26 | INFO     |   [32m[SAVED][0m -> [36mcultural-celebrations\index.html[0m (156.2 KB)
+16:01:26 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:26 | INFO     |   Queued [34m82[0m new internal links
+16:01:26 | INFO     | ------------------------------------------------------------
+  [35mPage [56/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/thermal-engineering-hod-profile[0m
+16:01:26 | INFO     |   Title: [36mThermal Engineering Hod Profile - AKITS[0m
+16:01:26 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:26 | INFO     |   [32m[SAVED][0m -> [36mthermal-engineering-hod-profile\index.html[0m (165.1 KB)
+16:01:26 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:26 | INFO     |   Queued [34m81[0m new internal links
+16:01:27 | INFO     | ------------------------------------------------------------
+  [35mPage [57/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mining-engineering-faculty[0m
+16:01:27 | INFO     |   Title: [36mMining Engineering Faculty - AKITS[0m
+16:01:27 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 179 links, 1 forms
+16:01:27 | INFO     |   [32m[SAVED][0m -> [36mmining-engineering-faculty\index.html[0m (156.4 KB)
+16:01:27 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:27 | INFO     |   Queued [34m80[0m new internal links
+16:01:28 | INFO     | ------------------------------------------------------------
+  [35mPage [58/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/civil-engineering-labs[0m
+16:01:28 | INFO     |   Title: [36mCivil Engineering Labs - AKITS[0m
+16:01:28 | INFO     |   Content: 16 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:28 | INFO     |   [32m[SAVED][0m -> [36mcivil-engineering-labs\index.html[0m (157.2 KB)
+16:01:28 | INFO     |   Resources: 78 paths saved to _resources.json
+16:01:28 | INFO     |   Queued [34m79[0m new internal links
+16:01:28 | INFO     | ------------------------------------------------------------
+  [35mPage [59/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mining-engineering-department-achievements[0m
+16:01:29 | INFO     |   Title: [36mMining Engineering Department Achievements - AKITS[0m
+16:01:29 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 180 links, 1 forms
+16:01:29 | INFO     |   [32m[SAVED][0m -> [36mmining-engineering-department-achievements\index.html[0m (148.2 KB)
+16:01:29 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:29 | INFO     |   Queued [34m78[0m new internal links
+16:01:29 | INFO     | ------------------------------------------------------------
+  [35mPage [60/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/cse-hod-profile[0m
+16:01:29 | INFO     |   Title: [36mCSE HOD Profile - AKITS[0m
+16:01:29 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:29 | INFO     |   [32m[SAVED][0m -> [36mcse-hod-profile\index.html[0m (149.2 KB)
+16:01:29 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:29 | INFO     |   Queued [34m77[0m new internal links
+16:01:30 | INFO     | ------------------------------------------------------------
+  [35mPage [61/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/tcsnta-exam-cell[0m
+16:01:30 | INFO     |   Title: [36mTCS & NTA | Abdul Kalam Institute of Technology & Science[0m
+16:01:30 | INFO     |   Content: 16 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:30 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\tcsnta-exam-cell\index.html[0m (147.0 KB)
+16:01:30 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:30 | INFO     |   Queued [34m76[0m new internal links
+16:01:31 | INFO     | ------------------------------------------------------------
+  [35mPage [62/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/jntuh[0m
+16:01:31 | INFO     |   Title: [36mJNTUH - AKITS[0m
+16:01:31 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:01:31 | INFO     |   [32m[SAVED][0m -> [36mjntuh\index.html[0m (134.8 KB)
+16:01:31 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:31 | INFO     |   Queued [34m76[0m new internal links
+16:01:31 | INFO     | ------------------------------------------------------------
+  [35mPage [63/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/electrical-power-system-vision-mission[0m
+16:01:31 | INFO     |   Title: [36mElectrical Power System Vision & Mission - AKITS[0m
+16:01:31 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:31 | INFO     |   [32m[SAVED][0m -> [36melectrical-power-system-vision-mission\index.html[0m (141.3 KB)
+16:01:31 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:31 | INFO     |   Queued [34m74[0m new internal links
+16:01:32 | INFO     | ------------------------------------------------------------
+  [35mPage [64/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/iicinstitute-industries-interaction-council[0m
+16:01:32 | INFO     |   Title: [36mIIC | AKITS[0m
+16:01:32 | INFO     |   Content: 22 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:32 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\iicinstitute-industries-interaction-council\index.html[0m (162.7 KB)
+16:01:32 | INFO     |   Resources: 83 paths saved to _resources.json
+16:01:32 | INFO     |   Queued [34m73[0m new internal links
+16:01:33 | INFO     | ------------------------------------------------------------
+  [35mPage [65/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mechanical-vision-mission[0m
+16:01:33 | INFO     |   Title: [36mMechanical Vision & Mission - AKITS[0m
+16:01:33 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:33 | INFO     |   [32m[SAVED][0m -> [36mmechanical-vision-mission\index.html[0m (149.0 KB)
+16:01:33 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:33 | INFO     |   Queued [34m72[0m new internal links
+16:01:33 | INFO     | ------------------------------------------------------------
+  [35mPage [66/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/non-academics-photos[0m
+16:01:34 | INFO     |   Title: [36mNon-Academics Photos - AKITS[0m
+16:01:34 | INFO     |   Content: 80 images, 0 videos, 0 iframes, 243 links, 1 forms
+16:01:34 | INFO     |   [32m[SAVED][0m -> [36mnon-academics-photos\index.html[0m (187.9 KB)
+16:01:34 | INFO     |   Resources: 136 paths saved to _resources.json
+16:01:34 | INFO     |   Queued [34m71[0m new internal links
+16:01:34 | INFO     | ------------------------------------------------------------
+  [35mPage [67/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/cse-achievements[0m
+16:01:34 | INFO     |   Title: [36mCse Achievements - AKITS[0m
+16:01:34 | INFO     |   Content: 14 images, 0 videos, 0 iframes, 182 links, 1 forms
+16:01:34 | INFO     |   [32m[SAVED][0m -> [36mcse-achievements\index.html[0m (149.4 KB)
+16:01:34 | INFO     |   Resources: 75 paths saved to _resources.json
+16:01:34 | INFO     |   Queued [34m70[0m new internal links
+16:01:35 | INFO     | ------------------------------------------------------------
+  [35mPage [68/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/iiaq[0m
+16:01:35 | INFO     |   Title: [36mIIQA - AKITS[0m
+16:01:35 | INFO     |   Content: 9 images, 0 videos, 1 iframes, 173 links, 1 forms
+16:01:35 | INFO     |   [32m[SAVED][0m -> [36miiaq\index.html[0m (134.9 KB)
+16:01:35 | INFO     |   Resources: 67 paths saved to _resources.json
+16:01:35 | INFO     |   Queued [34m69[0m new internal links
+16:01:36 | INFO     | ------------------------------------------------------------
+  [35mPage [69/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mechanical-labs[0m
+16:01:36 | INFO     |   Title: [36mMechanical Labs - AKITS[0m
+16:01:36 | INFO     |   Content: 16 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:36 | INFO     |   [32m[SAVED][0m -> [36mmechanical-labs\index.html[0m (159.5 KB)
+16:01:36 | INFO     |   Resources: 79 paths saved to _resources.json
+16:01:36 | INFO     |   Queued [34m68[0m new internal links
+16:01:36 | INFO     | ------------------------------------------------------------
+  [35mPage [70/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/ugc-2f12b[0m
+16:01:36 | INFO     |   Title: [36mUGC 2F & 12B - AKITS[0m
+16:01:36 | INFO     |   Content: 9 images, 0 videos, 1 iframes, 172 links, 1 forms
+16:01:36 | INFO     |   [32m[SAVED][0m -> [36mugc-2f12b\index.html[0m (135.9 KB)
+16:01:36 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:36 | INFO     |   Queued [34m67[0m new internal links
+16:01:37 | INFO     | ------------------------------------------------------------
+  [35mPage [71/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-placement[0m
+16:01:37 | INFO     |   Title: [36mAbout Placement | AKITS[0m
+16:01:37 | INFO     |   Content: 14 images, 0 videos, 0 iframes, 175 links, 1 forms
+16:01:37 | INFO     |   [32m[SAVED][0m -> [36mabout-placement\index.html[0m (157.2 KB)
+16:01:37 | INFO     |   Resources: 75 paths saved to _resources.json
+16:01:37 | INFO     |   Queued [34m66[0m new internal links
+16:01:38 | INFO     | ------------------------------------------------------------
+  [35mPage [72/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/miscellinous[0m
+16:01:38 | INFO     |   Title: [36mMiscellinous - AKITS[0m
+16:01:38 | INFO     |   Content: 9 images, 0 videos, 2 iframes, 172 links, 1 forms
+16:01:38 | INFO     |   [32m[SAVED][0m -> [36mmiscellinous\index.html[0m (135.8 KB)
+16:01:38 | INFO     |   Resources: 67 paths saved to _resources.json
+16:01:38 | INFO     |   Queued [34m65[0m new internal links
+16:01:38 | INFO     | ------------------------------------------------------------
+  [35mPage [73/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/academic-photos[0m
+16:01:39 | INFO     |   Title: [36mAcademic Photos - AKITS[0m
+16:01:39 | INFO     |   Content: 64 images, 0 videos, 0 iframes, 227 links, 1 forms
+16:01:39 | INFO     |   [32m[SAVED][0m -> [36macademic-photos\index.html[0m (178.5 KB)
+16:01:39 | INFO     |   Resources: 120 paths saved to _resources.json
+16:01:39 | INFO     |   Queued [34m64[0m new internal links
+16:01:39 | INFO     | ------------------------------------------------------------
+  [35mPage [74/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/aiml-vision-mission[0m
+16:01:39 | INFO     |   Title: [36mAIML Vision & Mission - AKITS[0m
+16:01:39 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:39 | INFO     |   [32m[SAVED][0m -> [36maiml-vision-mission\index.html[0m (140.8 KB)
+16:01:39 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:39 | INFO     |   Queued [34m63[0m new internal links
+16:01:40 | INFO     | ------------------------------------------------------------
+  [35mPage [75/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mba-department-achievements[0m
+16:01:40 | INFO     |   Title: [36mMBA Department Achievements - AKITS[0m
+16:01:40 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:40 | INFO     |   [32m[SAVED][0m -> [36mmba-department-achievements\index.html[0m (145.8 KB)
+16:01:40 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:40 | INFO     |   Queued [34m62[0m new internal links
+16:01:41 | INFO     | ------------------------------------------------------------
+  [35mPage [76/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/nirf[0m
+16:01:41 | INFO     |   Title: [36mNIRF - AKITS[0m
+16:01:41 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:41 | INFO     |   [32m[SAVED][0m -> [36mnirf\index.html[0m (133.6 KB)
+16:01:41 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:41 | INFO     |   Queued [34m61[0m new internal links
+16:01:41 | INFO     | ------------------------------------------------------------
+  [35mPage [77/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-data-science[0m
+16:01:41 | INFO     |   Title: [36mAbout Data Science - AKITS[0m
+16:01:41 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:41 | INFO     |   [32m[SAVED][0m -> [36mabout-data-science\index.html[0m (143.0 KB)
+16:01:41 | INFO     |   Resources: 69 paths saved to _resources.json
+16:01:42 | INFO     |   Queued [34m60[0m new internal links
+16:01:42 | INFO     | ------------------------------------------------------------
+  [35mPage [78/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/eee-labs[0m
+16:01:42 | INFO     |   Title: [36mEEE Labs - AKITS[0m
+16:01:42 | INFO     |   Content: 16 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:42 | INFO     |   [32m[SAVED][0m -> [36meee-labs\index.html[0m (157.8 KB)
+16:01:42 | INFO     |   Resources: 78 paths saved to _resources.json
+16:01:42 | INFO     |   Queued [34m59[0m new internal links
+16:01:43 | INFO     | ------------------------------------------------------------
+  [35mPage [79/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-our-cse-department[0m
+16:01:43 | INFO     |   Title: [36mAbout Our CSE Department - AKITS[0m
+16:01:43 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:43 | INFO     |   [32m[SAVED][0m -> [36mabout-our-cse-department\index.html[0m (152.4 KB)
+16:01:43 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:43 | INFO     |   Queued [34m58[0m new internal links
+16:01:43 | INFO     | ------------------------------------------------------------
+  [35mPage [80/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/electrical-power-system-hod-profile[0m
+16:01:44 | INFO     |   Title: [36mElectrical Power System Hod Profile - AKITS[0m
+16:01:44 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:44 | INFO     |   [32m[SAVED][0m -> [36melectrical-power-system-hod-profile\index.html[0m (142.0 KB)
+16:01:44 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:44 | INFO     |   Queued [34m57[0m new internal links
+16:01:44 | INFO     | ------------------------------------------------------------
+  [35mPage [81/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/ece-labs[0m
+16:01:44 | INFO     |   Title: [36mECE Labs - AKITS[0m
+16:01:44 | INFO     |   Content: 16 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:44 | INFO     |   [32m[SAVED][0m -> [36mece-labs\index.html[0m (158.4 KB)
+16:01:44 | INFO     |   Resources: 78 paths saved to _resources.json
+16:01:44 | INFO     |   Queued [34m56[0m new internal links
+16:01:45 | INFO     | ------------------------------------------------------------
+  [35mPage [82/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-mechanical-department[0m
+16:01:45 | INFO     |   Title: [36mAbout Mechanical Department - AKITS[0m
+16:01:45 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:45 | INFO     |   [32m[SAVED][0m -> [36mabout-mechanical-department\index.html[0m (152.5 KB)
+16:01:45 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:45 | INFO     |   Queued [34m55[0m new internal links
+16:01:46 | INFO     | ------------------------------------------------------------
+  [35mPage [83/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/eee-faculty[0m
+16:01:46 | INFO     |   Title: [36mEEE Faculty - AKITS[0m
+16:01:46 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:46 | INFO     |   [32m[SAVED][0m -> [36meee-faculty\index.html[0m (157.6 KB)
+16:01:46 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:46 | INFO     |   Queued [34m54[0m new internal links
+16:01:46 | INFO     | ------------------------------------------------------------
+  [35mPage [84/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/grievance[0m
+16:01:46 | INFO     |   Title: [36mGrievance | AKITS[0m
+16:01:46 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:46 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\grievance\index.html[0m (150.2 KB)
+16:01:46 | INFO     |   Resources: 69 paths saved to _resources.json
+16:01:46 | INFO     |   Queued [34m53[0m new internal links
+16:01:47 | INFO     | ------------------------------------------------------------
+  [35mPage [85/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mining-engineering-hod-profile[0m
+16:01:47 | INFO     |   Title: [36mMining Engineering Hod Profile - AKITS[0m
+16:01:47 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 179 links, 1 forms
+16:01:47 | INFO     |   [32m[SAVED][0m -> [36mmining-engineering-hod-profile\index.html[0m (149.4 KB)
+16:01:47 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:47 | INFO     |   Queued [34m52[0m new internal links
+16:01:48 | INFO     | ------------------------------------------------------------
+  [35mPage [86/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/prospectus[0m
+16:01:48 | INFO     |   Title: [36mProspectus - AKITS[0m
+16:01:48 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 173 links, 1 forms
+16:01:48 | INFO     |   [32m[SAVED][0m -> [36mprospectus\index.html[0m (136.1 KB)
+16:01:48 | INFO     |   Resources: 67 paths saved to _resources.json
+16:01:48 | INFO     |   Queued [34m51[0m new internal links
+16:01:49 | INFO     | ------------------------------------------------------------
+  [35mPage [87/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-us[0m
+16:01:49 | INFO     |   Title: [36mThe best engineering colleges | AKITS[0m
+16:01:49 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:49 | INFO     |   [32m[SAVED][0m -> [36mabout-us\index.html[0m (153.7 KB)
+16:01:49 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:49 | INFO     |   Queued [34m50[0m new internal links
+16:01:49 | INFO     | ------------------------------------------------------------
+  [35mPage [88/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/thermal-engineering-mission-vision[0m
+16:01:49 | INFO     |   Title: [36mThermal Engineering Mission & Vision - AKITS[0m
+16:01:49 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:49 | INFO     |   [32m[SAVED][0m -> [36mthermal-engineering-mission-vision\index.html[0m (141.4 KB)
+16:01:50 | INFO     |   Resources: 66 paths saved to _resources.json
+16:01:50 | INFO     |   Queued [34m49[0m new internal links
+16:01:50 | INFO     | ------------------------------------------------------------
+  [35mPage [89/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/research[0m
+16:01:50 | INFO     |   Title: [36mResearch - AKITS[0m
+16:01:50 | INFO     |   Content: 17 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:50 | INFO     |   [32m[SAVED][0m -> [36mresearch\index.html[0m (151.7 KB)
+16:01:50 | INFO     |   Resources: 74 paths saved to _resources.json
+16:01:50 | INFO     |   Queued [34m48[0m new internal links
+16:01:51 | INFO     | ------------------------------------------------------------
+  [35mPage [90/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/nir[0m
+16:01:51 | INFO     |   Title: [36mNIR - AKITS[0m
+16:01:51 | INFO     |   Content: 9 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:51 | INFO     |   [32m[SAVED][0m -> [36mnir\index.html[0m (133.6 KB)
+16:01:51 | INFO     |   Resources: 65 paths saved to _resources.json
+16:01:51 | INFO     |   Queued [34m47[0m new internal links
+16:01:51 | INFO     | ------------------------------------------------------------
+  [35mPage [91/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/alumni[0m
+16:01:52 | INFO     |   Title: [36mAlumni - AKITS[0m
+16:01:52 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:52 | INFO     |   [32m[SAVED][0m -> [36malumni\index.html[0m (147.2 KB)
+16:01:52 | INFO     |   Resources: 71 paths saved to _resources.json
+16:01:52 | INFO     |   Queued [34m46[0m new internal links
+16:01:52 | INFO     | ------------------------------------------------------------
+  [35mPage [92/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/gallery/media-gallery[0m
+16:01:52 | INFO     |   Title: [36mMedia Gallery | AKITS[0m
+16:01:52 | INFO     |   Content: 31 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:52 | INFO     |   [32m[SAVED][0m -> [36mgallery\media-gallery\index.html[0m (164.8 KB)
+16:01:52 | INFO     |   Resources: 91 paths saved to _resources.json
+16:01:52 | INFO     |   Queued [34m45[0m new internal links
+16:01:53 | INFO     | ------------------------------------------------------------
+  [35mPage [93/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/nss[0m
+16:01:53 | INFO     |   Title: [36mNSS | Abdul Kalam Institute of Technology & Science[0m
+16:01:53 | INFO     |   Content: 24 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:53 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\nss\index.html[0m (164.8 KB)
+16:01:53 | INFO     |   Resources: 85 paths saved to _resources.json
+16:01:53 | INFO     |   Queued [34m44[0m new internal links
+16:01:54 | INFO     | ------------------------------------------------------------
+  [35mPage [94/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in[0m
+16:01:54 | INFO     |   Title: [36mAbdul Kalam Institute of Technology & Science | AKITS[0m
+16:01:54 | INFO     |   Content: 66 images, 3 videos, 0 iframes, 196 links, 1 forms
+16:01:54 | INFO     |   [32m[SAVED][0m -> [36mindex.html[0m (217.5 KB)
+16:01:54 | INFO     |   Resources: 138 paths saved to _resources.json
+16:01:54 | INFO     |   Queued [34m43[0m new internal links
+16:01:54 | INFO     | ------------------------------------------------------------
+  [35mPage [95/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/infrastructure/hostel-3[0m
+16:01:54 | INFO     |   Title: [36mHostel | AKITS[0m
+16:01:54 | INFO     |   Content: 15 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:54 | INFO     |   [32m[SAVED][0m -> [36minfrastructure\hostel-3\index.html[0m (155.0 KB)
+16:01:54 | INFO     |   Resources: 77 paths saved to _resources.json
+16:01:55 | INFO     |   Queued [34m42[0m new internal links
+16:01:55 | INFO     | ------------------------------------------------------------
+  [35mPage [96/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/about-aiml-department[0m
+16:01:55 | INFO     |   Title: [36mAbout AIML Department - AKITS[0m
+16:01:55 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:55 | INFO     |   [32m[SAVED][0m -> [36mabout-aiml-department\index.html[0m (144.5 KB)
+16:01:55 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:55 | INFO     |   Queued [34m41[0m new internal links
+16:01:56 | INFO     | ------------------------------------------------------------
+  [35mPage [97/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/sexual-harassment-committee[0m
+16:01:56 | INFO     |   Title: [36mSexual Harassment Committee - AKITS[0m
+16:01:56 | INFO     |   Content: 11 images, 0 videos, 0 iframes, 172 links, 1 forms
+16:01:56 | INFO     |   [32m[SAVED][0m -> [36msexual-harassment-committee\index.html[0m (143.3 KB)
+16:01:56 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:56 | INFO     |   Queued [34m40[0m new internal links
+16:01:57 | INFO     | ------------------------------------------------------------
+  [35mPage [98/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/mechanical-department-achievements[0m
+16:01:57 | INFO     |   Title: [36mMechanical Department Achievements - AKITS[0m
+16:01:57 | INFO     |   Content: 12 images, 0 videos, 0 iframes, 180 links, 1 forms
+16:01:57 | INFO     |   [32m[SAVED][0m -> [36mmechanical-department-achievements\index.html[0m (148.6 KB)
+16:01:57 | INFO     |   Resources: 73 paths saved to _resources.json
+16:01:57 | INFO     |   Queued [34m39[0m new internal links
+16:01:58 | INFO     | ------------------------------------------------------------
+  [35mPage [99/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/placement-photos[0m
+16:01:58 | INFO     |   Title: [36mPlacement Photos - AKITS[0m
+16:01:58 | INFO     |   Content: 41 images, 0 videos, 0 iframes, 201 links, 1 forms
+16:01:58 | INFO     |   [32m[SAVED][0m -> [36mplacement-photos\index.html[0m (174.6 KB)
+16:01:58 | INFO     |   Resources: 98 paths saved to _resources.json
+16:01:58 | INFO     |   Queued [34m38[0m new internal links
+16:01:58 | INFO     | ------------------------------------------------------------
+  [35mPage [100/100][0m (depth=1)
+  URL: [33mhttps://akits.ac.in/electrical-power-system-faculty[0m
+16:01:58 | INFO     |   Title: [36mElectrical Power System Faculty - AKITS[0m
+16:01:58 | INFO     |   Content: 10 images, 0 videos, 0 iframes, 178 links, 1 forms
+16:01:58 | INFO     |   [32m[SAVED][0m -> [36melectrical-power-system-faculty\index.html[0m (143.1 KB)
+16:01:58 | INFO     |   Resources: 68 paths saved to _resources.json
+16:01:59 | INFO     |   Queued [34m37[0m new internal links
+16:01:59 | INFO     | 
+============================================================
+  Crawling complete!
+  Pages saved: [32m100[0m
+============================================================
+16:01:59 | INFO     | 
+  Sitemap saved to: [36makits_pages_source\sitemap.json[0m
+16:01:59 | INFO     |   HTML index saved to: [36m_index.html[0m

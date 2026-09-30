@@ -1,0 +1,73 @@
+{
+  "url": "https://akits.ac.in/mechanical-hod-profile",
+  "title": "Mechanical Hod Profile",
+  "meta_description": "HOD PROFILE B.SURESH is a Asst.Professor and Head of the Mechanical Engineering Department. He completed Master of Engineering in Thermal Engineering from JNTUH University, Hyderabad and Bachelor’s degree in Mechanical Engineering from Anurag University. He has total of 08 years experience in teaching and 2 years in production Industry. His areas of interest are Metal",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mechanical Hod Profile",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "HOD PROFILE"
+    },
+    {
+      "level": 2,
+      "text": "Mr. B.Suresh"
+    },
+    {
+      "level": 2,
+      "text": "B.Tech,M.Tech."
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "B.SURESH is a Asst.Professor and Head of the Mechanical Engineering Department. He completed Master of Engineering in Thermal Engineering from JNTUH University, Hyderabad and Bachelor’s degree in Mechanical Engineering from Anurag University. He has total of 08 years experience in teaching and 2 years in production Industry. His areas of interest are Metal Matrix Composites, Nan materials, Smart materials, Scheduling, Advanced Manufacturing process, Product design and robotics."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/suresh-photo-240x300.jpg",
+      "alt": "",
+      "width": "240",
+      "height": "300",
+      "class": "attachment-medium size-medium wp-image-12294"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mechanical-hod-profile\\index.html",
+  "route": "/mechanical-hod-profile"
+}

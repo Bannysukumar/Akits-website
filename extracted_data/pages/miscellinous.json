@@ -1,0 +1,41 @@
+{
+  "url": "https://akits.ac.in/miscellinous",
+  "title": "Miscellinous",
+  "meta_description": "Miscellinous",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Miscellinous",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Miscellinous"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/CURRICULUM-ENRICHMENT.pdf",
+      "title": ""
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/ADDED-VALUE-CERTIFICATE-PROGRAMS.pdf",
+      "title": ""
+    }
+  ],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "miscellinous\\index.html",
+  "route": "/miscellinous"
+}

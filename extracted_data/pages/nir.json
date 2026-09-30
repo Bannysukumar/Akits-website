@@ -1,0 +1,32 @@
+{
+  "url": "https://akits.ac.in/nir",
+  "title": "NIR",
+  "meta_description": "NIR",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "NIR",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "NIR"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "nir\\index.html",
+  "route": "/nir"
+}

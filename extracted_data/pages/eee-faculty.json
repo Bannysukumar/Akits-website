@@ -1,0 +1,162 @@
+{
+  "url": "https://akits.ac.in/eee-faculty",
+  "title": "EEE Faculty",
+  "meta_description": "OUR FACULTY EEE Faculty ListS.NoName of the FacultyDesignationExperience1Mr.BABU RAO PADDAMAssociate Professor21 2Mr.MALOTH LAKPATHIAssociate Professor16 3Mr.EASLAVATH HATHIRAMAssistant Professor8 4Mr.DHARAVATH BHADRUAssistant Professor7 5Mr.BANOTH RAMA NAIKAssistant Professor7 6Mr.SURESH BANOTHAssociate Professor12 7Mr.SHAIK AAYUBPASHAAssistant Professor10 8Mr.BHUKYA SURESHAssistant Professor3 9Mr.PRAVEEN KUMAR SANGAPUAssistant Professor5 10Mrs.DIVYA CHILLAAssistant Professor4 11Miss.SEELAM NAGA DURGA SRIAssistant Professor3 12Mrs.SNEHA VALLAKATLAAssistant Professor6 13Mrs.MALOTH AMMULUAssistant Professor2 14Miss.P.MEGHANAAssistant Professor1 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "EEE Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "EEE Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/electrical-electronics-banner1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image.jpg",
+      "alt": "",
+      "width": "316",
+      "height": "159",
+      "class": "attachment-medium_large size-medium_large wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Faculty",
+        "Designation",
+        "Experience"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mr.BABU RAO PADDAM",
+          "Associate Professor",
+          "21"
+        ],
+        [
+          "2",
+          "Mr.MALOTH LAKPATHI",
+          "Associate Professor",
+          "16"
+        ],
+        [
+          "3",
+          "Mr.EASLAVATH HATHIRAM",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "4",
+          "Mr.DHARAVATH BHADRU",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "5",
+          "Mr.BANOTH RAMA NAIK",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "6",
+          "Mr.SURESH BANOTH",
+          "Associate Professor",
+          "12"
+        ],
+        [
+          "7",
+          "Mr.SHAIK AAYUBPASHA",
+          "Assistant Professor",
+          "10"
+        ],
+        [
+          "8",
+          "Mr.BHUKYA SURESH",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "9",
+          "Mr.PRAVEEN KUMAR SANGAPU",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "10",
+          "Mrs.DIVYA CHILLA",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "11",
+          "Miss.SEELAM NAGA DURGA SRI",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "12",
+          "Mrs.SNEHA VALLAKATLA",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "13",
+          "Mrs.MALOTH AMMULU",
+          "Assistant Professor",
+          "2"
+        ],
+        [
+          "14",
+          "Miss.P.MEGHANA",
+          "Assistant Professor",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "eee-faculty\\index.html",
+  "route": "/eee-faculty"
+}

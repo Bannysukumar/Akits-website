@@ -1,0 +1,19 @@
+:root {
+  --primary: #003366;
+  --dark: #0a1628;
+  --accent: #0a4267;
+  --light-blue: #2872fa;
+  --white: #ffffff;
+  --gray: #f2f5f7;
+  --text: #192a3d;
+  --muted: #3a4f66;
+  --line: #e2e8f0;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 16px 40px rgba(10, 22, 40, 0.14);
+  --radius: 8px;
+  --radius-sm: 4px;
+  --font: 'Poppins', sans-serif;
+  --max: 1200px;
+  --nav-h: 52px;
+  --transition: 0.3s ease;
+}

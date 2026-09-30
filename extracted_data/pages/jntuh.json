@@ -1,0 +1,32 @@
+{
+  "url": "https://akits.ac.in/jntuh",
+  "title": "JNTUH",
+  "meta_description": "JNTUH EOAS",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "JNTUH",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "JNTUH"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "jntuh\\index.html",
+  "route": "/jntuh"
+}

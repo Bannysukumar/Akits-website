@@ -1,0 +1,125 @@
+{
+  "url": "https://akits.ac.in/data-science-faculty",
+  "title": "Data Science Faculty",
+  "meta_description": "OUR FACULTY DATA SCIENCE Faculty List S.No Name of the Faculty Designation Experience/Years 1 Mr.SIVA SANDEEP BURUSU Assistant Professor 2 2 Mr.BADHAVATH RAJU Assistant Professor 3 3 Mrs.BACHINA VARSHA Assistant Professor 6 4 Mrs.BOPPISETTI MANASA Assistant Professor 5 5 Mr.N ADI NARAYANA Assistant Professor 2 6 Mrs.SALIGANTI ANITHA Assistant Professor 3 7 Mrs.KURA SRILEKYA Assistant",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Data Science Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "DATA SCIENCE Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image-300x151.jpg",
+      "alt": "",
+      "width": "300",
+      "height": "151",
+      "class": "attachment-medium size-medium wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Faculty",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mr.SIVA SANDEEP BURUSU",
+          "Assistant Professor",
+          "2"
+        ],
+        [
+          "2",
+          "Mr.BADHAVATH RAJU",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "3",
+          "Mrs.BACHINA VARSHA",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "4",
+          "Mrs.BOPPISETTI MANASA",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "5",
+          "Mr.N ADI NARAYANA",
+          "Assistant Professor",
+          "2"
+        ],
+        [
+          "6",
+          "Mrs.SALIGANTI ANITHA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "7",
+          "Mrs.KURA SRILEKYA",
+          "Assistant Professor",
+          "1"
+        ],
+        [
+          "8",
+          "Mrs.CHALLA VINEELA",
+          "Assistant Professor",
+          "1"
+        ],
+        [
+          "9",
+          "Mr.K.VAMSI KRISHNA",
+          "Assistant Professor",
+          "4"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "data-science-faculty\\index.html",
+  "route": "/data-science-faculty"
+}

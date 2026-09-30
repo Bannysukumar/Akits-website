@@ -1,0 +1,893 @@
+[
+  {
+    "route": "/about-aiml-department",
+    "title": "About AIML Department",
+    "description": "About Our Department One of the fields in modern history with the quickest rate of growth is computer science and engineering. It is currently the most important industry in the world despite having only a few decades of history.With the rapid advancement of technology, computer science has revolutionized nearly every aspect of human life —",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-civil-engineering-department",
+    "title": "About Civil Engineering Department",
+    "description": "About Our Department The planning, building, and upkeep of permanent structures, or public works, as they relate to the earth, water, civilization, and its processes, falls under the broad category of civil engineering. Today, the majority of civil engineering is focused on the construction of power plants, bridges, roads, railroads, buildings, water supply, irrigation, the environment,",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-data-science",
+    "title": "About Data Science",
+    "description": "About Our Department One of the fields in modern history with the quickest rate of growth in computer science and engineering. It is currently the most important industry in the world despite having only a few decades of history.For many young enthusiasts, a career in computer science and engineering has proven to be a worthwhile direction,",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-mechanical-department",
+    "title": "About Mechanical Department",
+    "description": "ABOUT OUR DEPARTMENT The Department of Mechanical Engineering was established in 2007, and it has been acting as a support department for other disciplines ever since. In terms of staff, students, and activities, the Department is one of the biggest in best mechanical engineering colleges. It also continues to take the lead and grow its activities",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-our-cse-department",
+    "title": "About Our CSE Department",
+    "description": "About Our Department One of the fields in modern history with the quickest rate of growth is computer science and engineering. It is currently the most important industry in the world despite having only a few decades of history.With the rapid advancement of technology, computer science has revolutionized nearly every aspect of human life —",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-placement",
+    "title": "About Placement",
+    "description": "We offers our students maximum number of opportunities for Placements in top companies.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-thermal-engineering",
+    "title": "About Thermal Engineering",
+    "description": "About Our Department The Department of Mechanical Engineering was established as soon as the AKITS was established in 2007, and it has been acting as a support department for other disciplines ever since. In terms of staff, students, and activities, the Department is one of the biggest in best mechanical engineering colleges. It also continues to",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/about-us",
+    "title": "The best engineering colleges",
+    "description": "We are one of the best engineering colleges where students can enjoy high-quality education and skills.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/academic-photos",
+    "title": "Academic Photos",
+    "description": "",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/academics/calender",
+    "title": "ACADEMIC CALENDAR",
+    "description": "Get your academic calendar for various course here.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/academics/regulations",
+    "title": "Regulations",
+    "description": "To know about the regulations and discipline related to college for students view this page.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/academics/syllabus",
+    "title": "Syllabus",
+    "description": "Get your syllabus for various courses here.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/admission-process-and-guidelines",
+    "title": "Admission Process and Guidelines",
+    "description": "ADMISSION PROCESS & GUIDE LINES ADMISSION PROCESS AND GUIDE LINES The primary entrance exam for engineering admissions in Telangana is the Telangana Engineering, Agriculture and Pharmacy (Veterinary etc.,) Common Entrance Test (TG EAPCET), also known as EAMCET. Admissions are primarily based on merit in this exam, with a portion of seats reserved for management/NRI candidates",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/aiml-faculty",
+    "title": "AIML Faculty",
+    "description": "AI&ML Faculty Faculty ListS.NoFaculty NameDesignationExperience/Years1SAIDAIAH ANGOTHAssociate Professor182VADLADI ASWINIAssistant Professor63VALASA KAVITHAAssistant Professor124CHATRAGADDA PRASANNAAssistant Professor55NALAGONDA RAMESHAssistant Professor46BANOTH NARASIMHA RAOAssistant Professor67LAKSHMANA RAO THUMMALAAssistant Professor38SREENIVASARAO PERALAAssistant Professor39THALLA VINCENT RAJUAssistant Professor710JATOTH SURESHAssistant Professor111BADAVATH NARESHAssistant Professor112REDDYMALLA SARITHAAssistant Professor313NALLAGONDA SAMATHAAssistant Professor114LAKSHMI THRIVENI DHARAVATHAssistant Professor2",
+    "has_images": false,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/aiml-hod-profile",
+    "title": "AIML Hod Profile",
+    "description": "HOD PROFILE Sri S.RAVI KIRAN,B.Tech, M.Tech,(Ph.D), is the department's head.He has been teaching computer technologies for 14 years and has produced several research publications in both national and international journals. The department has highly trained and committed instructors that train students for overall growth. The department offers educational tools for students to create software and",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/aiml-vision-mission",
+    "title": "AIML Vision & Mission",
+    "description": "Our Vision & Mission OUR VISIONBy empowering students with the knowledge and expertise of cutting-edge technologies in computer science and engineering, we can create professionals and business owners with strong values and ethics.OUR MISSIONM1: To establish a strong foundation for learning software development skills through research and innovation.M2: To develop leaders in their chosen fields",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/alumni-pics",
+    "title": "Alumni PIcs | Abdul Kalam Institute of Technology & Science",
+    "description": "Checkout our Alumni pics here.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/alumni-registration",
+    "title": "Alumni Registration | Abdul Kalam Institute of Technology & Science",
+    "description": "Register with Alumni by filling out this form",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/alumni",
+    "title": "Alumni",
+    "description": "AKITS has a strong, lively alumni association that extends across the globe. This thriving alumni network brings great value to everyone associated with AKITS",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/book-chapter-publicaitons",
+    "title": "Book Chapter Publicaitons",
+    "description": "Book Chapter Publications CLICK HERE : BOOK CHAPTER PUBLICATION RECORD",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/civil-department-achievements",
+    "title": "Civil Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/civil-engineering-faculty",
+    "title": "Civil Engineering Faculty",
+    "description": "OUR FACULTY CIVIL Faculty List S.No Faculty Name Designation Experience/Years 1 MOHAMMAD ABDUL MUNEER Associate Professor 12 2 ESLAVATH SUDHAKAR Assistant Professor 7 3 ILLANGI KUMAR VINOD Assistant Professor 7 4 BHUKYA SURESH Assistant Professor 8 5 KRISHNA PRASAD LAKAVATH Assistant Professor 8 6 THIRUNAGARI SRUTHI Assistant Professor 6 7 JETTY SRINIVAS Associate Professor 20",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/civil-engineering-hod-profile",
+    "title": "Civil Engineering Hod Profile",
+    "description": "HOD PROFILE Mr.MD.ABDUL MUNEER,B.Tech,M.tech,(Ph.D) is a Asst.Professor and Head of the CIVIL Engineering Department. He has pursuing Ph.D in SR University,Warangal and He completed Master of Engineering in Structural Engineering from AKITS Institution, Kothagudem and Bachelor’s degree in Civil Engineering from KLR Engineering College. He has total of 12 years experience in teaching and .",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/civil-engineering-labs",
+    "title": "Civil Engineering Labs",
+    "description": "OUR LABS Surveying Lab Strength Of Materials Lab Engineering Geology Lab Computer Aided Civil Engineering Drawing Hydraulics & Hydraulic Machinery Lab Highway Engineering & Concrete Technology Lab Geotechnical Engineering Lab Environmental Engineering Lab Computer-Aided Design Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/committee-for-sc-st",
+    "title": "Committee For SC/ST",
+    "description": "Committee For SC/ST Purpose of the Committee:The SC/ST Committee is constituted in accordance with the guidelines of the University Grants Commission (UGC) and/or AICTE to ensure the welfare, equal opportunity, and protection of rights for Scheduled Caste and Scheduled Tribe students, faculty, and staff within the institution. Objectives:1. To prevent caste-based discrimination in any form.2.",
+    "has_images": false,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/contact-form-for-admissions",
+    "title": "Contact Form For Admissions",
+    "description": "Contact Form For Admissions Admission Purpose Contact Click here to fill the Admission Form ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCIENCES. Vepalagadda(v),Sujathanagar(M),BhadradriKothagudem(Dist). Pincode: 507120",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/cse-achievements",
+    "title": "Cse Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/cse-hod-profile",
+    "title": "CSE HOD Profile",
+    "description": "HOD PROFILE Sri S.RAVI KIRAN,B.Tech, M.Tech,(Ph.D), is the department's head.He has been teaching computer technologies for 14 years and has produced several research publications in both national and international journals. The department has highly trained and committed instructors that train students for overall growth. The department offers educational tools for students to create software and",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/cultural-celebrations",
+    "title": "Cultural Celebrations",
+    "description": "We encourage our students to celebrate all kinds of festivals, organize cultural competitions etc to ensure they have a wholesome education. NATIONAL SERVICE SCHEME (NSS) | AKITS We encourage our students to be part of the NSS. NSS Programmes | AKITS To find out about NSS programs conducted at AKITS visit here. NSS Pics | AKITS To view NSS pictures of NSS events visit here.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/data-science-faculty",
+    "title": "Data Science Faculty",
+    "description": "OUR FACULTY DATA SCIENCE Faculty List S.No Name of the Faculty Designation Experience/Years 1 Mr.SIVA SANDEEP BURUSU Assistant Professor 2 2 Mr.BADHAVATH RAJU Assistant Professor 3 3 Mrs.BACHINA VARSHA Assistant Professor 6 4 Mrs.BOPPISETTI MANASA Assistant Professor 5 5 Mr.N ADI NARAYANA Assistant Professor 2 6 Mrs.SALIGANTI ANITHA Assistant Professor 3 7 Mrs.KURA SRILEKYA Assistant",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/data-science-labs",
+    "title": "Data Science Labs",
+    "description": "Our LABS Data Structures Lab Programming For Problem Solving Lab Operating Systems Lab Database Management Systems Lab Java Programming Lab Computer Networks & Web Technologies Lab Python Programming Lab C++ Programming Lab IT Workshop Lab Software Engineering Lab Cryptography & Network Security Lab Compiler Design Lab Machine Learning Lab Quick Links About Our Department Misson",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/dvv",
+    "title": "DVV",
+    "description": "NAAC-DVV NAAC - DVV Extended Profile 1: StudentsLink1.1 – ProofClick Here2: TeachersLink2.1 – Proof 1Click Here2.1 – Proof 2Click Here3: InstitutionLink3.1 – ProofClick Here Criterion 1 Criterion 1 – Curricular AspectsLink1.2 Academic Flexibility Metric: 1.2.1 – ProofClick HereMetric: 1.2.2 – ProofClick Here1.3 Curriculum Enrichment Metric: 1.3.2 – ProofClick Here1.4 Feedback System Metric: 1.4.1 – ProofClick Here Criterion 2",
+    "has_images": false,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/ece-department-achievements",
+    "title": "ECE Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/ece-hod-profile",
+    "title": "ECE Hod Profile",
+    "description": "HOD PROFILE Sri G.KRISHNA MOHAN,B.Tech, M.Tech,(Ph.D) is the department’s head. He has been teaching in Electronic and communication for 14 years and has produced several research publications in both national and international journals. The department has highly trained and committed instructors that train students for overall growth. The department offers educational tools for students to",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/ece-labs",
+    "title": "ECE Labs",
+    "description": "Our LABS Electronic devices & Circuits Lab Digital System Design Lab Basic Simulation Lab Analog & Digital Communication Lab IC Applications Lab Electronic Circuit Analysis Lab Microprocessor & Microcontroller Lab Data Communication & Networks Lab Digital Signal Processing Lab E-CAD Lab Scripting Languages Lab Microwave & Optical Communications Lab List Item Quick Links About Our",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/eee-department-achievements",
+    "title": "EEE Department Achievements",
+    "description": "Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/eee-faculty",
+    "title": "EEE Faculty",
+    "description": "OUR FACULTY EEE Faculty ListS.NoName of the FacultyDesignationExperience1Mr.BABU RAO PADDAMAssociate Professor21 2Mr.MALOTH LAKPATHIAssociate Professor16 3Mr.EASLAVATH HATHIRAMAssistant Professor8 4Mr.DHARAVATH BHADRUAssistant Professor7 5Mr.BANOTH RAMA NAIKAssistant Professor7 6Mr.SURESH BANOTHAssociate Professor12 7Mr.SHAIK AAYUBPASHAAssistant Professor10 8Mr.BHUKYA SURESHAssistant Professor3 9Mr.PRAVEEN KUMAR SANGAPUAssistant Professor5 10Mrs.DIVYA CHILLAAssistant Professor4 11Miss.SEELAM NAGA DURGA SRIAssistant Professor3 12Mrs.SNEHA VALLAKATLAAssistant Professor6 13Mrs.MALOTH AMMULUAssistant Professor2 14Miss.P.MEGHANAAssistant Professor1 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/eee-hod-profile",
+    "title": "EEE Hod Profile",
+    "description": "HOD PROFILE Mr.P.BABU RAO is a Associate Professor and Head of the Electrical & Electronics Engineering Department. He is pursuing PhD in Power Electronics and Drives from Sri Satyasai University of Technology and Medical Sciences.-M.P.He received M.Tech in Power Electronics from Jawaharlal Nehru Technological University-hyderabad in 2010, B.Tech degree in Electrical & Electronics Engineering from",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/eee-labs",
+    "title": "EEE Labs",
+    "description": "OUR LABS Basic Electrical Engineering Lab Electrical and Electronics Engineering Lab Electrical Circuits Analysis Lab Electrical Machines-I Lab Electrical Machines-II Lab Control Systems Lab Power Electronics Lab Power Systems Lab Electrical Measuring Instrumentation Lab Simulation of Renewable Energy Systems Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/eee-vision-mission",
+    "title": "EEE Vision & Mission",
+    "description": "Our Vision & Mission OUR VISIONTo become a leading centre for producing Electrical and Electronics Engineers, creative researchers, and entrepreneurs who tackle the challenges facing the world in the future.OUR MISSIONTo create highly skilled electrical engineers who will serve society and the country. To equip graduates with cutting-edge electrical and electronic engineering knowledge. To raise awareness of renewable resource",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/electrical-power-system-department-achievements",
+    "title": "Electrical Power System Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/electrical-power-system-faculty",
+    "title": "Electrical Power System Faculty",
+    "description": "OUR FACULTY M.TECH(EPS) Faculty S.No Name of the Faculty Designation Experience/Years 1 Dr.SUNDARI SRAVAN KUMAR Professor 12 2 Mr.VENU GOPAL BOMMASANI Associate Professor 10 3 Dr.NEELAMEGAM MANOHARAN Associate Professor 23 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/electrical-power-system-hod-profile",
+    "title": "Electrical Power System Hod Profile",
+    "description": "HOD PROFILE Dr.S.Sravan Kumar, B.Tech, M.Tech,Ph.D is a Associate Professor and Head of the M.Tech(EPS),He has completed Ph.D in Electrical Power Systems from JJT university,Rajasthan, Master Degree in Power Electronics and Electric Drives from KMIC&S,Hyderabad,and Bachelor’s degree in Electrical and Electronics Engineering from SVEC Engineering College. He has total of 12 years experience in teaching.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/electrical-power-system-labs",
+    "title": "Electrical Power System Labs",
+    "description": "OUR LABS Power Systems Computation Lab-I Advanced Power Systems Lab Power Systems Computation Lab-II Power System Protection Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/electrical-power-system-vision-mission",
+    "title": "Electrical Power System Vision & Mission",
+    "description": "Our Vision & Mission OUR VISIONTo become a leading centre for producing Electrical and Electronics Engineers, creative researchers, and entrepreneurs who tackle the challenges facing the world in the future.OUR MISSIONTo create highly skilled electrical engineers who will serve society and the country. To equip graduates with cutting-edge electrical and electronic engineering knowledge. To raise awareness of renewable resource",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/equal-opportunity-cell",
+    "title": "Equal Opportunity Cell",
+    "description": "Equal Opportunity Cell (EOC) The Equal Opportunity Cell is formed to ensure that all students and staff—regardless of caste, gender, religion, disability, or socio-economic background—are provided equal access, opportunities, and support in the academic and institutional environment.It aligns with the mandates of the UGC, AICTE, and National Commission for Minority Educational Institutions (NCMEI). Key Objectives:1.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/exam-notifications",
+    "title": "Exam Notifications",
+    "description": "EXAM NOTIFICATIONS EXAM NOTIFICATION EXAM TIME TABLE EXAMINATION NOTIFICATIONS DE-250429-175047-Notification_BTech _II-II_reg_sup_II_I_sup_Jun_jul_2025DE-241126-113038-Notification_for_BTech_III_I_Reg_Sup_III-II_Sup_Exams JAN-2025DE-241211-165850-Notification_for_BTech_I_I_Reg_Sup_I-II_Sup_Exams_Jan_ Feb_2025DE-241223-174222-Notification_BTech_BTechMINOR__BPharm_IV_I_Reg_Sup_Exams _FEB_2025DE-241130-120816-Notification_Project _Thesis_Phase_II_for_MTech_MPharm_Dec_2024_Jan_2025DE-241223-174222-Notification_BTech_BTechMINOR__BPharm_IV_I_Reg_Sup_Exams _FEB_2025Notification for MBA I Sem Regular & Supply and II Sem Supply Exams Feb_Mar_2025Notification for MCA I Sem Regular & Supply and II Sem Supply Exams Feb_Mar_2025DE-250120-113024-Notification_MTech_I_I_Reg_Sup_I_II_Sup_Exams_Mar_2025DUEX-241221-165338-Notification_MTech_III Sem_Reg_Sup_Exams_Feb_2025DUEX-241126-113250-Notification_for_BTech_III_I_Reg_Sup_III-II_Sup_Exams JAN-2025DUEX-241104-125233-BTech_I_I_R22_Re-Rregistration_Nov_2024DE-250301-125311-BTech_II_II_R22_Re-Rregistration_MARCH_2025 final JNTUH R25 Curriculam Expert Suggestions-Feedback Forms",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/fee-refund-policy",
+    "title": "Fee Refund Policy",
+    "description": "FEE REFUND POLICY FEE REFUND POLICY FEE REFUND POLICY 2024-25",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/free-hostel",
+    "title": "Free Hostel",
+    "description": "Free Hostel Form Hostel form Name * Name First First Last Last Father Name Date Of Birth Phone * Cast Email * Address If you are human, leave this field blank. Submit",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/gallery/media-gallery",
+    "title": "Media Gallery",
+    "description": "Various media and news postings related to AKITS can be found here on this page.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/gallery/video-gallery",
+    "title": "Video Gallery",
+    "description": "For various videos of events and functions at AKITS please visit here.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": true,
+    "has_documents": false
+  },
+  {
+    "route": "/iiaq",
+    "title": "IIQA",
+    "description": "IIQA Download PDF.",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/",
+    "title": "Abdul Kalam Institute of Technology & Science",
+    "description": "The Abdul Kalam College in Kothagudem is one of the best Engineering colleges offering multi-disciplinary education for students equipped with top facilities.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": true,
+    "has_documents": true
+  },
+  {
+    "route": "/infrastructure/grievance",
+    "title": "Grievance",
+    "description": "It is a committee to present grievances of all sorts for students, staff and parents.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/hostel-3",
+    "title": "Hostel",
+    "description": "A separate dormitory with well-lit, ventilated rooms for boys and girls on the campus of Abdul Kalam institute of technology & science.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/iicinstitute-industries-interaction-council",
+    "title": "IIC",
+    "description": "The Institution-Industry cell Committee was constituted for the academic session.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/library",
+    "title": "Library | Abdul Kalam Institute of Technology & Science",
+    "description": "A library and information centre are available at AKITS College in Kothagudem to aid in teaching, learning, and research activities.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/nptel",
+    "title": "NPTEL",
+    "description": "It is an initiative financed by the Ministry of Human Resource Development, Government of India, to create and promote open access, web-based, multimedia learning.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/nss",
+    "title": "NSS | Abdul Kalam Institute of Technology & Science",
+    "description": "We run Nss programs with our student and it helps in developing the personality of students through community service.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/infrastructure/tcsnta-exam-cell",
+    "title": "TCS & NTA | Abdul Kalam Institute of Technology & Science",
+    "description": "We offer TCS and NTA opportunities for our students which will be useful for their career",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/internal-compliant-committee",
+    "title": "Internal Compliant Committee",
+    "description": "Internal Compliant Committee Internal Complaints Committees (ICCs) are mandated to handle complaints of sexual harassment at the workplace, ensuring a safe and respectful environment. These committees are responsible for investigating complaints, providing a fair hearing to both the complainant and respondent, and implementing recommendations. The ICC must complete its investigation within 90 days of receiving the",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/iqac",
+    "title": "IQAC",
+    "description": "IQAC The Internal Quality Assurance Cell (IQAC) was established in the year 2018 at ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCINECES to promote quality enhancement of all aspects of Institute functioning. It aims to evolve a mechanisms and procedures to ensure efficient, effective and progressive performance of academic and administrative tasks and to maintain relevance and",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/iste-chapter",
+    "title": "ISTE Chapter",
+    "description": "ISTE CHAPTER",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/jntuh",
+    "title": "JNTUH",
+    "description": "JNTUH EOAS",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mandatory-documents/online-greviance-redressal-form",
+    "title": "Online Grievance Redressal Form",
+    "description": "AKITS is very student friendly college where we take into consideration their genuine grievances and issues brought to notice by parents related to academics or facilities. So feel free to let us know your grievances.",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mba-department-achievements",
+    "title": "MBA Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mba-labs",
+    "title": "MBA Labs",
+    "description": "OUR LABS Business Communication Lab Statistical Data Analysis Lab Leadership Skills Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mba-mission-vision",
+    "title": "MBA Mission & Vision",
+    "description": "Our Vision & Mission OUR VISIONTo train and motivate fearless young management leaders who are in demand in the field and who can become prosperous managers and business owners with a sense of social responsibility.OUR MISSIONThe goal of education is to give pupils the skills, information, and attitude they need to carry out managerial duties",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mechanical-department-achievements",
+    "title": "Mechanical Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mechanical-faculty",
+    "title": "Mechanical Faculty",
+    "description": "OUR FACULTY Mechanical Faculty ListS.NoName of the FacultyDesignationExperience/Years 1Mr.BHUKYA SURESHAssistant Professor8 2Mr.YANAKAPATI KRISHNAAssistant Professor8 3 Mr.PERAM RAGHUAssistant Professor74Mr.PIDUGU RAKESHAssistant Professor65Mr.YENUTI ANILAssistant Professor56Miss.DIMPLE BYRIAssistant Professor37 Mrs.S.T.VISHALAKSHIAssistant Professor8 8Mrs.MAHABOOBI MOHAMMEDAssistant Professor59Mr. BHARATH CHINTAAssistant Professor3 10Mr.P V V RAJARAOAssistant Professor911Mr.KUMAR SAI TALLOORIAssistant Professor8 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mechanical-hod-profile",
+    "title": "Mechanical Hod Profile",
+    "description": "HOD PROFILE B.SURESH is a Asst.Professor and Head of the Mechanical Engineering Department. He completed Master of Engineering in Thermal Engineering from JNTUH University, Hyderabad and Bachelor’s degree in Mechanical Engineering from Anurag University. He has total of 08 years experience in teaching and 2 years in production Industry. His areas of interest are Metal",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mechanical-labs",
+    "title": "Mechanical Labs",
+    "description": "Our LABS Engineering Workshop Lab Material Science & Mechanics of Solids Lab Production Technology Lab Machine Drawing Lab Fluids Mechanics & Hydraulic Machines Lab Instrumentation & Control Systems Lab Thermal Engineering Lab Machine Tools & Metrology Lab Kinematics & Dynamics Lab Heat Transfer Lab CAD/CAM Lab Engineering Workshop Lab Material Science & Mechanics of Solids",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mechanical-vision-mission",
+    "title": "Mechanical Vision & Mission",
+    "description": "Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society.OUR MISSIONM1: To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mining-engineering-department-achievements",
+    "title": "Mining Engineering Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mining-engineering-faculty",
+    "title": "Mining Engineering Faculty",
+    "description": "OUR FACULTY MINING Faculty List S.No Faculty Name Designation Experience/Years 1 VINOD BANOTH Assistant Professor 8 2 DONGIRI PRASANTH Assistant Professor 5 3 VIKRAM SAKINALA Assistant Professor 6 4 MUNIPALA MANOHAR Assistant Professor 4 5 SAI NARENDRA PENTA Assistant Professor 4 6 BALAKRISHNA SURLA Assistant Professor 3 7 BANOTH PRASAD Assistant Professor 6 8 VENKATARAM",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mining-engineering-hod-profile",
+    "title": "Mining Engineering Hod Profile",
+    "description": "HOD PROFILE MrB.VINOD KUMAR, B.Tech, M.tech, is a Asst.Professor and Head of the MINING Engineering Department. He has completed Master of Engineering in Mining Engineering from Bhagavath University,Rajasthan, and Bachelor’s degree in Mining Engineering from ABIT Engineering College. He has total of 8 years experience in teaching and . He has industry experience in SCCL",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mining-engineering-labs",
+    "title": "Mining Engineering Labs",
+    "description": "OUR LABS Mine Surveying Lab Mechanics Of Solids Lab Fluid Mechanics & Hydraulic Machines Lab Mineral Processing Engineering Lab Mine Environmental Engineering Lab Mine Machanization Lab Ground Control & Instrumentation Lab and Computer Applications in Mining Lab Rock Mechanics Engineering Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/miscellinous",
+    "title": "Miscellinous",
+    "description": "Miscellinous",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/mous-collobrations",
+    "title": "MOUS & Collobrations",
+    "description": "MOUS Hackboats MOUS-IHackboats MOUS-IIMaramanishi MOUS-IMaramanishi MOUS-IINexaway MOUS-INexaway MOUS-IISamagra MOUS-ISamagra MOUS-IISemicolon MOUS-ISemicolon MOUS-II Collabrations Collabrations",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/nir",
+    "title": "NIR",
+    "description": "NIR",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/nirf",
+    "title": "NIRF",
+    "description": "NIRF",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/non-academics-photos",
+    "title": "Non-Academics Photos",
+    "description": "",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/non-teaching-staff",
+    "title": "Non-Teaching Staff",
+    "description": "",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/placement-photos",
+    "title": "Placement Photos",
+    "description": "",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/placement-record",
+    "title": "Placement Record",
+    "description": "Explore Our Placement Record and details, we offer best placements for our students.",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/prospectus",
+    "title": "Prospectus",
+    "description": "AKITS PROSPECTUS AKITS PROSPECTUS CLICK HERE (PROSPECTUS)",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": true
+  },
+  {
+    "route": "/research",
+    "title": "Research",
+    "description": "Research ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCIENCES (AKITS) has promoted meaningful scientific industrial Research and Development activities with a vision and mission to pursue and promote Research in Frontier Technologies as well as in the various disciplines of Engineering. For any education, specifically technical education, the basic model of a ‘teaching – only’ institution is",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/rti",
+    "title": "RTI",
+    "description": "RTI Statutory Declaration under Section 4 (1) b Right to Information (RTI) Act 2005, Particulars of the organization Courses Offered UG Programs PG Programs Diploma Programs Affiliated to state Board of Technical Education and Training Statutory Declaration under the RTI Act 2005 Section 4(1) (b) of Act 2005 covers the statutory declaration of Abdulkalam Institute",
+    "has_images": false,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/sexual-harassment-committee",
+    "title": "Sexual Harassment Committee",
+    "description": "ANTI SEXUAL HARASSMENT CELL Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. It helps the female staff of the office of working place to address their grievances regarding violence & harassment cases, if any.The Prevention Sexual Harassment cell is committed to•Observing the law on Sexual Harassment•Sensitizing the community on gender issues•Assisting",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/sports",
+    "title": "Sports",
+    "description": "The Department is headed by a Professor of Physical Education supported by two Assistant Physical Directors and two Grounds men. The College is extensively promoting sports and games through its Constituent /Affiliated Colleges, Institutes, and Schools. The students are participating in various events and games inside and outside the college and are bringing laurels to",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/teaching-staff",
+    "title": "Teaching Faculty",
+    "description": "FACULITY FOR THE A.Y-2024-2025",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/thermal-engineering-department-achievements",
+    "title": "Thermal Engineering Department Achievements",
+    "description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/thermal-engineering-faculty",
+    "title": "Thermal Engineering Faculty",
+    "description": "OUR FACULTY M.TECH(TE)Faculty List S.No Name of the Faculty Designation Experience/Years 1 Dr.RAMAKRISHNA MUCHARLA Professor 22 2 Dr.VENKATA NARAYANA BEERAVELLI Associate Professor 16 3 Dr.V SITARAM PRASAD VEERAVELLI Professor 25 3 Mr.YANAKAPATI KRISHNA Associate Professor 8 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/thermal-engineering-hod-profile",
+    "title": "Thermal Engineering Hod Profile",
+    "description": "HOD PROFILE Dr.M.RamaKrishna, B.Tech, M.Tech,Ph.D is a Associate Professor and Head of the M.Tech(TE),He has completed Ph.D in Thermal Engineering from JNTUH, Master Degree in Structural Engineering from AVCERC,Nalgonda,and Bachelor’s degree in Civil Engineering from KLR Engineering College. He has total of 22 years experience in teaching. and has produced several research publications in both",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/thermal-engineering-labs",
+    "title": "Thermal Engineering Labs",
+    "description": "Our LABS Advanced Thermal Engineering lab Advanced Fluid Mechanics Lab Advanced Heat Transfer Lab Computational Methods Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/thermal-engineering-mission-vision",
+    "title": "Thermal Engineering Mission & Vision",
+    "description": "Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society.OUR MISSION To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical attitudes,",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/training-placements/placement-activities",
+    "title": "Placement Activities",
+    "description": "We Conduct So many Placement Drives and activities for our students to get a better job in reputed company",
+    "has_images": true,
+    "has_tables": true,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/training-placements/placement-training",
+    "title": "Training Activities",
+    "description": "We conduct Traning activities for our student to get better in every aspect of their learning",
+    "has_images": true,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  },
+  {
+    "route": "/ugc-2f12b",
+    "title": "UGC 2F & 12B",
+    "description": "UGC 2F & 12B UGC 2F & 12B ",
+    "has_images": false,
+    "has_tables": false,
+    "has_videos": false,
+    "has_documents": false
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "url": "https://akits.ac.in/alumni",
+  "title": "Alumni",
+  "meta_description": "AKITS has a strong, lively alumni association that extends across the globe. This thriving alumni network brings great value to everyone associated with AKITS",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Alumni",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/13-1-1.jpg",
+  "headings": [
+    {
+      "level": 3,
+      "text": "AKITS Alumni"
+    }
+  ],
+  "paragraphs": [
+    "“Goodbyes are not forever, Goodbyes are not the end, They simply mean I will miss you until we meet again.”",
+    "There is a robust, active alumni network for AKITS that spans the entire world. Everyone connected to AKITS benefits greatly from this thriving alumni network, which raises brand awareness, fosters possibilities for current students and provides guidance.",
+    "While the Abdul Kalam College in Kothagudem experience begins on campus, we firmly believe that it lasts a lifetime. The alumni association is crucial in forging enduring connections and fostering comradery among a worldwide group.",
+    "Since AKITS graduates are dispersed all over the world, they can always expect a friendly greeting.Alumni of AKITS give their time, effort, and knowledge to support the AKIT fraternity’s expansion, improvement, and success. The AKITS alumni association seeks to promote continuous learning by fostering the sharing of information. To improve their members’ personal and professional development, alumni pool their abilities and use the tools at their disposal.",
+    "The AKITS alumni association seeks to promote continuous learning by fostering the sharing of information. To improve their members’ personal and professional development, alumni pool their abilities and use the tools at their disposal.",
+    "To assist current and former students in the process of trying to give their futures a clear and purposeful direction, the Association wants to set up a guidance cell. Along with aiding the placement cell, the counselling cell will also help current students access project facilities in various businesses relevant to their interests.The association has to build a strong network among the alumni in order to carry out the aforementioned activities and projects. All AKITS alumni are urged to join the Alumni association and make sure their contact information is accurate by registering as members."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/13-1-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/72.jpg",
+      "alt": "",
+      "width": "1280",
+      "height": "960",
+      "class": "attachment-full size-full wp-image-12603"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "alumni\\index.html",
+  "route": "/alumni"
+}

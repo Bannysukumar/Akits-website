@@ -1,0 +1,168 @@
+{
+  "url": "https://akits.ac.in/civil-engineering-faculty",
+  "title": "Civil Engineering Faculty",
+  "meta_description": "OUR FACULTY CIVIL Faculty List S.No Faculty Name Designation Experience/Years 1 MOHAMMAD ABDUL MUNEER Associate Professor 12 2 ESLAVATH SUDHAKAR Assistant Professor 7 3 ILLANGI KUMAR VINOD Assistant Professor 7 4 BHUKYA SURESH Assistant Professor 8 5 KRISHNA PRASAD LAKAVATH Assistant Professor 8 6 THIRUNAGARI SRUTHI Assistant Professor 6 7 JETTY SRINIVAS Associate Professor 20",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Civil Engineering Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "CIVIL Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image.jpg",
+      "alt": "",
+      "width": "316",
+      "height": "159",
+      "class": "attachment-full size-full wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Faculty Name",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "MOHAMMAD ABDUL MUNEER",
+          "Associate Professor",
+          "12"
+        ],
+        [
+          "2",
+          "ESLAVATH SUDHAKAR",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "3",
+          "ILLANGI KUMAR VINOD",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "4",
+          "BHUKYA SURESH",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "5",
+          "KRISHNA PRASAD LAKAVATH",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "6",
+          "THIRUNAGARI SRUTHI",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "7",
+          "JETTY SRINIVAS",
+          "Associate Professor",
+          "20"
+        ],
+        [
+          "8",
+          "GUGULOTHU LAXMI VIJAYA",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "9",
+          "SIREESHA JALLI",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "10",
+          "PRASAD VADTHYA",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "11",
+          "NASEERUDDIN SYED NASEERUDDIN",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "12",
+          "PRAVEEN THOTA",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "13",
+          "BOLLAM YESHWANTH",
+          "Assistant Professor",
+          "4"
+        ],
+        [
+          "14",
+          "VENKATESWARLU BENABOINA",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "15",
+          "BOMMANAPALLY RAMAKRISHNA",
+          "Assistant Professor",
+          "5"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "civil-engineering-faculty\\index.html",
+  "route": "/civil-engineering-faculty"
+}

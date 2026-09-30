@@ -1,0 +1,89 @@
+{
+  "url": "https://akits.ac.in/electrical-power-system-faculty",
+  "title": "Electrical Power System Faculty",
+  "meta_description": "OUR FACULTY M.TECH(EPS) Faculty S.No Name of the Faculty Designation Experience/Years 1 Dr.SUNDARI SRAVAN KUMAR Professor 12 2 Mr.VENU GOPAL BOMMASANI Associate Professor 10 3 Dr.NEELAMEGAM MANOHARAN Associate Professor 23 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Electrical Power System Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "M.TECH(EPS) Faculty"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image-300x151.jpg",
+      "alt": "",
+      "width": "300",
+      "height": "151",
+      "class": "attachment-medium size-medium wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Faculty",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.SUNDARI SRAVAN KUMAR",
+          "Professor",
+          "12"
+        ],
+        [
+          "2",
+          "Mr.VENU GOPAL BOMMASANI",
+          "Associate Professor",
+          "10"
+        ],
+        [
+          "3",
+          "Dr.NEELAMEGAM MANOHARAN",
+          "Associate Professor",
+          "23"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "electrical-power-system-faculty\\index.html",
+  "route": "/electrical-power-system-faculty"
+}

@@ -1,0 +1,319 @@
+{
+  "url": "https://akits.ac.in/infrastructure/library",
+  "title": "Library | Abdul Kalam Institute of Technology & Science",
+  "meta_description": "A library and information centre are available at AKITS College in Kothagudem to aid in teaching, learning, and research activities.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Facilities",
+      "url": "https://akits.ac.in/infrastructure/"
+    },
+    {
+      "name": "Library",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Library"
+    },
+    {
+      "level": 4,
+      "text": "Library Committee"
+    },
+    {
+      "level": 4,
+      "text": "B.Tech,M.Tech & MBA Titles & Volumes"
+    },
+    {
+      "level": 4,
+      "text": "Library Information"
+    }
+  ],
+  "paragraphs": [
+    "The central Library has a floor area of 500.44 Sq.Mtr. with a reading space 300.20 Sq.Mtr. It houses more than 6095 titles, 31597 volumes and subscribes to 1125 E-Journals, 3600 E-Books and also 180 National and International print Journals & magazines. Central library is equipped with different types of learning resources. It also has reprographic facilities. Library uses Online Public Access Catalog (WEB OPAC) to access library facilities through digital Library. The digital library has 20 systems and connected with 2 Gbps (ACT FIBERNET), 100 Mbps (AIRTEL), 36 Mbps (JIO FIBER) Internet facilities. It enables students to access remotely to IEEE IEL, ASME, ASCE, ELSEVIER, NList, DELNET and NDLI. The college provides a book-lending scheme to the students with a full set of textbooks for a nominal annual payment in addition to the provision of issuing 4 books on renewal basis per student. The library is fully computerized and availability of any book in the library can be checked just by a click of mouse."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/01/DSC_1560-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "attachment-large size-large wp-image-6106"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/01/DSC_1556-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "attachment-large size-large wp-image-6105"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IMG-20220607-WA0028-1024x768.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-11682"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IMG-20220607-WA0076-1024x462.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "462",
+      "class": "attachment-large size-large wp-image-11693"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/IMG-20220607-WA0026-1.jpg",
+      "alt": "",
+      "width": "854",
+      "height": "548",
+      "class": "attachment-large size-large wp-image-11695"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/lb-1-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12247"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/lb3-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12248"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/l-1024x768.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-11765"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/l11-1024x768.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-11782"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Member",
+        "Designation",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.D.Dayakar Rao",
+          "Chair-Person/Principal",
+          "ECE"
+        ],
+        [
+          "2",
+          "Mrs.E.Rajyalaxmi",
+          "Librarian",
+          "M.A,M.Li.Sc"
+        ],
+        [
+          "3",
+          "Mrs.T.Nagamani",
+          "Asst.Librarian",
+          "MBA"
+        ],
+        [
+          "4",
+          "Mr.P.Babu Rao",
+          "Member",
+          "EEE"
+        ],
+        [
+          "5",
+          "Mr.S.RaviKiran",
+          "Member",
+          "CSE"
+        ],
+        [
+          "6",
+          "Mr.G.Krishnamohan",
+          "Member",
+          "ECE"
+        ],
+        [
+          "7",
+          "Mr.MD.Abdul Muneer",
+          "Member",
+          "CIVIL"
+        ],
+        [
+          "8",
+          "Mr.B.Vinod",
+          "Member",
+          "MINING"
+        ],
+        [
+          "9",
+          "Mr.B.Suresh",
+          "Member",
+          "MECH"
+        ],
+        [
+          "8",
+          "Mrs.D.Ambika",
+          "Member",
+          "MBA"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Department",
+        "Titiles",
+        "Volumes"
+      ],
+      "rows": [
+        [
+          "1",
+          "EEE",
+          "1229",
+          "5980"
+        ],
+        [
+          "2",
+          "ECE",
+          "849",
+          "4700"
+        ],
+        [
+          "3",
+          "CSE",
+          "836",
+          "4900"
+        ],
+        [
+          "4",
+          "MECH",
+          "524",
+          "4200"
+        ],
+        [
+          "5",
+          "CIVIL",
+          "460",
+          "3350"
+        ],
+        [
+          "6",
+          "MINING",
+          "420",
+          "2217"
+        ],
+        [
+          "7",
+          "H&S",
+          "758",
+          "2800"
+        ],
+        [
+          "8",
+          "M.TECH(EPS)",
+          "110",
+          "500"
+        ],
+        [
+          "9",
+          "M.TECH(TE)",
+          "106",
+          "550"
+        ],
+        [
+          "8",
+          "MBA",
+          "470",
+          "2300"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Particulars",
+        "Quantity"
+      ],
+      "rows": [
+        [
+          "1",
+          "Number of Titles",
+          "6095"
+        ],
+        [
+          "2",
+          "Total Volume of Books",
+          "31597"
+        ],
+        [
+          "3",
+          "Reference Books",
+          "12500"
+        ],
+        [
+          "4",
+          "National Journals & Magazines Print",
+          "120"
+        ],
+        [
+          "5",
+          "International Journals Print",
+          "60"
+        ],
+        [
+          "6",
+          "E-Journals (IEEE, ASME, ASCE, ELSEVIER, J-GATE, N-LIST & DELNET)",
+          "1602"
+        ],
+        [
+          "7",
+          "E-Books from N-LIST & DELNET",
+          "5620"
+        ],
+        [
+          "8",
+          "Project Reports",
+          "1240"
+        ],
+        [
+          "9",
+          "SC/ST Books",
+          "24500"
+        ],
+        [
+          "10",
+          "BOOKS AND JOURNALS CDs",
+          "1241"
+        ],
+        [
+          "11",
+          "Digital Library Systems",
+          "20"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "infrastructure\\library\\index.html",
+  "route": "/infrastructure/library"
+}

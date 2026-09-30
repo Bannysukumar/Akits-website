@@ -1,0 +1,70 @@
+{
+  "url": "https://akits.ac.in/civil-department-achievements",
+  "title": "Civil Department Achievements",
+  "meta_description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Civil Department Achievements",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Achivements"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-09-01-at-6.55.15-PM-1024x576.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/NPTL-PAPERS_page-0002-1024x717.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "717",
+      "class": "attachment-large size-large"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "civil-department-achievements\\index.html",
+  "route": "/civil-department-achievements"
+}

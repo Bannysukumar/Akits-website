@@ -1,0 +1,203 @@
+{
+  "url": "https://akits.ac.in/cultural-celebrations",
+  "title": "Cultural Celebrations",
+  "meta_description": "We encourage our students to celebrate all kinds of festivals, organize cultural competitions etc to ensure they have a wholesome education. NATIONAL SERVICE SCHEME (NSS) | AKITS We encourage our students to be part of the NSS. NSS Programmes | AKITS To find out about NSS programs conducted at AKITS visit here. NSS Pics | AKITS To view NSS pictures of NSS events visit here.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Cultural Celebrations",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/Cultural-Celebrations.png",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Cultural Celebrations"
+    },
+    {
+      "level": 4,
+      "text": "Faculty Committee"
+    },
+    {
+      "level": 4,
+      "text": "Student Committee"
+    }
+  ],
+  "paragraphs": [
+    "Our lives depend greatly on cultural activities.Participating in these activities will help us to relax and clear our minds.The most interesting aspects of campus life at schools like Abdul Kalam College inKothagudem, where students may experience pressure and stress to perform well in class, are these events and activities.These monumental occasions not only aid in students’ relaxation but also give them experience in properly managing such occasions.",
+    "These cultural events help nature with their talents like dancing, singing, oratory, poetry, acting etc and become a direction towards a wholesome education. A person is not defined by their engineering or academic books.",
+    "A person needs to have multi-facet talents to take on the world they are to live in which they can attain through these cultural activities. We also encourage people to celebrate different festivals which are multi state and regional as well"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/Cultural-Celebrations.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/49-scaled.jpg",
+      "alt": "",
+      "width": "1706",
+      "height": "2560",
+      "class": "attachment-full size-full wp-image-10407"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/WhatsApp-Image-2024-08-31-at-1.53.00-PM.jpeg",
+      "alt": "",
+      "width": "400",
+      "height": "300",
+      "class": "attachment-full size-full wp-image-10395"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/50-683x1024.jpg",
+      "alt": "",
+      "width": "683",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-10408"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/70-1.jpg",
+      "alt": "",
+      "width": "500",
+      "height": "333",
+      "class": "attachment-full size-full wp-image-10409"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of The Faculty",
+        "Designation",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.D.Dayakar Rao",
+          "Chair Person",
+          "ECE"
+        ],
+        [
+          "2",
+          "Mrs.T.Sruthi",
+          "Convenor",
+          "CIVIL"
+        ],
+        [
+          "3",
+          "Mrs.M.Ammulu",
+          "Co-Convenor",
+          "EEE"
+        ],
+        [
+          "4",
+          "Mrs.D.Nagarani",
+          "Member",
+          "H&S"
+        ],
+        [
+          "5",
+          "Mr.Y.Krishna",
+          "Member",
+          "MECH"
+        ],
+        [
+          "6",
+          "Mr.B.NarasimhaRao",
+          "Member",
+          "CSE"
+        ],
+        [
+          "7",
+          "Mr.B.Vinod Kumar",
+          "Member",
+          "MINING"
+        ],
+        [
+          "8",
+          "Mr.Y.Anil Kumar",
+          "Member",
+          "MECH"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "S.No",
+        "Name of The Student",
+        "Designation",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "M.Swathi",
+          "Coordinator",
+          "EEE"
+        ],
+        [
+          "2",
+          "B.Ganapathi",
+          "Coordinator",
+          "ECE"
+        ],
+        [
+          "3",
+          "D.Manaswani",
+          "Coordinator",
+          "CSE"
+        ],
+        [
+          "4",
+          "B.Akshaya",
+          "Coordinator",
+          "AI&ML"
+        ],
+        [
+          "5",
+          "P.Keerthana",
+          "Coordinator",
+          "AI&ML"
+        ],
+        [
+          "6",
+          "K.Jishitha",
+          "Coordinator",
+          "CIVIL"
+        ],
+        [
+          "7",
+          "T.Arun Kumar",
+          "Coordinator",
+          "H&S"
+        ],
+        [
+          "8",
+          "MD.Adaham Pasha",
+          "Coordinator",
+          "AI&ML"
+        ],
+        [
+          "9",
+          "SK.Ayubpasha",
+          "Coordinator",
+          "MINING"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "cultural-celebrations\\index.html",
+  "route": "/cultural-celebrations"
+}

@@ -1,0 +1,60 @@
+{
+  "url": "https://akits.ac.in/aiml-vision-mission",
+  "title": "AIML Vision & Mission",
+  "meta_description": "Our Vision & Mission OUR VISIONBy empowering students with the knowledge and expertise of cutting-edge technologies in computer science and engineering, we can create professionals and business owners with strong values and ethics.OUR MISSIONM1: To establish a strong foundation for learning software development skills through research and innovation.M2: To develop leaders in their chosen fields",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "AIML Vision  &amp; Mission",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Vision & Mission"
+    },
+    {
+      "level": 4,
+      "text": "OUR VISION"
+    },
+    {
+      "level": 4,
+      "text": "OUR MISSION"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "By empowering students with the knowledge and expertise of cutting-edge technologies in computer science and engineering, we can create professionals and business owners with strong values and ethics.",
+    "M1: To establish a strong foundation for learning software development skills through research and innovation.",
+    "M2: To develop leaders in their chosen fields of interest and create socially conscious engineers for this digital society."
+  ],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "aiml-vision-mission\\index.html",
+  "route": "/aiml-vision-mission"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://akits.ac.in/free-hostel",
+  "title": "Free Hostel",
+  "meta_description": "Free Hostel Form Hostel form Name * Name First First Last Last Father Name Date Of Birth Phone * Cast Email * Address If you are human, leave this field blank. Submit",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Free Hostel",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Free Hostel Form"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "free-hostel\\index.html",
+  "route": "/free-hostel"
+}

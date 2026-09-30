@@ -1,0 +1,359 @@
+{
+  "url": "https://akits.ac.in/non-teaching-staff",
+  "title": "Non-Teaching Staff",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Non-Teaching Staff",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/343410-higher-education1440.jpg",
+      "alt": "",
+      "width": "1440",
+      "height": "563",
+      "class": "attachment-full size-full"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [],
+      "rows": [
+        [
+          "S.NO",
+          "NAME OF THE STAFF",
+          "DESIGNATION",
+          "DEPARTMENT"
+        ],
+        [
+          "1",
+          "DACHIPALLY SAI KUMAR",
+          "LAB TECHNICIAN",
+          "CIVIL"
+        ],
+        [
+          "2",
+          "VARUN KUMAR UBBIDI",
+          "LAB TECHNICIAN",
+          "CIVIL"
+        ],
+        [
+          "3",
+          "RAMESH GUGULOTH",
+          "LAB TECHNICIAN",
+          "EEE"
+        ],
+        [
+          "4",
+          "RANGA RAO KONDAPALLI",
+          "LAB TECHNICIAN",
+          "EEE"
+        ],
+        [
+          "5",
+          "TULASI RAMA RAJU M",
+          "LAB TECHNICIAN",
+          "MECHANICAL"
+        ],
+        [
+          "6",
+          "VINEELA DHARAVATH",
+          "LAB TECHNICIAN",
+          "MECHANICAL"
+        ],
+        [
+          "7",
+          "NARESH GUGULOTH",
+          "LAB TECHNICIAN",
+          "MECHANICAL"
+        ],
+        [
+          "8",
+          "B CHANDRASHEKAR",
+          "LAB TECHNICIAN",
+          "ECE"
+        ],
+        [
+          "9",
+          "SHIVAKUMAR ETTABOINA",
+          "LAB TECHNICIAN",
+          "ECE"
+        ],
+        [
+          "10",
+          "MD FARHEEN",
+          "LAB TECHNICIAN",
+          "CSE"
+        ],
+        [
+          "11",
+          "D SINDHU",
+          "LAB TECHNICIAN",
+          "CSE"
+        ],
+        [
+          "12",
+          "CH RAMAKRISHNA",
+          "SYSTEM ADMIN",
+          "CSE"
+        ],
+        [
+          "13",
+          "B ROHITH",
+          "LAB TECHNICIAN",
+          "CSE"
+        ],
+        [
+          "14",
+          "ARAVIND KOPPARAM",
+          "LAB TECHNICIAN",
+          "MINING"
+        ],
+        [
+          "15",
+          "PADMAKAR SRAVANAPU",
+          "LAB TECHNICIAN",
+          "MINING"
+        ],
+        [
+          "16",
+          "SRIVANI NERUVATLA",
+          "LAB TECHNICIAN",
+          "Chemistry"
+        ],
+        [
+          "17",
+          "LAKSHMANA RAO KANCHIPOGU",
+          "LAB TECHNICIAN",
+          "ENGLISH"
+        ],
+        [
+          "18",
+          "SYED NAYMUDDIN SYED",
+          "JUNIOR ASSISTANT",
+          "Administration"
+        ],
+        [
+          "19",
+          "LAKSHMI RANJITHA KONA",
+          "OTHERS",
+          "Administration"
+        ],
+        [
+          "20",
+          "SK REESHMA",
+          "OTHERS",
+          "Administration"
+        ],
+        [
+          "21",
+          "K SUJATHA REDDY",
+          "LIBRARY",
+          "Administration"
+        ],
+        [
+          "22",
+          "T NAGAMANI",
+          "LIBRARY",
+          "Administration"
+        ],
+        [
+          "23",
+          "MD SARWAR",
+          "ELECTRICIAN",
+          "Administration"
+        ],
+        [
+          "24",
+          "BANDI LALITHA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "25",
+          "D BABU RAO",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "26",
+          "SHAMSHUDDIN",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "27",
+          "JANPASHA",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "28",
+          "NARASIMHA",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "29",
+          "RAJANENI NARASIMHA RAO",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "30",
+          "V CHANDRASHEKAR",
+          "DRIVER",
+          "TRANSPORTATION"
+        ],
+        [
+          "31",
+          "A RAMEH",
+          "ATTENDER",
+          "Administration"
+        ],
+        [
+          "32",
+          "RAMESH BANDA",
+          "ATTENDER",
+          "Administration"
+        ],
+        [
+          "33",
+          "T PRAVEEN KUMAR",
+          "ATTENDER",
+          "Administration"
+        ],
+        [
+          "34",
+          "S PRAMEELA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "35",
+          "A SARASWATHI",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "36",
+          "T LALITHA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "37",
+          "T SAIAMMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "38",
+          "T CHNDRAKALA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "39",
+          "M NEELIMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "40",
+          "D BHADRAMMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "41",
+          "S SUNDARAMMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "42",
+          "K KASAMMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "43",
+          "YELLAMMA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "44",
+          "MANJULA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "45",
+          "K RAMADEVI",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "46",
+          "BHADRI",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "47",
+          "M VANI",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "48",
+          "M THARUN",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "49",
+          "CH MANGAMMA",
+          "GIRLS HOSTEL WARDEN",
+          "Administration"
+        ],
+        [
+          "50",
+          "CH SHIRISHA",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "51",
+          "V LAXMI",
+          "SWEEPER",
+          "Administration"
+        ],
+        [
+          "52",
+          "MD ABDULLA",
+          "BOYS HOSTEL WARDEN",
+          "Administration"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "non-teaching-staff\\index.html",
+  "route": "/non-teaching-staff"
+}

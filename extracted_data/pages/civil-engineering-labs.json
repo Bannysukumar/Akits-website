@@ -1,0 +1,112 @@
+{
+  "url": "https://akits.ac.in/civil-engineering-labs",
+  "title": "Civil Engineering Labs",
+  "meta_description": "OUR LABS Surveying Lab Strength Of Materials Lab Engineering Geology Lab Computer Aided Civil Engineering Drawing Hydraulics & Hydraulic Machinery Lab Highway Engineering & Concrete Technology Lab Geotechnical Engineering Lab Environmental Engineering Lab Computer-Aided Design Lab Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Civil Engineering Labs",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR LABS"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/civil-banner.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/c55-1024x576.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12368"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/c6-1024x576.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12369"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/civ1-768x510.jpg",
+      "alt": "",
+      "width": "768",
+      "height": "510",
+      "class": "attachment-medium_large size-medium_large wp-image-12370"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/civ3-1024x680.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "680",
+      "class": "attachment-large size-large wp-image-12371"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/c7-578x1024.jpg",
+      "alt": "",
+      "width": "578",
+      "height": "1024",
+      "class": "attachment-large size-large wp-image-12372"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/c9-1024x576.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-12373"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Surveying Lab",
+        "Strength Of Materials Lab",
+        "Engineering Geology Lab",
+        "Computer Aided Civil Engineering Drawing",
+        "Hydraulics & Hydraulic Machinery Lab",
+        "Highway Engineering & Concrete Technology Lab",
+        "Geotechnical Engineering Lab",
+        "Environmental Engineering Lab",
+        "Computer-Aided Design Lab"
+      ]
+    },
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "civil-engineering-labs\\index.html",
+  "route": "/civil-engineering-labs"
+}

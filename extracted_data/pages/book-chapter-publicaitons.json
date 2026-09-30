@@ -1,0 +1,38 @@
+{
+  "url": "https://akits.ac.in/book-chapter-publicaitons",
+  "title": "Book Chapter Publicaitons",
+  "meta_description": "Book Chapter Publications CLICK HERE : BOOK CHAPTER PUBLICATION RECORD",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Book Chapter Publicaitons",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Book Chapter Publications"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/BOOK-CHAPTER-PUBLICATIONS-1.pdf",
+      "text": "CLICK HERE : BOOK CHAPTER PUBLICATION RECORD",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "book-chapter-publicaitons\\index.html",
+  "route": "/book-chapter-publicaitons"
+}

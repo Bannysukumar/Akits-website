@@ -1,0 +1,27 @@
+@media (max-width: 1200px) {
+  h1 { font-size: 2.1rem; }
+  .contact-grid { grid-template-columns: 1fr 1fr; }
+  .contact-grid .sidebar { grid-column: 1 / -1; position: static; }
+  .partner-row { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.45rem; }
+  .hero, .hero img { height: 240px; }
+  .home-split, .layout-grid, .hod-layout, .contact-grid, .form-row, .partner-row {
+    grid-template-columns: 1fr;
+  }
+  .page-banner, .page-banner img { min-height: 140px; height: 140px; }
+  .sidebar { position: static; }
+  .page-body { padding-top: 18px; }
+}
+
+@media (max-width: 480px) {
+  .container { width: min(var(--max), calc(100% - 20px)); }
+  h1 { font-size: 1.55rem; }
+  .hero, .hero img { height: 210px; }
+  .panel { min-height: 0; }
+  .gallery-card img { height: 160px; }
+  .not-found strong { font-size: 3.5rem; }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://akits.ac.in/academics/regulations",
+  "title": "Regulations",
+  "meta_description": "To know about the regulations and discipline related to college for students view this page.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Academics",
+      "url": "https://akits.ac.in/academics/"
+    },
+    {
+      "name": "Regulations",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/5-1-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "REGULATIONS"
+    },
+    {
+      "level": 4,
+      "text": "REGULATIONS"
+    },
+    {
+      "level": 5,
+      "text": "CALENDAR"
+    },
+    {
+      "level": 5,
+      "text": "REGULATIONS"
+    },
+    {
+      "level": 5,
+      "text": "SYLLABUS"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/5-1-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/11/839888-300x300.png",
+      "alt": "",
+      "width": "28",
+      "height": "28",
+      "class": "alignnone wp-image-1946"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [],
+  "local_file": "academics\\regulations\\index.html",
+  "route": "/academics/regulations"
+}

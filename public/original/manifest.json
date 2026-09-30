@@ -1,0 +1,682 @@
+{
+  "/about-aiml-department": {
+    "id": "10944",
+    "css": "post-10944.css",
+    "file": "/about-aiml-department.html"
+  },
+  "/about-civil-engineering-department": {
+    "id": "11163",
+    "css": "post-11163.css",
+    "file": "/about-civil-engineering-department.html"
+  },
+  "/about-data-science": {
+    "id": "11066",
+    "css": "post-11066.css",
+    "file": "/about-data-science.html"
+  },
+  "/about-mechanical-department": {
+    "id": "11130",
+    "css": "post-11130.css",
+    "file": "/about-mechanical-department.html"
+  },
+  "/about-our-cse-department": {
+    "id": "10974",
+    "css": "post-10974.css",
+    "file": "/about-our-cse-department.html"
+  },
+  "/about-placement": {
+    "id": "3979",
+    "css": "post-3979.css",
+    "file": "/about-placement.html"
+  },
+  "/about-thermal-engineering": {
+    "id": "11100",
+    "css": "post-11100.css",
+    "file": "/about-thermal-engineering.html"
+  },
+  "/about-us": {
+    "id": "4798",
+    "css": "post-4798.css",
+    "file": "/about-us.html"
+  },
+  "/academic-photos": {
+    "id": "9551",
+    "css": "post-9551.css",
+    "file": "/academic-photos.html"
+  },
+  "/academics/calender": {
+    "id": "964",
+    "css": "post-964.css",
+    "file": "/academics/calender.html"
+  },
+  "/academics/regulations": {
+    "id": "966",
+    "css": "post-966.css",
+    "file": "/academics/regulations.html"
+  },
+  "/academics/syllabus": {
+    "id": "968",
+    "css": "post-968.css",
+    "file": "/academics/syllabus.html"
+  },
+  "/admission-process-and-guidelines": {
+    "id": "10496",
+    "css": "post-10496.css",
+    "file": "/admission-process-and-guidelines.html"
+  },
+  "/aiml-faculty": {
+    "id": "10952",
+    "css": "post-10952.css",
+    "file": "/aiml-faculty.html"
+  },
+  "/aiml-hod-profile": {
+    "id": "10950",
+    "css": "post-10950.css",
+    "file": "/aiml-hod-profile.html"
+  },
+  "/aiml-vision-mission": {
+    "id": "10958",
+    "css": "post-10958.css",
+    "file": "/aiml-vision-mission.html"
+  },
+  "/alumni": {
+    "id": "3638",
+    "css": "post-3638.css",
+    "file": "/alumni.html"
+  },
+  "/alumni-pics": {
+    "id": "3642",
+    "css": "post-3642.css",
+    "file": "/alumni-pics.html"
+  },
+  "/alumni-registration": {
+    "id": "",
+    "css": "",
+    "file": "/alumni-registration.html"
+  },
+  "/book-chapter-publicaitons": {
+    "id": "10940",
+    "css": "post-10940.css",
+    "file": "/book-chapter-publicaitons.html"
+  },
+  "/civil-department-achievements": {
+    "id": "11185",
+    "css": "post-11185.css",
+    "file": "/civil-department-achievements.html"
+  },
+  "/civil-engineering-faculty": {
+    "id": "11175",
+    "css": "post-11175.css",
+    "file": "/civil-engineering-faculty.html"
+  },
+  "/civil-engineering-hod-profile": {
+    "id": "11170",
+    "css": "post-11170.css",
+    "file": "/civil-engineering-hod-profile.html"
+  },
+  "/civil-engineering-labs": {
+    "id": "11178",
+    "css": "post-11178.css",
+    "file": "/civil-engineering-labs.html"
+  },
+  "/committee-for-sc-st": {
+    "id": "6825",
+    "css": "post-6825.css",
+    "file": "/committee-for-sc-st.html"
+  },
+  "/contact-form-for-admissions": {
+    "id": "6567",
+    "css": "post-6567.css",
+    "file": "/contact-form-for-admissions.html"
+  },
+  "/cse-achievements": {
+    "id": "10985",
+    "css": "post-10985.css",
+    "file": "/cse-achievements.html"
+  },
+  "/cse-hod-profile": {
+    "id": "10977",
+    "css": "post-10977.css",
+    "file": "/cse-hod-profile.html"
+  },
+  "/cultural-celebrations": {
+    "id": "3448",
+    "css": "post-3448.css",
+    "file": "/cultural-celebrations.html"
+  },
+  "/data-science-faculty": {
+    "id": "11074",
+    "css": "post-11074.css",
+    "file": "/data-science-faculty.html"
+  },
+  "/data-science-labs": {
+    "id": "11078",
+    "css": "post-11078.css",
+    "file": "/data-science-labs.html"
+  },
+  "/dvv": {
+    "id": "7227",
+    "css": "post-7227.css",
+    "file": "/dvv.html"
+  },
+  "/ece-department-achievements": {
+    "id": "11093",
+    "css": "post-11093.css",
+    "file": "/ece-department-achievements.html"
+  },
+  "/ece-hod-profile": {
+    "id": "11087",
+    "css": "post-11087.css",
+    "file": "/ece-hod-profile.html"
+  },
+  "/ece-labs": {
+    "id": "11091",
+    "css": "post-11091.css",
+    "file": "/ece-labs.html"
+  },
+  "/eee-department-achievements": {
+    "id": "11119",
+    "css": "post-11119.css",
+    "file": "/eee-department-achievements.html"
+  },
+  "/eee-faculty": {
+    "id": "11111",
+    "css": "post-11111.css",
+    "file": "/eee-faculty.html"
+  },
+  "/eee-hod-profile": {
+    "id": "11107",
+    "css": "post-11107.css",
+    "file": "/eee-hod-profile.html"
+  },
+  "/eee-labs": {
+    "id": "11116",
+    "css": "post-11116.css",
+    "file": "/eee-labs.html"
+  },
+  "/eee-vision-mission": {
+    "id": "11103",
+    "css": "post-11103.css",
+    "file": "/eee-vision-mission.html"
+  },
+  "/electrical-power-system-department-achievements": {
+    "id": "11144",
+    "css": "post-11144.css",
+    "file": "/electrical-power-system-department-achievements.html"
+  },
+  "/electrical-power-system-faculty": {
+    "id": "11126",
+    "css": "post-11126.css",
+    "file": "/electrical-power-system-faculty.html"
+  },
+  "/electrical-power-system-hod-profile": {
+    "id": "11127",
+    "css": "post-11127.css",
+    "file": "/electrical-power-system-hod-profile.html"
+  },
+  "/electrical-power-system-labs": {
+    "id": "11125",
+    "css": "post-11125.css",
+    "file": "/electrical-power-system-labs.html"
+  },
+  "/electrical-power-system-vision-mission": {
+    "id": "11128",
+    "css": "post-11128.css",
+    "file": "/electrical-power-system-vision-mission.html"
+  },
+  "/equal-opportunity-cell": {
+    "id": "10419",
+    "css": "post-10419.css",
+    "file": "/equal-opportunity-cell.html"
+  },
+  "/exam-notifications": {
+    "id": "9435",
+    "css": "post-9435.css",
+    "file": "/exam-notifications.html"
+  },
+  "/fee-refund-policy": {
+    "id": "10499",
+    "css": "post-10499.css",
+    "file": "/fee-refund-policy.html"
+  },
+  "/free-hostel": {
+    "id": "6474",
+    "css": "post-6474.css",
+    "file": "/free-hostel.html"
+  },
+  "/gallery/media-gallery": {
+    "id": "3630",
+    "css": "post-3630.css",
+    "file": "/gallery/media-gallery.html"
+  },
+  "/gallery/video-gallery": {
+    "id": "3632",
+    "css": "post-3632.css",
+    "file": "/gallery/video-gallery.html"
+  },
+  "/iiaq": {
+    "id": "12479",
+    "css": "post-12479.css",
+    "file": "/iiaq.html"
+  },
+  "/": {
+    "id": "510",
+    "css": "post-510.css",
+    "file": "/index.html"
+  },
+  "/infrastructure/grievance": {
+    "id": "3450",
+    "css": "post-3450.css",
+    "file": "/infrastructure/grievance.html"
+  },
+  "/infrastructure/hostel-3": {
+    "id": "3440",
+    "css": "post-3440.css",
+    "file": "/infrastructure/hostel-3.html"
+  },
+  "/infrastructure/iicinstitute-industries-interaction-council": {
+    "id": "3469",
+    "css": "post-3469.css",
+    "file": "/infrastructure/iicinstitute-industries-interaction-council.html"
+  },
+  "/infrastructure/library": {
+    "id": "3434",
+    "css": "post-3434.css",
+    "file": "/infrastructure/library.html"
+  },
+  "/infrastructure/nptel": {
+    "id": "3438",
+    "css": "post-3438.css",
+    "file": "/infrastructure/nptel.html"
+  },
+  "/infrastructure/nss": {
+    "id": "3436",
+    "css": "post-3436.css",
+    "file": "/infrastructure/nss.html"
+  },
+  "/infrastructure/tcsnta-exam-cell": {
+    "id": "3446",
+    "css": "post-3446.css",
+    "file": "/infrastructure/tcsnta-exam-cell.html"
+  },
+  "/internal-compliant-committee": {
+    "id": "6829",
+    "css": "post-6829.css",
+    "file": "/internal-compliant-committee.html"
+  },
+  "/iqac": {
+    "id": "10432",
+    "css": "post-10432.css",
+    "file": "/iqac.html"
+  },
+  "/iste-chapter": {
+    "id": "6168",
+    "css": "",
+    "file": "/iste-chapter.html"
+  },
+  "/jntuh": {
+    "id": "6198",
+    "css": "post-6198.css",
+    "file": "/jntuh.html"
+  },
+  "/mandatory-documents/online-greviance-redressal-form": {
+    "id": "",
+    "css": "",
+    "file": "/mandatory-documents/online-greviance-redressal-form.html"
+  },
+  "/mba-department-achievements": {
+    "id": "11158",
+    "css": "post-11158.css",
+    "file": "/mba-department-achievements.html"
+  },
+  "/mba-labs": {
+    "id": "11159",
+    "css": "post-11159.css",
+    "file": "/mba-labs.html"
+  },
+  "/mba-mission-vision": {
+    "id": "11162",
+    "css": "post-11162.css",
+    "file": "/mba-mission-vision.html"
+  },
+  "/mechanical-department-achievements": {
+    "id": "11151",
+    "css": "post-11151.css",
+    "file": "/mechanical-department-achievements.html"
+  },
+  "/mechanical-faculty": {
+    "id": "11146",
+    "css": "post-11146.css",
+    "file": "/mechanical-faculty.html"
+  },
+  "/mechanical-hod-profile": {
+    "id": "11141",
+    "css": "post-11141.css",
+    "file": "/mechanical-hod-profile.html"
+  },
+  "/mechanical-labs": {
+    "id": "11149",
+    "css": "post-11149.css",
+    "file": "/mechanical-labs.html"
+  },
+  "/mechanical-vision-mission": {
+    "id": "11133",
+    "css": "post-11133.css",
+    "file": "/mechanical-vision-mission.html"
+  },
+  "/mining-engineering-department-achievements": {
+    "id": "11195",
+    "css": "post-11195.css",
+    "file": "/mining-engineering-department-achievements.html"
+  },
+  "/mining-engineering-faculty": {
+    "id": "11180",
+    "css": "post-11180.css",
+    "file": "/mining-engineering-faculty.html"
+  },
+  "/mining-engineering-hod-profile": {
+    "id": "11181",
+    "css": "post-11181.css",
+    "file": "/mining-engineering-hod-profile.html"
+  },
+  "/mining-engineering-labs": {
+    "id": "11179",
+    "css": "post-11179.css",
+    "file": "/mining-engineering-labs.html"
+  },
+  "/miscellinous": {
+    "id": "10942",
+    "css": "post-10942.css",
+    "file": "/miscellinous.html"
+  },
+  "/mous-collobrations": {
+    "id": "9162",
+    "css": "post-9162.css",
+    "file": "/mous-collobrations.html"
+  },
+  "/nir": {
+    "id": "6152",
+    "css": "post-6152.css",
+    "file": "/nir.html"
+  },
+  "/nirf": {
+    "id": "6150",
+    "css": "post-6150.css",
+    "file": "/nirf.html"
+  },
+  "/non-academics-photos": {
+    "id": "9701",
+    "css": "post-9701.css",
+    "file": "/non-academics-photos.html"
+  },
+  "/non-teaching-staff": {
+    "id": "",
+    "css": "",
+    "file": "/non-teaching-staff.html"
+  },
+  "/placement-photos": {
+    "id": "6776",
+    "css": "post-6776.css",
+    "file": "/placement-photos.html"
+  },
+  "/placement-record": {
+    "id": "",
+    "css": "",
+    "file": "/placement-record.html"
+  },
+  "/prospectus": {
+    "id": "10494",
+    "css": "post-10494.css",
+    "file": "/prospectus.html"
+  },
+  "/research": {
+    "id": "10932",
+    "css": "post-10932.css",
+    "file": "/research.html"
+  },
+  "/rti": {
+    "id": "6818",
+    "css": "post-6818.css",
+    "file": "/rti.html"
+  },
+  "/sexual-harassment-committee": {
+    "id": "10424",
+    "css": "post-10424.css",
+    "file": "/sexual-harassment-committee.html"
+  },
+  "/sports": {
+    "id": "6122",
+    "css": "post-6122.css",
+    "file": "/sports.html"
+  },
+  "/teaching-staff": {
+    "id": "",
+    "css": "",
+    "file": "/teaching-staff.html"
+  },
+  "/thermal-engineering-department-achievements": {
+    "id": "11120",
+    "css": "post-11120.css",
+    "file": "/thermal-engineering-department-achievements.html"
+  },
+  "/thermal-engineering-faculty": {
+    "id": "11112",
+    "css": "post-11112.css",
+    "file": "/thermal-engineering-faculty.html"
+  },
+  "/thermal-engineering-hod-profile": {
+    "id": "11104",
+    "css": "post-11104.css",
+    "file": "/thermal-engineering-hod-profile.html"
+  },
+  "/thermal-engineering-labs": {
+    "id": "11115",
+    "css": "post-11115.css",
+    "file": "/thermal-engineering-labs.html"
+  },
+  "/thermal-engineering-mission-vision": {
+    "id": "11105",
+    "css": "post-11105.css",
+    "file": "/thermal-engineering-mission-vision.html"
+  },
+  "/training-placements/placement-activities": {
+    "id": "",
+    "css": "",
+    "file": "/training-placements/placement-activities.html"
+  },
+  "/training-placements/placement-training": {
+    "id": "1551",
+    "css": "post-1551.css",
+    "file": "/training-placements/placement-training.html"
+  },
+  "/ugc-2f12b": {
+    "id": "6185",
+    "css": "post-6185.css",
+    "file": "/ugc-2f12b.html"
+  },
+  "/about/service-rules": {
+    "id": "3650",
+    "css": "post-3650.css",
+    "file": "/about/service-rules.html"
+  },
+  "/mandatory-documents/mandatory-discourse": {
+    "id": "1583",
+    "css": "post-1583.css",
+    "file": "/mandatory-documents/mandatory-discourse.html"
+  },
+  "/administration": {
+    "id": "516",
+    "css": "post-516.css",
+    "file": "/administration.html"
+  },
+  "/admissions": {
+    "id": "176",
+    "css": "post-176.css",
+    "file": "/admissions.html"
+  },
+  "/aiml-labs": {
+    "id": "10954",
+    "css": "post-10954.css",
+    "file": "/aiml-labs.html"
+  },
+  "/aiml-epartment-achievements": {
+    "id": "10956",
+    "css": "post-10956.css",
+    "file": "/aiml-epartment-achievements.html"
+  },
+  "/mission-vision-of-cse": {
+    "id": "10976",
+    "css": "post-10976.css",
+    "file": "/mission-vision-of-cse.html"
+  },
+  "/cse-faculty": {
+    "id": "10978",
+    "css": "post-10978.css",
+    "file": "/cse-faculty.html"
+  },
+  "/cse-labs": {
+    "id": "10979",
+    "css": "post-10979.css",
+    "file": "/cse-labs.html"
+  },
+  "/about-ece-department": {
+    "id": "11077",
+    "css": "post-11077.css",
+    "file": "/about-ece-department.html"
+  },
+  "/ece-vision-mission": {
+    "id": "11084",
+    "css": "post-11084.css",
+    "file": "/ece-vision-mission.html"
+  },
+  "/ece-faculty": {
+    "id": "11089",
+    "css": "post-11089.css",
+    "file": "/ece-faculty.html"
+  },
+  "/about-eee-department": {
+    "id": "11095",
+    "css": "post-11095.css",
+    "file": "/about-eee-department.html"
+  },
+  "/civil-engineering-vision-mission": {
+    "id": "11166",
+    "css": "post-11166.css",
+    "file": "/civil-engineering-vision-mission.html"
+  },
+  "/about-mining-engineering": {
+    "id": "11183",
+    "css": "post-11183.css",
+    "file": "/about-mining-engineering.html"
+  },
+  "/mining-engineering-mission-vision": {
+    "id": "11182",
+    "css": "post-11182.css",
+    "file": "/mining-engineering-mission-vision.html"
+  },
+  "/about-mba": {
+    "id": "11143",
+    "css": "post-11143.css",
+    "file": "/about-mba.html"
+  },
+  "/mba-hod-profile": {
+    "id": "11161",
+    "css": "post-11161.css",
+    "file": "/mba-hod-profile.html"
+  },
+  "/mba-faculty": {
+    "id": "11160",
+    "css": "post-11160.css",
+    "file": "/mba-faculty.html"
+  },
+  "/about-electrical-power-system": {
+    "id": "11129",
+    "css": "post-11129.css",
+    "file": "/about-electrical-power-system.html"
+  },
+  "/mission-vision-of-data-science": {
+    "id": "11047",
+    "css": "post-11047.css",
+    "file": "/mission-vision-of-data-science.html"
+  },
+  "/data-science-hod-profile": {
+    "id": "11072",
+    "css": "post-11072.css",
+    "file": "/data-science-hod-profile.html"
+  },
+  "/data-science-depart-achievements": {
+    "id": "11076",
+    "css": "post-11076.css",
+    "file": "/data-science-depart-achievements.html"
+  },
+  "/training-placements/recruiting-companies": {
+    "id": "176",
+    "css": "post-176.css",
+    "file": "/training-placements/recruiting-companies.html"
+  },
+  "/infrastructure/anti-ragging-committee": {
+    "id": "3452",
+    "css": "post-3452.css",
+    "file": "/infrastructure/anti-ragging-committee.html"
+  },
+  "/minority-cell": {
+    "id": "6827",
+    "css": "post-6827.css",
+    "file": "/minority-cell.html"
+  },
+  "/obc-cell": {
+    "id": "6836",
+    "css": "post-6836.css",
+    "file": "/obc-cell.html"
+  },
+  "/infrastructure/transportation": {
+    "id": "3432",
+    "css": "post-3432.css",
+    "file": "/infrastructure/transportation.html"
+  },
+  "/infrastructure/cafeteria": {
+    "id": "3442",
+    "css": "post-3442.css",
+    "file": "/infrastructure/cafeteria.html"
+  },
+  "/mandatory-documents/aicte": {
+    "id": "176",
+    "css": "post-176.css",
+    "file": "/mandatory-documents/aicte.html"
+  },
+  "/mandatory-documents/iso": {
+    "id": "1575",
+    "css": "post-1575.css",
+    "file": "/mandatory-documents/iso.html"
+  },
+  "/mandatory-documents/ombudsman": {
+    "id": "176",
+    "css": "post-176.css",
+    "file": "/mandatory-documents/ombudsman.html"
+  },
+  "/mandatory-documents/naac": {
+    "id": "1569",
+    "css": "post-1569.css",
+    "file": "/mandatory-documents/naac.html"
+  },
+  "/journal-publications": {
+    "id": "10935",
+    "css": "post-10935.css",
+    "file": "/journal-publications.html"
+  },
+  "/erp": {
+    "id": "10849",
+    "css": "post-10849.css",
+    "file": "/erp.html"
+  },
+  "/gallery/photo-gallery": {
+    "id": "3628",
+    "css": "post-3628.css",
+    "file": "/gallery/photo-gallery.html"
+  },
+  "/contact-us": {
+    "id": "538",
+    "css": "post-538.css",
+    "file": "/contact-us.html"
+  }
+}

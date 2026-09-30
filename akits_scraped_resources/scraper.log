@@ -1,0 +1,701 @@
+15:56:26 | INFO     | Starting crawl...
+15:56:26 | INFO     | 
+------------------------------------------------------------
+  [35mPage [1/50][0m (depth=0) → [33mhttps://akits.ac.in/[0m
+15:56:27 | INFO     |   Found [32m137[0m new resources on this page
+15:56:27 | INFO     |   Queued [34m138[0m new internal links
+15:56:28 | INFO     | 
+------------------------------------------------------------
+  [35mPage [2/50][0m (depth=1) → [33mhttps://akits.ac.in[0m
+15:56:28 | INFO     |   Found [32m0[0m new resources on this page
+15:56:28 | INFO     |   Queued [34m137[0m new internal links
+15:56:29 | INFO     | 
+------------------------------------------------------------
+  [35mPage [3/50][0m (depth=1) → [33mhttps://akits.ac.in/about-us[0m
+15:56:29 | INFO     |   Found [32m14[0m new resources on this page
+15:56:29 | INFO     |   Queued [34m132[0m new internal links
+15:56:29 | INFO     | 
+------------------------------------------------------------
+  [35mPage [4/50][0m (depth=1) → [33mhttps://akits.ac.in/about/service-rules[0m
+15:56:29 | INFO     |   Found [32m3[0m new resources on this page
+15:56:29 | INFO     |   Queued [34m131[0m new internal links
+15:56:30 | INFO     | 
+------------------------------------------------------------
+  [35mPage [5/50][0m (depth=1) → [33mhttps://akits.ac.in/mandatory-documents/mandatory-discourse[0m
+15:56:30 | INFO     |   Found [32m3[0m new resources on this page
+15:56:30 | INFO     |   Queued [34m130[0m new internal links
+15:56:31 | INFO     | 
+------------------------------------------------------------
+  [35mPage [6/50][0m (depth=1) → [33mhttps://akits.ac.in/administration[0m
+15:56:31 | INFO     |   Found [32m18[0m new resources on this page
+15:56:31 | INFO     |   Queued [34m150[0m new internal links
+15:56:31 | INFO     | 
+------------------------------------------------------------
+  [35mPage [7/50][0m (depth=1) → [33mhttps://akits.ac.in/teaching-staff[0m
+15:56:32 | INFO     |   Found [32m5[0m new resources on this page
+15:56:32 | INFO     |   Queued [34m128[0m new internal links
+15:56:32 | INFO     | 
+------------------------------------------------------------
+  [35mPage [8/50][0m (depth=1) → [33mhttps://akits.ac.in/non-teaching-staff[0m
+15:56:32 | INFO     |   Found [32m0[0m new resources on this page
+15:56:32 | INFO     |   Queued [34m127[0m new internal links
+15:56:33 | INFO     | 
+------------------------------------------------------------
+  [35mPage [9/50][0m (depth=1) → [33mhttps://akits.ac.in/admissions[0m
+15:56:33 | INFO     |   Found [32m1[0m new resources on this page
+15:56:33 | INFO     |   Queued [34m126[0m new internal links
+15:56:33 | INFO     | 
+------------------------------------------------------------
+  [35mPage [10/50][0m (depth=1) → [33mhttps://akits.ac.in/prospectus[0m
+15:56:34 | INFO     |   Found [32m2[0m new resources on this page
+15:56:34 | INFO     |   Queued [34m125[0m new internal links
+15:56:34 | INFO     | 
+------------------------------------------------------------
+  [35mPage [11/50][0m (depth=1) → [33mhttps://akits.ac.in/fee-refund-policy[0m
+15:56:34 | INFO     |   Found [32m2[0m new resources on this page
+15:56:34 | INFO     |   Queued [34m124[0m new internal links
+15:56:35 | INFO     | 
+------------------------------------------------------------
+  [35mPage [12/50][0m (depth=1) → [33mhttps://akits.ac.in/admission-process-and-guidelines[0m
+15:56:35 | INFO     |   Found [32m1[0m new resources on this page
+15:56:35 | INFO     |   Queued [34m123[0m new internal links
+15:56:36 | INFO     | 
+------------------------------------------------------------
+  [35mPage [13/50][0m (depth=1) → [33mhttps://akits.ac.in/academics/calender[0m
+15:56:36 | INFO     |   Found [32m6[0m new resources on this page
+15:56:36 | INFO     |   Queued [34m128[0m new internal links
+15:56:36 | INFO     | 
+------------------------------------------------------------
+  [35mPage [14/50][0m (depth=1) → [33mhttps://akits.ac.in/academics/syllabus[0m
+15:56:37 | INFO     |   Found [32m2[0m new resources on this page
+15:56:37 | INFO     |   Queued [34m127[0m new internal links
+15:56:37 | INFO     | 
+------------------------------------------------------------
+  [35mPage [15/50][0m (depth=1) → [33mhttps://akits.ac.in/academics/regulations[0m
+15:56:37 | INFO     |   Found [32m2[0m new resources on this page
+15:56:37 | INFO     |   Queued [34m123[0m new internal links
+15:56:38 | INFO     | 
+------------------------------------------------------------
+  [35mPage [16/50][0m (depth=1) → [33mhttps://akits.ac.in/academic-photos[0m
+15:56:38 | INFO     |   Found [32m116[0m new resources on this page
+15:56:38 | INFO     |   Queued [34m119[0m new internal links
+15:56:39 | INFO     | 
+------------------------------------------------------------
+  [35mPage [17/50][0m (depth=1) → [33mhttps://akits.ac.in/non-academics-photos[0m
+15:56:39 | INFO     |   Found [32m119[0m new resources on this page
+15:56:39 | INFO     |   Queued [34m118[0m new internal links
+15:56:39 | INFO     | 
+------------------------------------------------------------
+  [35mPage [18/50][0m (depth=1) → [33mhttps://akits.ac.in/exam-notifications[0m
+15:56:39 | INFO     |   Found [32m12[0m new resources on this page
+15:56:40 | INFO     |   Queued [34m118[0m new internal links
+15:56:40 | INFO     | 
+------------------------------------------------------------
+  [35mPage [19/50][0m (depth=1) → [33mhttps://akits.ac.in/about-aiml-department[0m
+15:56:40 | INFO     |   Found [32m2[0m new resources on this page
+15:56:40 | INFO     |   Queued [34m121[0m new internal links
+15:56:41 | INFO     | 
+------------------------------------------------------------
+  [35mPage [20/50][0m (depth=1) → [33mhttps://akits.ac.in/aiml-vision-mission[0m
+15:56:41 | INFO     |   Found [32m1[0m new resources on this page
+15:56:41 | INFO     |   Queued [34m119[0m new internal links
+15:56:41 | INFO     | 
+------------------------------------------------------------
+  [35mPage [21/50][0m (depth=1) → [33mhttps://akits.ac.in/aiml-hod-profile[0m
+15:56:42 | INFO     |   Found [32m3[0m new resources on this page
+15:56:42 | INFO     |   Queued [34m117[0m new internal links
+15:56:42 | INFO     | 
+------------------------------------------------------------
+  [35mPage [22/50][0m (depth=1) → [33mhttps://akits.ac.in/aiml-faculty[0m
+15:56:42 | INFO     |   Found [32m1[0m new resources on this page
+15:56:42 | INFO     |   Queued [34m113[0m new internal links
+15:56:43 | INFO     | 
+------------------------------------------------------------
+  [35mPage [23/50][0m (depth=1) → [33mhttps://akits.ac.in/aiml-labs[0m
+15:56:43 | INFO     |   Found [32m13[0m new resources on this page
+15:56:43 | INFO     |   Queued [34m113[0m new internal links
+15:56:44 | INFO     | 
+------------------------------------------------------------
+  [35mPage [24/50][0m (depth=1) → [33mhttps://akits.ac.in/aiml-epartment-achievements[0m
+15:56:44 | INFO     |   Found [32m22[0m new resources on this page
+15:56:44 | INFO     |   Queued [34m111[0m new internal links
+15:56:44 | INFO     | 
+------------------------------------------------------------
+  [35mPage [25/50][0m (depth=1) → [33mhttps://akits.ac.in/about-our-cse-department[0m
+15:56:45 | INFO     |   Found [32m2[0m new resources on this page
+15:56:45 | INFO     |   Queued [34m115[0m new internal links
+15:56:45 | INFO     | 
+------------------------------------------------------------
+  [35mPage [26/50][0m (depth=1) → [33mhttps://akits.ac.in/mission-vision-of-cse[0m
+15:56:45 | INFO     |   Found [32m1[0m new resources on this page
+15:56:45 | INFO     |   Queued [34m113[0m new internal links
+15:56:46 | INFO     | 
+------------------------------------------------------------
+  [35mPage [27/50][0m (depth=1) → [33mhttps://akits.ac.in/cse-hod-profile[0m
+15:56:46 | INFO     |   Found [32m1[0m new resources on this page
+15:56:46 | INFO     |   Queued [34m111[0m new internal links
+15:56:47 | INFO     | 
+------------------------------------------------------------
+  [35mPage [28/50][0m (depth=1) → [33mhttps://akits.ac.in/cse-faculty[0m
+15:56:47 | INFO     |   Found [32m1[0m new resources on this page
+15:56:47 | INFO     |   Queued [34m107[0m new internal links
+15:56:47 | INFO     | 
+------------------------------------------------------------
+  [35mPage [29/50][0m (depth=1) → [33mhttps://akits.ac.in/cse-labs[0m
+15:56:47 | INFO     |   Found [32m1[0m new resources on this page
+15:56:47 | INFO     |   Queued [34m107[0m new internal links
+15:56:48 | INFO     | 
+------------------------------------------------------------
+  [35mPage [30/50][0m (depth=1) → [33mhttps://akits.ac.in/cse-achievements[0m
+15:56:48 | INFO     |   Found [32m4[0m new resources on this page
+15:56:48 | INFO     |   Queued [34m105[0m new internal links
+15:56:49 | INFO     | 
+------------------------------------------------------------
+  [35mPage [31/50][0m (depth=1) → [33mhttps://akits.ac.in/about-ece-department[0m
+15:56:49 | INFO     |   Found [32m5[0m new resources on this page
+15:56:49 | INFO     |   Queued [34m109[0m new internal links
+15:56:49 | INFO     | 
+------------------------------------------------------------
+  [35mPage [32/50][0m (depth=1) → [33mhttps://akits.ac.in/ece-vision-mission[0m
+15:56:50 | INFO     |   Found [32m1[0m new resources on this page
+15:56:50 | INFO     |   Queued [34m107[0m new internal links
+15:56:50 | INFO     | 
+------------------------------------------------------------
+  [35mPage [33/50][0m (depth=1) → [33mhttps://akits.ac.in/ece-hod-profile[0m
+15:56:50 | INFO     |   Found [32m2[0m new resources on this page
+15:56:50 | INFO     |   Queued [34m105[0m new internal links
+15:56:51 | INFO     | 
+------------------------------------------------------------
+  [35mPage [34/50][0m (depth=1) → [33mhttps://akits.ac.in/ece-faculty[0m
+15:56:51 | INFO     |   Found [32m1[0m new resources on this page
+15:56:51 | INFO     |   Queued [34m101[0m new internal links
+15:56:52 | INFO     | 
+------------------------------------------------------------
+  [35mPage [35/50][0m (depth=1) → [33mhttps://akits.ac.in/ece-labs[0m
+15:56:52 | INFO     |   Found [32m25[0m new resources on this page
+15:56:52 | INFO     |   Queued [34m101[0m new internal links
+15:56:52 | INFO     | 
+------------------------------------------------------------
+  [35mPage [36/50][0m (depth=1) → [33mhttps://akits.ac.in/ece-department-achievements[0m
+15:56:53 | INFO     |   Found [32m8[0m new resources on this page
+15:56:53 | INFO     |   Queued [34m99[0m new internal links
+15:56:53 | INFO     | 
+------------------------------------------------------------
+  [35mPage [37/50][0m (depth=1) → [33mhttps://akits.ac.in/about-eee-department[0m
+15:56:53 | INFO     |   Found [32m3[0m new resources on this page
+15:56:53 | INFO     |   Queued [34m103[0m new internal links
+15:56:54 | INFO     | 
+------------------------------------------------------------
+  [35mPage [38/50][0m (depth=1) → [33mhttps://akits.ac.in/eee-vision-mission[0m
+15:56:54 | INFO     |   Found [32m1[0m new resources on this page
+15:56:54 | INFO     |   Queued [34m101[0m new internal links
+15:56:55 | INFO     | 
+------------------------------------------------------------
+  [35mPage [39/50][0m (depth=1) → [33mhttps://akits.ac.in/eee-hod-profile[0m
+15:56:55 | INFO     |   Found [32m2[0m new resources on this page
+15:56:55 | INFO     |   Queued [34m99[0m new internal links
+15:56:55 | INFO     | 
+------------------------------------------------------------
+  [35mPage [40/50][0m (depth=1) → [33mhttps://akits.ac.in/eee-faculty[0m
+15:56:56 | INFO     |   Found [32m3[0m new resources on this page
+15:56:56 | INFO     |   Queued [34m97[0m new internal links
+15:56:57 | INFO     | 
+------------------------------------------------------------
+  [35mPage [41/50][0m (depth=1) → [33mhttps://akits.ac.in/eee-labs[0m
+15:56:57 | INFO     |   Found [32m30[0m new resources on this page
+15:56:57 | INFO     |   Queued [34m95[0m new internal links
+15:56:57 | INFO     | 
+------------------------------------------------------------
+  [35mPage [42/50][0m (depth=1) → [33mhttps://akits.ac.in/eee-department-achievements[0m
+15:56:58 | INFO     |   Found [32m51[0m new resources on this page
+15:56:58 | INFO     |   Queued [34m93[0m new internal links
+15:56:58 | INFO     | 
+------------------------------------------------------------
+  [35mPage [43/50][0m (depth=1) → [33mhttps://akits.ac.in/about-mechanical-department[0m
+15:56:58 | INFO     |   Found [32m3[0m new resources on this page
+15:56:58 | INFO     |   Queued [34m97[0m new internal links
+15:56:59 | INFO     | 
+------------------------------------------------------------
+  [35mPage [44/50][0m (depth=1) → [33mhttps://akits.ac.in/mechanical-vision-mission[0m
+15:56:59 | INFO     |   Found [32m1[0m new resources on this page
+15:56:59 | INFO     |   Queued [34m95[0m new internal links
+15:57:00 | INFO     | 
+------------------------------------------------------------
+  [35mPage [45/50][0m (depth=1) → [33mhttps://akits.ac.in/mechanical-hod-profile[0m
+15:57:00 | INFO     |   Found [32m5[0m new resources on this page
+15:57:00 | INFO     |   Queued [34m93[0m new internal links
+15:57:01 | INFO     | 
+------------------------------------------------------------
+  [35mPage [46/50][0m (depth=1) → [33mhttps://akits.ac.in/mechanical-faculty[0m
+15:57:01 | INFO     |   Found [32m1[0m new resources on this page
+15:57:01 | INFO     |   Queued [34m91[0m new internal links
+15:57:01 | INFO     | 
+------------------------------------------------------------
+  [35mPage [47/50][0m (depth=1) → [33mhttps://akits.ac.in/mechanical-labs[0m
+15:57:02 | INFO     |   Found [32m27[0m new resources on this page
+15:57:02 | INFO     |   Queued [34m89[0m new internal links
+15:57:02 | INFO     | 
+------------------------------------------------------------
+  [35mPage [48/50][0m (depth=1) → [33mhttps://akits.ac.in/mechanical-department-achievements[0m
+15:57:02 | INFO     |   Found [32m5[0m new resources on this page
+15:57:02 | INFO     |   Queued [34m87[0m new internal links
+15:57:03 | INFO     | 
+------------------------------------------------------------
+  [35mPage [49/50][0m (depth=1) → [33mhttps://akits.ac.in/about-civil-engineering-department[0m
+15:57:03 | INFO     |   Found [32m3[0m new resources on this page
+15:57:03 | INFO     |   Queued [34m90[0m new internal links
+15:57:04 | INFO     | 
+------------------------------------------------------------
+  [35mPage [50/50][0m (depth=1) → [33mhttps://akits.ac.in/civil-engineering-vision-mission[0m
+15:57:04 | INFO     |   Found [32m1[0m new resources on this page
+15:57:04 | INFO     |   Queued [34m88[0m new internal links
+15:57:04 | INFO     | 
+============================================================
+  Crawling complete! Visited 50 pages.
+  Total resources found: [32m673[0m
+============================================================
+15:57:04 | INFO     | 
+  Running deduplication...
+15:57:04 | INFO     |   Deduplication: removed [33m253[0m duplicate/thumbnail URLs ([33m289[0m WP thumbnails skipped)
+15:57:04 | INFO     |   Unique resources to download: [32m420[0m
+15:57:04 | INFO     | Starting downloads with 5 threads...
+
+15:57:04 | INFO     |   [32m[OK][0m [images      ] [36m42.jpeg[0m (70.6 KB)
+15:57:04 | INFO     |   [32m[OK][0m [stylesheets ] [36mrmp-menu.css[0m (0.0 B)
+15:57:05 | INFO     |   [32m[OK][0m [stylesheets ] [36mfrontend.min.css[0m (59.2 KB)
+15:57:05 | INFO     |   [32m[OK][0m [scripts     ] [36mi18n.min.js[0m (5.6 KB)
+15:57:05 | INFO     |   [32m[OK][0m [stylesheets ] [36mwpforms.min.css[0m (1.9 KB)
+15:57:05 | INFO     |   [32m[OK][0m [stylesheets ] [36mstyles.css[0m (2.8 KB)
+15:57:05 | INFO     |   [32m[OK][0m [stylesheets ] [36melementor-icons.min.css[0m (19.6 KB)
+15:57:05 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20240106_145323-1-scaled.jpg[0m (461.8 KB)
+15:57:05 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.33-PM-2.jpeg[0m (109.7 KB)
+15:57:05 | INFO     |   [32m[OK][0m [images      ] [36m38-scaled.jpg[0m (970.6 KB)
+15:57:05 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-image-gallery.min.css[0m (2.4 KB)
+15:57:05 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2026-05-15-at-9.52.44-AM.jpeg[0m (183.9 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36mDSC_0056_3000-scaled.jpg[0m (650.7 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36munderscore.min.js[0m (18.6 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36mjquery-migrate.min.js[0m (13.3 KB)
+15:57:06 | INFO     |   [32m[OK][0m [documents   ] [36mMID-EXAM-TIME-TABLE.pdf[0m (426.7 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36m21.jpeg[0m (338.1 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36m6_optimized_3000-scaled.jpg[0m (648.9 KB)
+15:57:06 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-510.css[0m (13.0 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36m61.jpg[0m (157.7 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36mC0004T01-1.jpg[0m (450.5 KB)
+15:57:06 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-9887.css[0m (3.1 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36m58-scaled.jpg[0m (840.7 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36m7a6d8544-31f7-4340-b2c4-637c128289df.jpg[0m (396.7 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36mhooks.min.js[0m (4.9 KB)
+15:57:06 | INFO     |   Progress: [35m25/420[0m downloads completed
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2026-05-15-at-9.52.43-AM.jpeg[0m (324.4 KB)
+15:57:06 | INFO     |   [32m[OK][0m [documents   ] [36m2f.pdf[0m (410.9 KB)
+15:57:06 | INFO     |   [32m[OK][0m [stylesheets ] [36mdashicons.min.css[0m (57.6 KB)
+15:57:06 | INFO     |   [32m[OK][0m [stylesheets ] [36melementor-frontend.min.css[0m (1.3 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-6.38.59-PM.jpeg[0m (134.8 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36msmartslider-frontend.min.js[0m (111.5 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36mw-arrow-image.min.js[0m (1.4 KB)
+15:57:06 | INFO     |   [32m[OK][0m [stylesheets ] [36mapple-webkit.min.css[0m (6.9 KB)
+15:57:06 | INFO     |   [32m[OK][0m [scripts     ] [36mwp-util.min.js[0m (1.4 KB)
+15:57:06 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20220607-WA0067.jpg[0m (178.8 KB)
+15:57:07 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-text-editor.min.css[0m (704.0 B)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20220607-WA0031.jpg[0m (134.7 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m1000070721_3000-scaled.jpg[0m (514.8 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m5-1.png[0m (29.0 KB)
+15:57:07 | INFO     |   [32m[OK][0m [videos      ] [36mwhatsapp-video-2023-05-04-at-101328-pm_WlIXnYuV.mp4[0m (1.7 MB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m101-scaled.jpeg[0m (818.0 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m1-2.png[0m (20.8 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m32-scaled.jpg[0m (205.9 KB)
+15:57:07 | INFO     |   [32m[OK][0m [stylesheets ] [36mcf-7.min.css[0m (501.0 B)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m36.jpeg[0m (164.5 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-12.40.14-PM-41.jpeg[0m (168.2 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mC0264T01-1.jpg[0m (458.6 KB)
+15:57:07 | INFO     |   [32m[OK][0m [scripts     ] [36mjquery.marquee.min.js[0m (5.8 KB)
+15:57:07 | INFO     |   [32m[OK][0m [scripts     ] [36mjquery.min.js[0m (85.5 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20220607-WA0070.jpg[0m (135.3 KB)
+15:57:07 | INFO     |   Progress: [35m50/420[0m downloads completed
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m44.jpeg[0m (171.7 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m4-2.png[0m (28.5 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mUntitled-1400-x-395-px-2560-x-1153-px-10.png[0m (2.7 MB)
+15:57:07 | INFO     |   [32m[OK][0m [stylesheets ] [36mswiper.min.css[0m (16.1 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.26-PM-5.jpeg[0m (119.3 KB)
+15:57:07 | INFO     |   [32m[OK][0m [scripts     ] [36mfrontend.js[0m (28.0 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20241106-WA0049-Copy.jpg[0m (133.0 KB)
+15:57:07 | INFO     |   [32m[OK][0m [stylesheets ] [36mregular.min.css[0m (677.0 B)
+15:57:07 | INFO     |   [32m[OK][0m [stylesheets ] [36mformidableforms.css[0m (49.6 KB)
+15:57:07 | WARNING  |   [31m[FAIL][0m [images      ] Failed: https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/11/cropped-logo-akit.web - HTTPSConnectionPool(host='clickndbuy.com', port=443): Max retries exceeded with url: /COLLEGES/wp-content/uploads/2022/11/cropped-logo-akit.webp (Caused by NameResolutionError("HTTPSConnection(host='clickndbuy.com', port=443): Failed to resolve 'clickndbuy.com' ([Errno 11001] getaddrinfo failed)"))
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-12.40.14-PM-12.jpeg[0m (99.1 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m71.jpg[0m (86.2 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m3-2.png[0m (22.4 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mMNG123.jpg[0m (131.3 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36m4_3000-scaled.jpg[0m (630.2 KB)
+15:57:07 | INFO     |   [32m[OK][0m [images      ] [36mUntitled-1400-x-395-px-2560-x-1153-px-14.png[0m (2.7 MB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-176.css[0m (1.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36mINSTITUTE-OF-TECHNOLOGICAL-SCIENCES-VEPALAGADDA-SUJATHA-NAGA[0m (204.8 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m41.jpeg[0m (188.5 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36msmartslider.min.css[0m (21.6 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m83.jpeg[0m (81.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mindex.js[0m (12.2 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mwebpack.runtime.min.js[0m (5.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mmaxmegamenu.js[0m (32.7 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m26.jpeg[0m (145.9 KB)
+15:57:08 | INFO     |   Progress: [35m75/420[0m downloads completed
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m9_optimized_3000-scaled.jpg[0m (974.5 KB)
+15:57:08 | WARNING  |   [31m[FAIL][0m [other       ] Failed: https://fonts.googleapis.com/css - 400 Client Error: Bad Request for url: https://fonts.googleapis.com/css
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mfrontend.min.js[0m (43.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m2-2.png[0m (17.9 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mrmp-menu.min.js[0m (9.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m111-scaled.jpg[0m (823.9 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36mCIVIL4.jpg[0m (123.2 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m23.jpg[0m (253.5 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36mC0178T01-1.jpg[0m (499.3 KB)
+15:57:08 | INFO     |   [32m[OK][0m [documents   ] [36mAICTE-DOCUMENTS-FOR-AKITS-COLLEGE_compressed_compressed-comp[0m (2.0 MB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m28.jpeg[0m (240.9 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m39_3000-scaled.jpg[0m (690.6 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mindex_54991139.js[0m (13.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [documents   ] [36mEOA-Report-2025-261111.pdf[0m (217.4 KB)
+15:57:08 | INFO     |   [32m[OK][0m [videos      ] [36mwhatsapp-video-2023-05-04-at-101327-pm-4lgim2aa_7SCaNQFI-1.m[0m (1.6 MB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mno-scripts.min.css[0m (99.0 B)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mcore.min.js[0m (21.0 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mstyle.css[0m (67.3 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-9798.css[0m (12.3 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mbrands.css[0m (732.0 B)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m74.jpeg[0m (179.7 KB)
+15:57:08 | INFO     |   [32m[OK][0m [scripts     ] [36mss-simple.min.js[0m (13.1 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-icon-list.min.css[0m (9.7 KB)
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mfontawesome.min.css[0m (56.7 KB)
+15:57:08 | INFO     |   [32m[OK][0m [images      ] [36m35.jpg[0m (286.4 KB)
+15:57:08 | INFO     |   Progress: [35m100/420[0m downloads completed
+15:57:08 | INFO     |   [32m[OK][0m [stylesheets ] [36mmain.min.css[0m (99.1 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mheader-footer-elementor.css[0m (776.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m7-1.png[0m (23.9 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36me-swiper.min.css[0m (10.0 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m27.jpeg[0m (83.2 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36msolid.min.css[0m (669.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m30-scaled.jpeg[0m (532.2 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m70.jpg[0m (141.0 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-heading.min.css[0m (600.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m8.jpeg[0m (79.3 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m6-1.png[0m (25.8 KB)
+15:57:09 | INFO     |   [32m[OK][0m [scripts     ] [36mmain.js[0m (32.4 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m5_3000-scaled.jpg[0m (726.5 KB)
+15:57:09 | INFO     |   [32m[OK][0m [scripts     ] [36mfrontend.min_90cde078.js[0m (771.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [videos      ] [36mwhatsapp-video-2023-05-04-at-101329-pm_UVCZdOTJ.mp4[0m (1.3 MB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mfrontend.css[0m (77.8 KB)
+15:57:09 | WARNING  |   [31m[FAIL][0m [other       ] Failed: https://fonts.googleapis.com/css2 - 400 Client Error: Bad Request for url: https://fonts.googleapis.com/css2
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m60_optimized_3000-scaled.jpg[0m (397.4 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36m3_1_3000-scaled.jpg[0m (725.9 KB)
+15:57:09 | INFO     |   [32m[OK][0m [images      ] [36mDSC_0417_optimized_3000-scaled.jpg[0m (594.2 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-social-icons.min.css[0m (4.8 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36msolid.css[0m (727.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mbrands.min.css[0m (675.0 B)
+15:57:09 | INFO     |   [32m[OK][0m [scripts     ] [36mfrontend-modules.min.js[0m (53.5 KB)
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mfontawesome.css[0m (70.5 KB)
+15:57:09 | INFO     |   Progress: [35m125/420[0m downloads completed
+15:57:09 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-video.min.css[0m (1.8 KB)
+15:57:09 | INFO     |   [32m[OK][0m [documents   ] [36mNAAC-Certificate-AKITS.pdf[0m (1.4 MB)
+15:57:09 | INFO     |   [33m[SKIP][0m [other       ] [36mcounter.php[0m (duplicate of rmp-menu.css)
+15:57:09 | INFO     |   [32m[OK][0m [scripts     ] [36mn2.min.js[0m (40.4 KB)
+15:57:09 | INFO     |   [32m[OK][0m [scripts     ] [36mhoverIntent.min.js[0m (1.5 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20220416-WA0020.jpg[0m (210.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-image.min.css[0m (254.0 B)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m1744611099169-1-scaled.jpg[0m (402.3 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mwidget-divider.min.css[0m (4.2 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-4798.css[0m (3.9 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpage-title.min.css[0m (1.2 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mUntitled-1400-x-395-px-2560-x-1153-px-9.png[0m (2.3 MB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-3650.css[0m (2.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-1583.css[0m (1.3 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mGovernor-of-Telangana-Sri-Jishnu-Dev-Varma.webp[0m (54.2 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mUntitled-design-2.png[0m (446.4 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mDr-K-Venkateshwar-Rao.webp[0m (69.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36me-animation-shrink.min.css[0m (205.0 B)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m1-1.jpg[0m (15.4 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mE._Ramjee_.jpg[0m (9.0 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mimg-chairman.jpg[0m (16.8 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m2.jpg[0m (4.6 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-516.css[0m (23.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [documents   ] [36mmandatory-disclosures-2024-2025-PG1-INCLD.pdf[0m (493.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mAbout-Us-banner-1536x394-1.png[0m (670.1 KB)
+15:57:10 | INFO     |   Progress: [35m150/420[0m downloads completed
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mimg-secretary.jpg[0m (39.6 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mVice-Chancellor.jpg[0m (14.8 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m4-1.jpg[0m (47.2 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mstyle.min.css[0m (128.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m343410-higher-education1440.jpg[0m (95.4 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m6-1.jpg[0m (85.4 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10494.css[0m (2.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10499.css[0m (2.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10496.css[0m (1.8 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m806Academic-Calendar.jpg[0m (26.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m839888.png[0m (11.5 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-964.css[0m (3.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-968.css[0m (4.3 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36msyllabus-1.jpg[0m (306.9 KB)
+15:57:10 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-966.css[0m (4.1 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m5-1-1.jpg[0m (29.7 KB)
+15:57:10 | INFO     |   [32m[OK][0m [documents   ] [36mfaculty-service-rulse.1.pdf[0m (2.0 MB)
+15:57:10 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-6.01.52-PM-1-Copy.jpe[0m (duplicate of 26.jpeg)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mC0246T01.jpg[0m (310.0 KB)
+15:57:10 | INFO     |   [32m[OK][0m [documents   ] [36mAKITS-UGC_Fee_Refund_Policy2024-25.pdf[0m (632.0 KB)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36m11a0c497-6e90-49e5-a466-ddf2e30033de.jpg[0m (188.7 KB)
+15:57:10 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.56.20-AM.jpeg[0m (duplicate of 83.jpeg)
+15:57:10 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-02-at-6.44.25-PM.jpeg[0m (604.8 KB)
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mC0157T01.jpg[0m (duplicate of 35.jpg)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.54.17-AM-1.jpeg[0m (172.4 KB)
+15:57:11 | INFO     |   Progress: [35m175/420[0m downloads completed
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-22-at-10.00.51-AM.jpeg[0m (165.1 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20211115-WA0009.jpg[0m (257.7 KB)
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.47.17-AM.jpeg[0m (duplicate of 8.jpeg)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20211115-WA0007.jpg[0m (311.9 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mE2.jpeg[0m (141.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-11.05.26-AM.jpeg[0m (145.2 KB)
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.25-PM.jpeg[0m (duplicate of 44.jpeg)
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.26-PM-3.jpeg[0m (duplicate of 42.jpeg)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.46.49-AM.jpeg[0m (188.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-14-at-7.59.54-PM-Copy.jpeg[0m (190.2 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-11-13-at-7.33.49-PM.jpeg[0m (293.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-19-at-8.20.17-AM-Copy-scaled.jpeg[0m (351.0 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36msolar-plant.jpg[0m (150.1 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36m512.jpg[0m (117.5 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.55.52-AM.jpeg[0m (71.9 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36m20240106_25338PM_ByGPSMapCamera-scaled.jpg[0m (644.7 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.26-PM-2.jpeg[0m (88.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [documents   ] [36mAKITS1_compressed.pdf[0m (1.7 MB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.38-PM.jpeg[0m (59.9 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.24-PM.jpeg[0m (226.6 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-11.41.06-AM.jpeg[0m (81.9 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.56.46-AM-1.jpeg[0m (182.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.24-PM-1.jpeg[0m (118.8 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-11-13-at-7.33.10-PM.jpeg[0m (148.6 KB)
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.41-PM-1.jpeg[0m (duplicate of 74.jpeg)
+15:57:11 | INFO     |   Progress: [35m200/420[0m downloads completed
+15:57:11 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.30.48-PM-scaled.jpe[0m (duplicate of 101-scaled.jpeg)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-11-15-at-3.54.43-PM.jpeg[0m (133.3 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.49.53-AM.jpeg[0m (106.1 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mEEE1.jpg[0m (164.8 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.53.10-AM.jpeg[0m (204.6 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.33-PM.jpeg[0m (155.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-22-at-10.00.52-AM11.jpeg[0m (203.7 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.26-PM-1.jpeg[0m (77.4 KB)
+15:57:11 | INFO     |   [32m[OK][0m [images      ] [36mE1-scaled.jpg[0m (642.8 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240103-WA0044.jpg[0m (70.2 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.42.47-AM.jpeg[0m (101.5 KB)
+15:57:12 | INFO     |   [33m[SKIP][0m [images      ] [36mC0178T01.jpg[0m (duplicate of C0178T01-1.jpg)
+15:57:12 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-10-19-at-11.41.53-AM-scaled.jp[0m (duplicate of 30-scaled.jpeg)
+15:57:12 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-9551.css[0m (1.3 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mSWC-scaled.jpg[0m (910.1 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.57.57-AM.jpeg[0m (105.2 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-13-at-7.23.04-AM-1.jpeg[0m (129.4 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.45.49-AM.jpeg[0m (73.9 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.25-PM-1.jpeg[0m (109.1 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.39-PM-Copy.jpeg[0m (149.1 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-11.23.48-AM.jpeg[0m (92.7 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36msolar-street-lights.jpeg[0m (186.2 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-11.06.22-AM.jpeg[0m (106.9 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m122.jpg[0m (158.3 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240217-WA0016.jpg[0m (112.5 KB)
+15:57:12 | INFO     |   Progress: [35m225/420[0m downloads completed
+15:57:12 | INFO     |   [33m[SKIP][0m [images      ] [36mC0004T01.jpg[0m (duplicate of C0004T01-1.jpg)
+15:57:12 | INFO     |   [33m[SKIP][0m [images      ] [36m1744637479508-scaled.jpg[0m (duplicate of 32-scaled.jpg)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744637479904.jpg[0m (179.3 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m30e92e0d-4dd3-4cdb-a297-780ee430be64.jpg[0m (191.8 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744636245281.jpg[0m (159.5 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20240106_143853-Copy-scaled.jpg[0m (473.1 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20250328-WA00001.jpg[0m (374.5 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-1.21.59-PM-1-Copy-scaled.jpeg[0m (495.7 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mMECH-INDUSTRIAL.jpg[0m (144.4 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744611099373-scaled.jpg[0m (495.7 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744611099327-scaled.jpg[0m (637.9 KB)
+15:57:12 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-9701.css[0m (1.3 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-6.38.20-PM-NEW.jpg[0m (159.0 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744611099235-scaled.jpg[0m (862.4 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36mHH3.jpg[0m (105.1 KB)
+15:57:12 | INFO     |   [32m[OK][0m [images      ] [36m1744611099215-scaled.jpg[0m (735.5 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-6.40.34-PM.jpeg[0m (137.1 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mc8b2a6df-ad46-45cb-9796-90bc54279dbf.jpg[0m (243.6 KB)
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36mf2d89855-2ca1-40a7-8f37-825e5a3f9f06.jpg[0m (duplicate of 61.jpg)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240206-WA0232.jpg[0m (72.0 KB)
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36m1744611099169-scaled.jpg[0m (duplicate of 1744611099169-1-scaled.jpg)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-11.05.30-AM.jpeg[0m (98.8 KB)
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36mC0264T01.jpg[0m (duplicate of C0264T01-1.jpg)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36m1744637479802-Copy.jpg[0m (360.2 KB)
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36m1744637479535.jpg[0m (duplicate of 71.jpg)
+15:57:13 | INFO     |   Progress: [35m250/420[0m downloads completed
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36mIMG20231231120104-scaled.jpg[0m (duplicate of 38-scaled.jpg)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.50.57-AM.jpeg[0m (398.3 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-12.40.14-PM-31-Copy.jpeg[0m (178.5 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240103-WA0040.jpg[0m (337.2 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-1.53.12-PM-Copy.jpeg[0m (32.6 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36m1744636244829.jpg[0m (121.7 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36m1744637479859-scaled.jpg[0m (597.2 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20250328-WA0005.jpg[0m (259.4 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36m7eebc880-72b0-4243-8993-fc49cd22b1ea.jpg[0m (439.7 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mC0265T01.jpg[0m (425.8 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.43-PM-Copy.jpeg[0m (143.5 KB)
+15:57:13 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-10-13-at-7.23.02-AM.jpeg[0m (duplicate of 28.jpeg)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.47.52-AM.jpeg[0m (176.5 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-10.45.10-AM-Copy.jpeg[0m (238.5 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mf7572797-62a3-4249-a96a-5f544c707404.jpg[0m (379.6 KB)
+15:57:13 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.41-PM-Copy.jpeg[0m (411.2 KB)
+15:57:14 | INFO     |   [33m[SKIP][0m [images      ] [36mIMG_20240106_145323-scaled.jpg[0m (duplicate of IMG_20240106_145323-1-scaled.jpg)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mCIVIL12.jpg[0m (142.2 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744611099314-scaled.jpg[0m (609.2 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mPFAP-scaled.jpg[0m (952.8 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240103-WA0033.jpg[0m (186.4 KB)
+15:57:14 | INFO     |   [33m[SKIP][0m [images      ] [36mhr2.jpeg[0m (duplicate of 21.jpeg)
+15:57:14 | INFO     |   [33m[SKIP][0m [images      ] [36mIMG-20250328-WA0004.jpg[0m (duplicate of WhatsApp-Image-2025-04-16-at-10.50.57-AM.jpeg)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744636245423-Copy.jpg[0m (160.5 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-14-at-7.57.17-PM-Copy.jpeg[0m (200.4 KB)
+15:57:14 | INFO     |   Progress: [35m275/420[0m downloads completed
+15:57:14 | INFO     |   [33m[SKIP][0m [images      ] [36m1744636244843.jpg[0m (duplicate of 70.jpg)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744636244734-Copy-scaled.jpg[0m (567.6 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mrr-scaled.jpg[0m (645.5 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744611099136-scaled.jpg[0m (810.4 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.49-PM-Copy.jpeg[0m (98.9 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mapj2.jpeg[0m (105.9 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744611099268-scaled.jpg[0m (737.7 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20241021_132727-scaled.jpg[0m (438.3 KB)
+15:57:14 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-12.40.14-PM-7.jpeg[0m (duplicate of 41.jpeg)
+15:57:14 | INFO     |   [32m[OK][0m [documents   ] [36mJNTUH-R25-Curriculum-Expert-Suggestions-Feedback-Forms.pdf[0m (47.1 KB)
+15:57:14 | INFO     |   [32m[OK][0m [images      ] [36m1744636245216-scaled.jpg[0m (467.8 KB)
+15:57:14 | INFO     |   [32m[OK][0m [documents   ] [36mde-241211-165850-Notification_for_BTech_I_I_Reg_Sup_I-II_Sup[0m (592.0 KB)
+15:57:14 | INFO     |   [32m[OK][0m [documents   ] [36mduex-241126-113250-Notification_for_BTech_III_I_Reg_Sup_III-[0m (957.2 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mDE-250429-175047-Notification_BTech-_II-II_reg_sup_II_I_sup_[0m (765.8 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mde-250120-113024-Notification_MTech_I_I_Reg_Sup_I_II_Sup_Exa[0m (900.0 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mde-241126-113038-Notification_for_BTech_III_I_Reg_Sup_III-II[0m (493.7 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mNotification-for-MBA-I-Sem-Regular-Supply-and-II-Sem-Supply-[0m (954.9 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-9435.css[0m (3.9 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mde-241130-120816-Notification_Project-_Thesis_Phase_II_for_M[0m (725.1 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mArtificial-Intelligence-Machine-Learning-768x512-1-q05mgzgaz[0m (44.2 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10944.css[0m (5.4 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mde-250301-125311-BTech_II_II_R22_Re-Rregistration_MARCH_2025[0m (631.7 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10958.css[0m (4.9 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mduex-241104-125233-BTech_I_I_R22_Re-Rregistration_Nov_2024.p[0m (621.9 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10950.css[0m (6.2 KB)
+15:57:15 | INFO     |   Progress: [35m300/420[0m downloads completed
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-1.54.56-PM.jpeg[0m (37.3 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10954.css[0m (7.8 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10952.css[0m (1.0 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mplaceholder.png[0m (6.0 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mMC-CREATIONS-9.png[0m (208.1 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-05-22-at-2.14.13-PM.jpeg[0m (128.0 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10956.css[0m (1.9 KB)
+15:57:15 | INFO     |   [32m[OK][0m [documents   ] [36mNotification-for-MCA-I-Sem-Regular-Supply-and-II-Sem-Supply-[0m (1.0 MB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10974.css[0m (4.3 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mS-RAVI-KIRAN-2_page-0001.jpg[0m (357.5 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36m45-S-Ravi-Kiran_page-0001.jpg[0m (493.6 KB)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36mcse.jpg[0m (71.6 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10976.css[0m (4.0 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10977.css[0m (5.3 KB)
+15:57:15 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-5.58.41-PM-1-1.jpeg[0m (duplicate of 74.jpeg)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10978.css[0m (767.0 B)
+15:57:15 | INFO     |   [32m[OK][0m [images      ] [36m2.png[0m (1.3 MB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10985.css[0m (4.2 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-10979.css[0m (6.5 KB)
+15:57:15 | INFO     |   [32m[OK][0m [stylesheets ] [36me-animation-pulse-shrink.min.css[0m (358.0 B)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11077.css[0m (4.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36melectronic-communication.jpg[0m (119.4 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11084.css[0m (4.0 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11087.css[0m (5.3 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20221222-WA0032-1.jpg[0m (18.7 KB)
+15:57:16 | INFO     |   Progress: [35m325/420[0m downloads completed
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11089.css[0m (225.0 B)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mece3.jpg[0m (63.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-7.57.19-PM.jpeg[0m (66.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36melectronic-comm.jpg[0m (239.4 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11091.css[0m (7.2 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-10.30.54-PM.jpeg[0m (77.4 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mece2.jpg[0m (79.2 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mece1.jpg[0m (79.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20191003-WA0020.jpg[0m (36.9 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11093.css[0m (4.4 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20221224_155924.jpg[0m (73.2 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20240201-WA0065.jpg[0m (130.1 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mIMG-20191026-WA0022-1.jpg[0m (49.8 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11095.css[0m (4.6 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36melectrical-electronics-banner1.jpg[0m (107.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11103.css[0m (4.0 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mDSC_1564.jpg[0m (39.6 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11107.css[0m (5.3 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36m1-q05w53yg591cd5cs2op4xxpm4d0j5tx6tcijabmwmw.png[0m (263.8 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mfaculty-image.jpg[0m (9.7 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11111.css[0m (5.1 KB)
+15:57:16 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11116.css[0m (7.2 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mMI.jpeg[0m (113.6 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mPE-LAB.jpeg[0m (157.5 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mem-1.jpeg[0m (146.6 KB)
+15:57:16 | INFO     |   Progress: [35m350/420[0m downloads completed
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mPS-LAB.jpeg[0m (134.5 KB)
+15:57:16 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2024-09-01-at-11.23.48-AM_9af7144e.[0m (duplicate of WhatsApp-Image-2024-09-01-at-11.23.48-AM.jpeg)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mCS-LAB.jpeg[0m (142.2 KB)
+15:57:16 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-05-22-at-11.34.52-AM.jpeg[0m (68.7 KB)
+15:57:16 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-16-at-10.55.52-AM_01eaefe0.[0m (duplicate of WhatsApp-Image-2025-04-16-at-10.55.52-AM.jpeg)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mDocument-from-akhilkosetti-1-1-scaled.jpg[0m (592.5 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36msuresh_page-0001.jpg[0m (353.4 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mWRK.jpg[0m (138.6 KB)
+15:57:17 | INFO     |   [33m[SKIP][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.42.25-PM.jpeg[0m (duplicate of 44.jpeg)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mIAEEEE-MEMBERSHIP-CERTIFICATE_page-0001.jpg[0m (361.2 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mEEE-9.jpg[0m (810.9 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36m55.jpeg[0m (213.2 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mPN.jpg[0m (151.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mPicture4-q05ltbuiza3i9jdy0hcd8957mvh3nmz7d7bqvcvnp4.png[0m (222.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mIAENG_membership_509832_page-0001.jpg[0m (555.3 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11130.css[0m (4.7 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11133.css[0m (4.1 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mmechanical-banner-new.jpg[0m (119.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36msuresh-photo.jpg[0m (116.8 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11146.css[0m (6.0 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11141.css[0m (5.3 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36m1671786350026.jpg[0m (178.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11149.css[0m (7.5 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36me-animation-grow.min.css[0m (198.0 B)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11151.css[0m (4.4 KB)
+15:57:17 | INFO     |   Progress: [35m375/420[0m downloads completed
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36m1671786350049.jpg[0m (196.1 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11119.css[0m (1.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mcivil-engineering-img-py12eya2n0h1nsr5i5zxulxxhzxkxy6e2me5o1[0m (32.3 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mme2.png[0m (441.7 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36m1671786350252.jpg[0m (190.7 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11163.css[0m (4.6 KB)
+15:57:17 | INFO     |   [32m[OK][0m [stylesheets ] [36mpost-11166.css[0m (4.0 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mcivil-banner.jpg[0m (100.9 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-24-at-2.57.42-PM.jpeg[0m (123.0 KB)
+15:57:17 | INFO     |   [32m[OK][0m [images      ] [36mme.png[0m (524.9 KB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36m1744611099327.jpg[0m (992.3 KB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36m1744611099136.jpg[0m (1.2 MB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20241021_132727.jpg[0m (1.4 MB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36mDSC_1561-1.jpg[0m (1.6 MB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36m1744636245216.jpg[0m (2.1 MB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36mcropped-AKITLogo.jpg[0m (43.7 KB)
+15:57:18 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-08-31-at-1.21.59-PM-1-Copy.jpeg[0m (478.0 KB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36m1744611099268.jpg[0m (846.2 KB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2025-04-15-at-4.30.48-PM.jpeg[0m (1.3 MB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36mrr.jpg[0m (651.7 KB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20240106_143853-Copy.jpg[0m (2.5 MB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36m1744636244734-Copy.jpg[0m (618.1 KB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36mIMG20231231120104.jpg[0m (2.4 MB)
+15:57:19 | INFO     |   [32m[OK][0m [images      ] [36m1744611099169.jpg[0m (565.6 KB)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36m1744611099373.jpg[0m (739.9 KB)
+15:57:20 | INFO     |   Progress: [35m400/420[0m downloads completed
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36mDocument-from-akhilkosetti-1-1.jpg[0m (835.6 KB)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-19-at-8.20.17-AM-Copy.jpeg[0m (398.7 KB)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36mmech7.jpg[0m (2.4 MB)
+15:57:20 | INFO     |   [33m[SKIP][0m [images      ] [36mrr_aed4150a.jpg[0m (duplicate of rr.jpg)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36m1744611099235.jpg[0m (1.3 MB)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36m20240106_25338PM_ByGPSMapCamera.jpg[0m (2.0 MB)
+15:57:20 | INFO     |   [32m[OK][0m [images      ] [36mIMG_20240106_145323.jpg[0m (2.7 MB)
+15:57:21 | INFO     |   [32m[OK][0m [images      ] [36m1744637479508.jpg[0m (305.7 KB)
+15:57:21 | INFO     |   [32m[OK][0m [images      ] [36m1744611099215.jpg[0m (1.1 MB)
+15:57:21 | INFO     |   [32m[OK][0m [images      ] [36m1744611099314.jpg[0m (898.7 KB)
+15:57:21 | INFO     |   [32m[OK][0m [images      ] [36mcse_c6f266e3.jpg[0m (2.3 MB)
+15:57:22 | INFO     |   [32m[OK][0m [images      ] [36mmech2.jpg[0m (2.6 MB)
+15:57:22 | INFO     |   [32m[OK][0m [images      ] [36m1744637479859.jpg[0m (2.6 MB)
+15:57:22 | INFO     |   [32m[OK][0m [images      ] [36mmech4.jpg[0m (2.1 MB)
+15:57:22 | INFO     |   [32m[OK][0m [images      ] [36mWhatsApp-Image-2024-10-19-at-11.41.53-AM.jpeg[0m (761.1 KB)
+15:57:22 | WARNING  |   [31m[FAIL][0m [images      ] Failed: https://clickndbuy.com/COLLEGES/wp-content/uploads/2022/11/839888.png - HTTPSConnectionPool(host='clickndbuy.com', port=443): Max retries exceeded with url: /COLLEGES/wp-content/uploads/2022/11/839888.png (Caused by NameResolutionError("HTTPSConnection(host='clickndbuy.com', port=443): Failed to resolve 'clickndbuy.com' ([Errno 11001] getaddrinfo failed)"))
+15:57:22 | INFO     |   [32m[OK][0m [images      ] [36mE1.jpg[0m (2.0 MB)
+15:57:23 | INFO     |   [32m[OK][0m [images      ] [36mPFAP.jpg[0m (2.9 MB)
+15:57:23 | INFO     |   [32m[OK][0m [images      ] [36m5_3000-1.jpg[0m (2.3 MB)
+15:57:23 | INFO     |   [32m[OK][0m [images      ] [36mSWC.jpg[0m (2.8 MB)
+15:57:23 | INFO     | 
+  Report saved to: [36makits_scraped_resources\scrape_report.json[0m
+15:57:23 | INFO     |   URL list saved to: [36makits_scraped_resources\all_resource_urls.txt[0m

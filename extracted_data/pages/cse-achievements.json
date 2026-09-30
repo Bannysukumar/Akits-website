@@ -1,0 +1,84 @@
+{
+  "url": "https://akits.ac.in/cse-achievements",
+  "title": "Cse Achievements",
+  "meta_description": "Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Cse Achievements",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/cse.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Achivements"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/cse.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2024-08-31-at-5.58.41-PM-1-1-150x150.jpeg",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/2-150x150.png",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-22-at-2.14.13-PM-150x150.jpeg",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/45-S-Ravi-Kiran_page-0001-150x150.jpg",
+      "alt": "",
+      "width": "150",
+      "height": "150",
+      "class": "attachment-thumbnail size-thumbnail"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "cse-achievements\\index.html",
+  "route": "/cse-achievements"
+}

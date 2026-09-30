@@ -1,0 +1,69 @@
+{
+  "url": "https://akits.ac.in/mechanical-vision-mission",
+  "title": "Mechanical Vision & Mission",
+  "meta_description": "Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society.OUR MISSIONM1: To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mechanical Vision &amp; Mission",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Vision & Mission"
+    },
+    {
+      "level": 4,
+      "text": "OUR VISION"
+    },
+    {
+      "level": 4,
+      "text": "OUR MISSION"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "To be a centre of excellence for mechanical engineering, to offer the greatest environments for teaching, learning, and research, and to create highly skilled workers and business owners who can meet the needs of society.",
+    "M1: To provide a welcoming teaching-learning atmosphere while delivering high-quality education that fosters strong ethical attitudes, technical knowledge, and professional skills.",
+    "M2:To provide state-of-the-art facilities that will help students develop their analytical, problem-solving, and research skills to adapt to the changing needs of society.",
+    "M3:To develop through counselling and mentoring the qualities of leadership and lifelong learning necessary for successful professional careers."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mechanical-vision-mission\\index.html",
+  "route": "/mechanical-vision-mission"
+}

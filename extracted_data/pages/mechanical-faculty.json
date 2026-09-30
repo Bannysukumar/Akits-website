@@ -1,0 +1,144 @@
+{
+  "url": "https://akits.ac.in/mechanical-faculty",
+  "title": "Mechanical Faculty",
+  "meta_description": "OUR FACULTY Mechanical Faculty ListS.NoName of the FacultyDesignationExperience/Years 1Mr.BHUKYA SURESHAssistant Professor8 2Mr.YANAKAPATI KRISHNAAssistant Professor8 3 Mr.PERAM RAGHUAssistant Professor74Mr.PIDUGU RAKESHAssistant Professor65Mr.YENUTI ANILAssistant Professor56Miss.DIMPLE BYRIAssistant Professor37 Mrs.S.T.VISHALAKSHIAssistant Professor8 8Mrs.MAHABOOBI MOHAMMEDAssistant Professor59Mr. BHARATH CHINTAAssistant Professor3 10Mr.P V V RAJARAOAssistant Professor911Mr.KUMAR SAI TALLOORIAssistant Professor8 Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Mechanical Faculty",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "OUR FACULTY"
+    },
+    {
+      "level": 4,
+      "text": "Mechanical Faculty List"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/mechanical-banner-new.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/faculty-image-300x151.jpg",
+      "alt": "",
+      "width": "300",
+      "height": "151",
+      "class": "attachment-medium size-medium wp-image-12262"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Faculty",
+        "Designation",
+        "Experience/Years"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mr.BHUKYA SURESH",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "2",
+          "Mr.YANAKAPATI KRISHNA",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "3",
+          "Mr.PERAM RAGHU",
+          "Assistant Professor",
+          "7"
+        ],
+        [
+          "4",
+          "Mr.PIDUGU RAKESH",
+          "Assistant Professor",
+          "6"
+        ],
+        [
+          "5",
+          "Mr.YENUTI ANIL",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "6",
+          "Miss.DIMPLE BYRI",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "7",
+          "Mrs.S.T.VISHALAKSHI",
+          "Assistant Professor",
+          "8"
+        ],
+        [
+          "8",
+          "Mrs.MAHABOOBI MOHAMMED",
+          "Assistant Professor",
+          "5"
+        ],
+        [
+          "9",
+          "Mr. BHARATH CHINTA",
+          "Assistant Professor",
+          "3"
+        ],
+        [
+          "10",
+          "Mr.P V V RAJARAO",
+          "Assistant Professor",
+          "9"
+        ],
+        [
+          "11",
+          "Mr.KUMAR SAI TALLOORI",
+          "Assistant Professor",
+          "8"
+        ]
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mechanical-faculty\\index.html",
+  "route": "/mechanical-faculty"
+}

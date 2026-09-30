@@ -1,0 +1,104 @@
+{
+  "url": "https://akits.ac.in/sports",
+  "title": "Sports",
+  "meta_description": "The Department is headed by a Professor of Physical Education supported by two Assistant Physical Directors and two Grounds men. The College is extensively promoting sports and games through its Constituent /Affiliated Colleges, Institutes, and Schools. The students are participating in various events and games inside and outside the college and are bringing laurels to",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Sports",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [],
+  "paragraphs": [
+    "The Department is headed by a Professor of Physical Education supported by two Assistant Physical Directors and two Grounds men. The College is extensively promoting sports and games through its Constituent /Affiliated Colleges, Institutes, and Schools. The students are participating in various events and games inside and outside the college and are bringing laurels to our College.",
+    "The following play facilities are available in the campus for both boys and girls"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-16-at-11.50.00-AM-1.jpeg",
+      "alt": "",
+      "width": "1020",
+      "height": "768",
+      "class": "wp-image-6653"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-16-at-11.49.59-AM-1024x768.jpeg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "wp-image-6652"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-16-at-11.50.00-AM.jpeg",
+      "alt": "",
+      "width": "1020",
+      "height": "768",
+      "class": "wp-image-6655"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/g11-1024x576.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "576",
+      "class": "attachment-large size-large wp-image-10578"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/g1-1024x682.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "682",
+      "class": "attachment-large size-large wp-image-10579"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/g2-1024x682.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "682",
+      "class": "attachment-large size-large wp-image-10580"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/g7.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-10581"
+    },
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/04/g6-1024x682.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "682",
+      "class": "attachment-large size-large wp-image-10582"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "Cricket",
+        "Basket Ball",
+        "Volley Ball",
+        "Throw Ball",
+        "Table Tennis",
+        "Badminton",
+        "Kho-Kho",
+        "Foot Ball",
+        "Caroms",
+        "Chess",
+        "Gym etc."
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "sports\\index.html",
+  "route": "/sports"
+}

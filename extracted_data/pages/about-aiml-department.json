@@ -1,0 +1,69 @@
+{
+  "url": "https://akits.ac.in/about-aiml-department",
+  "title": "About AIML Department",
+  "meta_description": "About Our Department One of the fields in modern history with the quickest rate of growth is computer science and engineering. It is currently the most important industry in the world despite having only a few decades of history.With the rapid advancement of technology, computer science has revolutionized nearly every aspect of human life —",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "About AIML Department",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "About Our Department"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    },
+    {
+      "level": 2,
+      "text": "Strength of The Department"
+    },
+    {
+      "level": 4,
+      "text": "Strength of The Department"
+    }
+  ],
+  "paragraphs": [
+    "One of the fields in modern history with the quickest rate of growth is computer science and engineering. It is currently the most important industry in the world despite having only a few decades of history.",
+    "With the rapid advancement of technology, computer science has revolutionized nearly every aspect of human life — from communication and healthcare to transportation, education, and entertainment. The demand for innovative solutions and intelligent systems continues to surge, fueling the need for skilled professionals in software development, artificial intelligence, cybersecurity, and data science.",
+    "For many young enthusiasts, a career in computer science and engineering has proven to be a worthwhile direction, offering not only financial stability but also opportunities to shape the future. This trend is expected to continue well into the next millennium, as our dependency on digital systems deepens and new technological frontiers emerge, such as quantum computing, robotics, and augmented reality.",
+    "We are the top computer science engineering institutions in Kothagudem thanks to the two UG programmes offered by the CSE Department, which was founded in 2008 and has a yearly intake of 90 students for B.TECH (CSE), 60 students for B.TECH (AI & ML),60 Students for B.TECH CSE(DS), and 120 students for Diploma."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/elementor/thumbs/Artificial-Intelligence-Machine-Learning-768x512-1-q05mgzgaz6huwud87s4tie2u7tbunav77rvhp0by5c.jpg",
+      "alt": "Artificial-Intelligence-Machine-Learning-768x512",
+      "width": "",
+      "height": "",
+      "class": ""
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "about-aiml-department\\index.html",
+  "route": "/about-aiml-department"
+}

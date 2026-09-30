@@ -1,0 +1,158 @@
+{
+  "url": "https://akits.ac.in/iqac",
+  "title": "IQAC",
+  "meta_description": "IQAC The Internal Quality Assurance Cell (IQAC) was established in the year 2018 at ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCINECES to promote quality enhancement of all aspects of Institute functioning. It aims to evolve a mechanisms and procedures to ensure efficient, effective and progressive performance of academic and administrative tasks and to maintain relevance and",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "IQAC",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "IQAC"
+    },
+    {
+      "level": 4,
+      "text": "IQAC MEMBERS"
+    },
+    {
+      "level": 2,
+      "text": "Circulars"
+    }
+  ],
+  "paragraphs": [
+    "The Internal Quality Assurance Cell (IQAC) was established in the year 2018 at ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCINECES to promote quality enhancement of all aspects of Institute functioning. It aims to evolve a mechanisms and procedures to ensure efficient, effective and progressive performance of academic and administrative tasks and to maintain relevance and Quality of the academic programs.",
+    "IQAC focuses on quality enhancement of teaching, learning, evaluation, research, extension and consultancy opportunities.",
+    "The IQAC meets periodically to review the progress of the Institute and its quality enhancement based on the criteria suggested by the National Assessment and Accreditation Council (NAAC) and suggests actions for further strengthening and sustaining the quality. The quality of the academic programmes are ensured through constant monitoring.",
+    "IQAC Minutes of meeting Aug-2024IQAC Minutes of meeting Jan-2024IQAC Minutes of meeting Aug-2023IQAC Minutes of meeting Nov-2022IQAC Minutes of meeting Aug-2022IQAC Minutes of meeting Feb-2022IQAC Minutes of meeting Aug-2021IQAC Minutes of meeting Feb-2021IQAC Minutes of meeting Aug-2020"
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "https://akits.ac.in/wp-content/uploads/2025/05/MINUTES-OF-MEETING-1024x768.jpg",
+      "alt": "",
+      "width": "1024",
+      "height": "768",
+      "class": "attachment-large size-large wp-image-10758"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Member Name",
+        "Designation",
+        "Department"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.D.Dayakar Rao",
+          "Chairperson,Principal",
+          "ECE"
+        ],
+        [
+          "2",
+          "Mr.J.Srinivas",
+          "IQAC Coordinator",
+          "CIVIL"
+        ],
+        [
+          "3",
+          "Mr.P.Babu Rao",
+          "Member",
+          "EEE"
+        ],
+        [
+          "4",
+          "Mr.MD.Abdul Muneer",
+          "Member",
+          "CIVIL"
+        ],
+        [
+          "5",
+          "Mr.S.RaviKiran",
+          "Member",
+          "CSE"
+        ],
+        [
+          "6",
+          "Mr.G.Krishnamohan",
+          "Member",
+          "ECE"
+        ],
+        [
+          "7",
+          "Dr.N.V.Ramana",
+          "Advisor Senior Professor of EEE & I/c Director of Academic Affairs",
+          "EEE"
+        ],
+        [
+          "8",
+          "Mr.K.Kiran Kumar",
+          "Industry Expert(External Member)",
+          "DE,KTPS"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/12-08-2024.pdf",
+      "text": "IQAC Minutes of meeting Aug-2024",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/02-01-2024.pdf",
+      "text": "IQAC Minutes of meeting Jan-2024",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/04-08-2023.pdf",
+      "text": "IQAC Minutes of meeting Aug-2023",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/28-11-2022.pdf",
+      "text": "IQAC Minutes of meeting Nov-2022",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/03-08-2022.pdf",
+      "text": "IQAC Minutes of meeting Aug-2022",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/17-02-2022.pdf",
+      "text": "IQAC Minutes of meeting Feb-2022",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/14-08-2021.pdf",
+      "text": "IQAC Minutes of meeting Aug-2021",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/18-02-2021.pdf",
+      "text": "IQAC Minutes of meeting Feb-2021",
+      "type": "PDF"
+    },
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/05/10-08-2020.pdf",
+      "text": "IQAC Minutes of meeting Aug-2020",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "iqac\\index.html",
+  "route": "/iqac"
+}

@@ -1,0 +1,1322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKITS Website - Scraped Pages Index</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 2rem;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 {
+            font-size: 2rem;
+            background: linear-gradient(135deg, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle { color: #94a3b8; margin-bottom: 2rem; }
+        .stats {
+            display: flex; gap: 1.5rem; margin-bottom: 2rem; flex-wrap: wrap;
+        }
+        .stat {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 1rem 1.5rem;
+            min-width: 160px;
+        }
+        .stat-value {
+            font-size: 1.8rem; font-weight: 700;
+            background: linear-gradient(135deg, #38bdf8, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stat-label { color: #94a3b8; font-size: 0.85rem; margin-top: 4px; }
+        table {
+            width: 100%; border-collapse: collapse;
+            background: #1e293b; border-radius: 12px; overflow: hidden;
+        }
+        th {
+            background: #334155; padding: 12px 16px; text-align: left;
+            font-weight: 600; font-size: 0.85rem; text-transform: uppercase;
+            letter-spacing: 0.05em; color: #94a3b8;
+        }
+        td { padding: 12px 16px; border-bottom: 1px solid #334155; vertical-align: top; }
+        tr:hover td { background: #263548; }
+        a { color: #38bdf8; text-decoration: none; }
+        a:hover { text-decoration: underline; color: #7dd3fc; }
+        .page-link { font-weight: 600; font-size: 1rem; }
+        .url { font-size: 0.78rem; color: #64748b; margin-top: 4px; word-break: break-all; }
+        .desc { font-size: 0.82rem; color: #94a3b8; margin-top: 4px; }
+        .file-link { font-size: 0.82rem; color: #a78bfa; font-family: monospace; }
+        .search-box {
+            width: 100%; padding: 12px 16px; margin-bottom: 1.5rem;
+            background: #1e293b; border: 1px solid #334155; border-radius: 8px;
+            color: #e2e8f0; font-size: 1rem; outline: none;
+        }
+        .search-box:focus { border-color: #38bdf8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AKITS Website - Scraped Pages</h1>
+        <p class="subtitle">
+            Complete HTML source code of 100 pages from
+            <a href="https://akits.ac.in/">https://akits.ac.in/</a>
+            | Scraped on 2026-09-30 16:01:59
+        </p>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">100</div>
+                <div class="stat-label">Pages Saved</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">14.7 MB</div>
+                <div class="stat-label">Total Size</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">0</div>
+                <div class="stat-label">Failed</div>
+            </div>
+        </div>
+
+        <input type="text" class="search-box" id="search"
+               placeholder="Search pages by title, URL, or path..."
+               oninput="filterTable()">
+
+        <table id="pages-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Page Title / URL</th>
+                    <th>Local File</th>
+                    <th>Images</th>
+                    <th>Videos</th>
+                    <th>Links</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+            <tr>
+                <td>1</td>
+                <td>
+                    <a href="index.html" class="page-link">Abdul Kalam Institute of Technology & Science | AKITS</a>
+                    <div class="url">https://akits.ac.in</div>
+                    <div class='desc'>The Abdul Kalam College in Kothagudem is one of the best Engineering colleges offering multi-disciplinary education for ...</div>
+                </td>
+                <td><a href="index.html" class="file-link">index.html</a></td>
+                <td>66</td>
+                <td>3</td>
+                <td>196</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>
+                    <a href="index.html" class="page-link">Abdul Kalam Institute of Technology & Science | AKITS</a>
+                    <div class="url">https://akits.ac.in/</div>
+                    <div class='desc'>The Abdul Kalam College in Kothagudem is one of the best Engineering colleges offering multi-disciplinary education for ...</div>
+                </td>
+                <td><a href="index.html" class="file-link">index.html</a></td>
+                <td>66</td>
+                <td>3</td>
+                <td>196</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>
+                    <a href="about-aiml-department\index.html" class="page-link">About AIML Department - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-aiml-department</div>
+                    <div class='desc'>About Our Department One of the fields in modern history with the quickest rate of growth is computer science and engine...</div>
+                </td>
+                <td><a href="about-aiml-department\index.html" class="file-link">about-aiml-department\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>
+                    <a href="about-civil-engineering-department\index.html" class="page-link">About Civil Engineering Department - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-civil-engineering-department</div>
+                    <div class='desc'>About Our Department The planning, building, and upkeep of permanent structures, or public works, as they relate to the ...</div>
+                </td>
+                <td><a href="about-civil-engineering-department\index.html" class="file-link">about-civil-engineering-department\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>
+                    <a href="about-data-science\index.html" class="page-link">About Data Science - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-data-science</div>
+                    <div class='desc'>About Our Department One of the fields in modern history with the quickest rate of growth in computer science and engine...</div>
+                </td>
+                <td><a href="about-data-science\index.html" class="file-link">about-data-science\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>
+                    <a href="about-mechanical-department\index.html" class="page-link">About Mechanical Department - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-mechanical-department</div>
+                    <div class='desc'>ABOUT OUR DEPARTMENT The Department of Mechanical Engineering was established in 2007, and it has been acting as a suppo...</div>
+                </td>
+                <td><a href="about-mechanical-department\index.html" class="file-link">about-mechanical-department\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>
+                    <a href="about-our-cse-department\index.html" class="page-link">About Our CSE Department - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-our-cse-department</div>
+                    <div class='desc'>About Our Department One of the fields in modern history with the quickest rate of growth is computer science and engine...</div>
+                </td>
+                <td><a href="about-our-cse-department\index.html" class="file-link">about-our-cse-department\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>
+                    <a href="about-placement\index.html" class="page-link">About Placement | AKITS</a>
+                    <div class="url">https://akits.ac.in/about-placement</div>
+                    <div class='desc'>We offers our students maximum number of opportunities for Placements in top companies.</div>
+                </td>
+                <td><a href="about-placement\index.html" class="file-link">about-placement\index.html</a></td>
+                <td>14</td>
+                <td>0</td>
+                <td>175</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>
+                    <a href="about-thermal-engineering\index.html" class="page-link">About Thermal Engineering - AKITS</a>
+                    <div class="url">https://akits.ac.in/about-thermal-engineering</div>
+                    <div class='desc'>About Our Department The Department of Mechanical Engineering was established as soon as the AKITS was established in 20...</div>
+                </td>
+                <td><a href="about-thermal-engineering\index.html" class="file-link">about-thermal-engineering\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>
+                    <a href="about-us\index.html" class="page-link">The best engineering colleges | AKITS</a>
+                    <div class="url">https://akits.ac.in/about-us</div>
+                    <div class='desc'>We are one of the best engineering colleges where students can enjoy high-quality education and skills.</div>
+                </td>
+                <td><a href="about-us\index.html" class="file-link">about-us\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>
+                    <a href="academic-photos\index.html" class="page-link">Academic Photos - AKITS</a>
+                    <div class="url">https://akits.ac.in/academic-photos</div>
+                    
+                </td>
+                <td><a href="academic-photos\index.html" class="file-link">academic-photos\index.html</a></td>
+                <td>64</td>
+                <td>0</td>
+                <td>227</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>
+                    <a href="academics\calender\index.html" class="page-link">ACADEMIC CALENDAR | AKITS</a>
+                    <div class="url">https://akits.ac.in/academics/calender</div>
+                    <div class='desc'>Get your academic calendar for various course here.</div>
+                </td>
+                <td><a href="academics\calender\index.html" class="file-link">academics\calender\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>179</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>
+                    <a href="academics\regulations\index.html" class="page-link">Regulations | AKITS</a>
+                    <div class="url">https://akits.ac.in/academics/regulations</div>
+                    <div class='desc'>To know about the regulations and discipline related to college for students view this page.</div>
+                </td>
+                <td><a href="academics\regulations\index.html" class="file-link">academics\regulations\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>179</td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>
+                    <a href="academics\syllabus\index.html" class="page-link">Syllabus | AKITS</a>
+                    <div class="url">https://akits.ac.in/academics/syllabus</div>
+                    <div class='desc'>Get your syllabus for various courses here.</div>
+                </td>
+                <td><a href="academics\syllabus\index.html" class="file-link">academics\syllabus\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td>
+                    <a href="admission-process-and-guidelines\index.html" class="page-link">Admission Process and Guidelines - AKITS</a>
+                    <div class="url">https://akits.ac.in/admission-process-and-guidelines</div>
+                    <div class='desc'>ADMISSION PROCESS & GUIDE LINES ADMISSION PROCESS AND GUIDE LINES The primary entrance exam for engineering admissions i...</div>
+                </td>
+                <td><a href="admission-process-and-guidelines\index.html" class="file-link">admission-process-and-guidelines\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td>
+                    <a href="aiml-faculty\index.html" class="page-link">AIML Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/aiml-faculty</div>
+                    <div class='desc'>AI&ML Faculty Faculty ListS.NoFaculty NameDesignationExperience/Years1SAIDAIAH ANGOTHAssociate Professor182VADLADI ASWIN...</div>
+                </td>
+                <td><a href="aiml-faculty\index.html" class="file-link">aiml-faculty\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td>
+                    <a href="aiml-hod-profile\index.html" class="page-link">AIML Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/aiml-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Sri S.RAVI KIRAN,B.Tech, M.Tech,(Ph.D), is the department's head.He has been teaching computer technologies ...</div>
+                </td>
+                <td><a href="aiml-hod-profile\index.html" class="file-link">aiml-hod-profile\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td>
+                    <a href="aiml-vision-mission\index.html" class="page-link">AIML Vision & Mission - AKITS</a>
+                    <div class="url">https://akits.ac.in/aiml-vision-mission</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONBy empowering students with the knowledge and expertise of cutting-edge technologies in c...</div>
+                </td>
+                <td><a href="aiml-vision-mission\index.html" class="file-link">aiml-vision-mission\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td>
+                    <a href="alumni\index.html" class="page-link">Alumni - AKITS</a>
+                    <div class="url">https://akits.ac.in/alumni</div>
+                    <div class='desc'>AKITS has a strong, lively alumni association that extends across the globe. This thriving alumni network brings great v...</div>
+                </td>
+                <td><a href="alumni\index.html" class="file-link">alumni\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>
+                    <a href="alumni-pics\index.html" class="page-link">Alumni PIcs | Abdul Kalam Institute of Technology & Science</a>
+                    <div class="url">https://akits.ac.in/alumni-pics</div>
+                    <div class='desc'>Checkout our Alumni pics here.</div>
+                </td>
+                <td><a href="alumni-pics\index.html" class="file-link">alumni-pics\index.html</a></td>
+                <td>24</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>21</td>
+                <td>
+                    <a href="alumni-registration\index.html" class="page-link">Alumni Registration | Abdul Kalam Institute of Technology & Science</a>
+                    <div class="url">https://akits.ac.in/alumni-registration</div>
+                    <div class='desc'>Register with Alumni by filling out this form</div>
+                </td>
+                <td><a href="alumni-registration\index.html" class="file-link">alumni-registration\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>22</td>
+                <td>
+                    <a href="book-chapter-publicaitons\index.html" class="page-link">Book Chapter Publicaitons - AKITS</a>
+                    <div class="url">https://akits.ac.in/book-chapter-publicaitons</div>
+                    <div class='desc'>Book Chapter Publications CLICK HERE : BOOK CHAPTER PUBLICATION RECORD</div>
+                </td>
+                <td><a href="book-chapter-publicaitons\index.html" class="file-link">book-chapter-publicaitons\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>23</td>
+                <td>
+                    <a href="civil-department-achievements\index.html" class="page-link">Civil Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/civil-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="civil-department-achievements\index.html" class="file-link">civil-department-achievements\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>24</td>
+                <td>
+                    <a href="civil-engineering-faculty\index.html" class="page-link">Civil Engineering Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/civil-engineering-faculty</div>
+                    <div class='desc'>OUR FACULTY CIVIL Faculty List S.No Faculty Name Designation Experience/Years 1 MOHAMMAD ABDUL MUNEER Associate Professo...</div>
+                </td>
+                <td><a href="civil-engineering-faculty\index.html" class="file-link">civil-engineering-faculty\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>25</td>
+                <td>
+                    <a href="civil-engineering-hod-profile\index.html" class="page-link">Civil Engineering Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/civil-engineering-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Mr.MD.ABDUL MUNEER,B.Tech,M.tech,(Ph.D) is a Asst.Professor and Head of the CIVIL Engineering Department. He...</div>
+                </td>
+                <td><a href="civil-engineering-hod-profile\index.html" class="file-link">civil-engineering-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>
+                    <a href="civil-engineering-labs\index.html" class="page-link">Civil Engineering Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/civil-engineering-labs</div>
+                    <div class='desc'>OUR LABS Surveying Lab Strength Of Materials Lab Engineering Geology Lab Computer Aided Civil Engineering Drawing Hydrau...</div>
+                </td>
+                <td><a href="civil-engineering-labs\index.html" class="file-link">civil-engineering-labs\index.html</a></td>
+                <td>16</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>
+                    <a href="committee-for-sc-st\index.html" class="page-link">Committee For SC/ST - AKITS</a>
+                    <div class="url">https://akits.ac.in/committee-for-sc-st</div>
+                    <div class='desc'>Committee For SC/ST Purpose of the Committee:The SC/ST Committee is constituted in accordance with the guidelines of the...</div>
+                </td>
+                <td><a href="committee-for-sc-st\index.html" class="file-link">committee-for-sc-st\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>28</td>
+                <td>
+                    <a href="contact-form-for-admissions\index.html" class="page-link">Contact Form For Admissions - AKITS</a>
+                    <div class="url">https://akits.ac.in/contact-form-for-admissions</div>
+                    <div class='desc'>Contact Form For Admissions Admission Purpose Contact Click here to fill the Admission Form ABDUL KALAM INSTITUTE OF TEC...</div>
+                </td>
+                <td><a href="contact-form-for-admissions\index.html" class="file-link">contact-form-for-admissions\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>29</td>
+                <td>
+                    <a href="cse-achievements\index.html" class="page-link">Cse Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/cse-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="cse-achievements\index.html" class="file-link">cse-achievements\index.html</a></td>
+                <td>14</td>
+                <td>0</td>
+                <td>182</td>
+            </tr>
+            <tr>
+                <td>30</td>
+                <td>
+                    <a href="cse-hod-profile\index.html" class="page-link">CSE HOD Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/cse-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Sri S.RAVI KIRAN,B.Tech, M.Tech,(Ph.D), is the department's head.He has been teaching computer technologies ...</div>
+                </td>
+                <td><a href="cse-hod-profile\index.html" class="file-link">cse-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>31</td>
+                <td>
+                    <a href="cultural-celebrations\index.html" class="page-link">Cultural Celebrations | AKITS</a>
+                    <div class="url">https://akits.ac.in/cultural-celebrations</div>
+                    <div class='desc'>We encourage our students to celebrate all kinds of festivals, organize cultural competitions etc to ensure they have a ...</div>
+                </td>
+                <td><a href="cultural-celebrations\index.html" class="file-link">cultural-celebrations\index.html</a></td>
+                <td>14</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>32</td>
+                <td>
+                    <a href="data-science-faculty\index.html" class="page-link">Data Science Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/data-science-faculty</div>
+                    <div class='desc'>OUR FACULTY DATA SCIENCE Faculty List S.No Name of the Faculty Designation Experience/Years 1 Mr.SIVA SANDEEP BURUSU Ass...</div>
+                </td>
+                <td><a href="data-science-faculty\index.html" class="file-link">data-science-faculty\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>33</td>
+                <td>
+                    <a href="data-science-labs\index.html" class="page-link">Data Science Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/data-science-labs</div>
+                    <div class='desc'>Our LABS Data Structures Lab Programming For Problem Solving Lab Operating Systems Lab Database Management Systems Lab J...</div>
+                </td>
+                <td><a href="data-science-labs\index.html" class="file-link">data-science-labs\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>34</td>
+                <td>
+                    <a href="dvv\index.html" class="page-link">DVV - AKITS</a>
+                    <div class="url">https://akits.ac.in/dvv</div>
+                    <div class='desc'>NAAC-DVV NAAC - DVV Extended Profile 1: StudentsLink1.1 – ProofClick Here2: TeachersLink2.1 – Proof 1Click Here2.1 – Pro...</div>
+                </td>
+                <td><a href="dvv\index.html" class="file-link">dvv\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>209</td>
+            </tr>
+            <tr>
+                <td>35</td>
+                <td>
+                    <a href="ece-department-achievements\index.html" class="page-link">ECE Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/ece-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="ece-department-achievements\index.html" class="file-link">ece-department-achievements\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>181</td>
+            </tr>
+            <tr>
+                <td>36</td>
+                <td>
+                    <a href="ece-hod-profile\index.html" class="page-link">ECE Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/ece-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Sri G.KRISHNA MOHAN,B.Tech, M.Tech,(Ph.D) is the department’s head. He has been teaching in Electronic and c...</div>
+                </td>
+                <td><a href="ece-hod-profile\index.html" class="file-link">ece-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>179</td>
+            </tr>
+            <tr>
+                <td>37</td>
+                <td>
+                    <a href="ece-labs\index.html" class="page-link">ECE Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/ece-labs</div>
+                    <div class='desc'>Our LABS Electronic devices & Circuits Lab Digital System Design Lab Basic Simulation Lab Analog & Digital Communication...</div>
+                </td>
+                <td><a href="ece-labs\index.html" class="file-link">ece-labs\index.html</a></td>
+                <td>16</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>38</td>
+                <td>
+                    <a href="eee-department-achievements\index.html" class="page-link">EEE Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/eee-department-achievements</div>
+                    <div class='desc'>Our Achivements</div>
+                </td>
+                <td><a href="eee-department-achievements\index.html" class="file-link">eee-department-achievements\index.html</a></td>
+                <td>22</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>39</td>
+                <td>
+                    <a href="eee-faculty\index.html" class="page-link">EEE Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/eee-faculty</div>
+                    <div class='desc'>OUR FACULTY EEE Faculty ListS.NoName of the FacultyDesignationExperience1Mr.BABU RAO PADDAMAssociate Professor21 2Mr.MAL...</div>
+                </td>
+                <td><a href="eee-faculty\index.html" class="file-link">eee-faculty\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>40</td>
+                <td>
+                    <a href="eee-hod-profile\index.html" class="page-link">EEE Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/eee-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Mr.P.BABU RAO is a Associate Professor and Head of the Electrical & Electronics Engineering Department. He i...</div>
+                </td>
+                <td><a href="eee-hod-profile\index.html" class="file-link">eee-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>41</td>
+                <td>
+                    <a href="eee-labs\index.html" class="page-link">EEE Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/eee-labs</div>
+                    <div class='desc'>OUR LABS Basic Electrical Engineering Lab Electrical and Electronics Engineering Lab Electrical Circuits Analysis Lab El...</div>
+                </td>
+                <td><a href="eee-labs\index.html" class="file-link">eee-labs\index.html</a></td>
+                <td>16</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>42</td>
+                <td>
+                    <a href="eee-vision-mission\index.html" class="page-link">EEE Vision & Mission - AKITS</a>
+                    <div class="url">https://akits.ac.in/eee-vision-mission</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONTo become a leading centre for producing Electrical and Electronics Engineers, creative r...</div>
+                </td>
+                <td><a href="eee-vision-mission\index.html" class="file-link">eee-vision-mission\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>43</td>
+                <td>
+                    <a href="electrical-power-system-department-achievements\index.html" class="page-link">Electrical Power System Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/electrical-power-system-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="electrical-power-system-department-achievements\index.html" class="file-link">electrical-power-system-department-achievements\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>44</td>
+                <td>
+                    <a href="electrical-power-system-faculty\index.html" class="page-link">Electrical Power System Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/electrical-power-system-faculty</div>
+                    <div class='desc'>OUR FACULTY M.TECH(EPS) Faculty S.No Name of the Faculty Designation Experience/Years 1 Dr.SUNDARI SRAVAN KUMAR Professo...</div>
+                </td>
+                <td><a href="electrical-power-system-faculty\index.html" class="file-link">electrical-power-system-faculty\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>45</td>
+                <td>
+                    <a href="electrical-power-system-hod-profile\index.html" class="page-link">Electrical Power System Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/electrical-power-system-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Dr.S.Sravan Kumar, B.Tech, M.Tech,Ph.D is a Associate Professor and Head of the M.Tech(EPS),He has completed...</div>
+                </td>
+                <td><a href="electrical-power-system-hod-profile\index.html" class="file-link">electrical-power-system-hod-profile\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>46</td>
+                <td>
+                    <a href="electrical-power-system-labs\index.html" class="page-link">Electrical Power System Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/electrical-power-system-labs</div>
+                    <div class='desc'>OUR LABS Power Systems Computation Lab-I Advanced Power Systems Lab Power Systems Computation Lab-II Power System Protec...</div>
+                </td>
+                <td><a href="electrical-power-system-labs\index.html" class="file-link">electrical-power-system-labs\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>47</td>
+                <td>
+                    <a href="electrical-power-system-vision-mission\index.html" class="page-link">Electrical Power System Vision & Mission - AKITS</a>
+                    <div class="url">https://akits.ac.in/electrical-power-system-vision-mission</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONTo become a leading centre for producing Electrical and Electronics Engineers, creative r...</div>
+                </td>
+                <td><a href="electrical-power-system-vision-mission\index.html" class="file-link">electrical-power-system-vision-mission\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>48</td>
+                <td>
+                    <a href="equal-opportunity-cell\index.html" class="page-link">Equal Opportunity Cell - AKITS</a>
+                    <div class="url">https://akits.ac.in/equal-opportunity-cell</div>
+                    <div class='desc'>Equal Opportunity Cell (EOC) The Equal Opportunity Cell is formed to ensure that all students and staff—regardless of ca...</div>
+                </td>
+                <td><a href="equal-opportunity-cell\index.html" class="file-link">equal-opportunity-cell\index.html</a></td>
+                <td>15</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>49</td>
+                <td>
+                    <a href="exam-notifications\index.html" class="page-link">Exam Notifications - AKITS</a>
+                    <div class="url">https://akits.ac.in/exam-notifications</div>
+                    <div class='desc'>EXAM NOTIFICATIONS EXAM NOTIFICATION EXAM TIME TABLE EXAMINATION NOTIFICATIONS DE-250429-175047-Notification_BTech _II-I...</div>
+                </td>
+                <td><a href="exam-notifications\index.html" class="file-link">exam-notifications\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>190</td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td>
+                    <a href="fee-refund-policy\index.html" class="page-link">Fee Refund Policy - AKITS</a>
+                    <div class="url">https://akits.ac.in/fee-refund-policy</div>
+                    <div class='desc'>FEE REFUND POLICY FEE REFUND POLICY FEE REFUND POLICY 2024-25</div>
+                </td>
+                <td><a href="fee-refund-policy\index.html" class="file-link">fee-refund-policy\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>51</td>
+                <td>
+                    <a href="free-hostel\index.html" class="page-link">Free Hostel - AKITS</a>
+                    <div class="url">https://akits.ac.in/free-hostel</div>
+                    <div class='desc'>Free Hostel Form Hostel form Name * Name First First Last Last Father Name Date Of Birth Phone * Cast Email * Address If...</div>
+                </td>
+                <td><a href="free-hostel\index.html" class="file-link">free-hostel\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>52</td>
+                <td>
+                    <a href="gallery\media-gallery\index.html" class="page-link">Media Gallery | AKITS</a>
+                    <div class="url">https://akits.ac.in/gallery/media-gallery</div>
+                    <div class='desc'>Various media and news postings related to AKITS can be found here on this page.</div>
+                </td>
+                <td><a href="gallery\media-gallery\index.html" class="file-link">gallery\media-gallery\index.html</a></td>
+                <td>31</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>53</td>
+                <td>
+                    <a href="gallery\video-gallery\index.html" class="page-link">Video Gallery | AKITS</a>
+                    <div class="url">https://akits.ac.in/gallery/video-gallery</div>
+                    <div class='desc'>For various videos of events and functions at AKITS please visit here.</div>
+                </td>
+                <td><a href="gallery\video-gallery\index.html" class="file-link">gallery\video-gallery\index.html</a></td>
+                <td>10</td>
+                <td>9</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>54</td>
+                <td>
+                    <a href="iiaq\index.html" class="page-link">IIQA - AKITS</a>
+                    <div class="url">https://akits.ac.in/iiaq</div>
+                    <div class='desc'>IIQA Download PDF.</div>
+                </td>
+                <td><a href="iiaq\index.html" class="file-link">iiaq\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>55</td>
+                <td>
+                    <a href="infrastructure\grievance\index.html" class="page-link">Grievance | AKITS</a>
+                    <div class="url">https://akits.ac.in/infrastructure/grievance</div>
+                    <div class='desc'>It is a committee to present grievances of all sorts for students, staff and parents.</div>
+                </td>
+                <td><a href="infrastructure\grievance\index.html" class="file-link">infrastructure\grievance\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>56</td>
+                <td>
+                    <a href="infrastructure\hostel-3\index.html" class="page-link">Hostel | AKITS</a>
+                    <div class="url">https://akits.ac.in/infrastructure/hostel-3</div>
+                    <div class='desc'>A separate dormitory with well-lit, ventilated rooms for boys and girls on the campus of Abdul Kalam institute of techno...</div>
+                </td>
+                <td><a href="infrastructure\hostel-3\index.html" class="file-link">infrastructure\hostel-3\index.html</a></td>
+                <td>15</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>57</td>
+                <td>
+                    <a href="infrastructure\iicinstitute-industries-interaction-council\index.html" class="page-link">IIC | AKITS</a>
+                    <div class="url">https://akits.ac.in/infrastructure/iicinstitute-industries-interaction-council</div>
+                    <div class='desc'>The Institution-Industry cell Committee was constituted for the academic session.</div>
+                </td>
+                <td><a href="infrastructure\iicinstitute-industries-interaction-council\index.html" class="file-link">infrastructure\iicinstitute-industries-interaction-council\index.html</a></td>
+                <td>22</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>58</td>
+                <td>
+                    <a href="infrastructure\library\index.html" class="page-link">Library | Abdul Kalam Institute of Technology & Science</a>
+                    <div class="url">https://akits.ac.in/infrastructure/library</div>
+                    <div class='desc'>A library and information centre are available at AKITS College in Kothagudem to aid in teaching, learning, and research...</div>
+                </td>
+                <td><a href="infrastructure\library\index.html" class="file-link">infrastructure\library\index.html</a></td>
+                <td>18</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>59</td>
+                <td>
+                    <a href="infrastructure\nptel\index.html" class="page-link">NPTEL | AKITS</a>
+                    <div class="url">https://akits.ac.in/infrastructure/nptel</div>
+                    <div class='desc'>It is an initiative financed by the Ministry of Human Resource Development, Government of India, to create and promote o...</div>
+                </td>
+                <td><a href="infrastructure\nptel\index.html" class="file-link">infrastructure\nptel\index.html</a></td>
+                <td>19</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>60</td>
+                <td>
+                    <a href="infrastructure\nss\index.html" class="page-link">NSS | Abdul Kalam Institute of Technology & Science</a>
+                    <div class="url">https://akits.ac.in/infrastructure/nss</div>
+                    <div class='desc'>We run Nss programs with our student and it helps in developing the personality of students through community service.</div>
+                </td>
+                <td><a href="infrastructure\nss\index.html" class="file-link">infrastructure\nss\index.html</a></td>
+                <td>24</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>61</td>
+                <td>
+                    <a href="infrastructure\tcsnta-exam-cell\index.html" class="page-link">TCS & NTA | Abdul Kalam Institute of Technology & Science</a>
+                    <div class="url">https://akits.ac.in/infrastructure/tcsnta-exam-cell</div>
+                    <div class='desc'>We offer TCS and NTA opportunities for our students which will be useful for their career</div>
+                </td>
+                <td><a href="infrastructure\tcsnta-exam-cell\index.html" class="file-link">infrastructure\tcsnta-exam-cell\index.html</a></td>
+                <td>16</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>62</td>
+                <td>
+                    <a href="internal-compliant-committee\index.html" class="page-link">Internal Compliant Committee - AKITS</a>
+                    <div class="url">https://akits.ac.in/internal-compliant-committee</div>
+                    <div class='desc'>Internal Compliant Committee Internal Complaints Committees (ICCs) are mandated to handle complaints of sexual harassmen...</div>
+                </td>
+                <td><a href="internal-compliant-committee\index.html" class="file-link">internal-compliant-committee\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>174</td>
+            </tr>
+            <tr>
+                <td>63</td>
+                <td>
+                    <a href="iqac\index.html" class="page-link">IQAC - AKITS</a>
+                    <div class="url">https://akits.ac.in/iqac</div>
+                    <div class='desc'>IQAC The Internal Quality Assurance Cell (IQAC) was established in the year 2018 at ABDUL KALAM INSTITUTE OF TECHNOLOGIC...</div>
+                </td>
+                <td><a href="iqac\index.html" class="file-link">iqac\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>181</td>
+            </tr>
+            <tr>
+                <td>64</td>
+                <td>
+                    <a href="iste-chapter\index.html" class="page-link">ISTE Chapter - AKITS</a>
+                    <div class="url">https://akits.ac.in/iste-chapter</div>
+                    <div class='desc'>ISTE CHAPTER</div>
+                </td>
+                <td><a href="iste-chapter\index.html" class="file-link">iste-chapter\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>65</td>
+                <td>
+                    <a href="jntuh\index.html" class="page-link">JNTUH - AKITS</a>
+                    <div class="url">https://akits.ac.in/jntuh</div>
+                    <div class='desc'>JNTUH EOAS</div>
+                </td>
+                <td><a href="jntuh\index.html" class="file-link">jntuh\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>66</td>
+                <td>
+                    <a href="mandatory-documents\online-greviance-redressal-form\index.html" class="page-link">Online Grievance Redressal Form | AKITS</a>
+                    <div class="url">https://akits.ac.in/mandatory-documents/online-greviance-redressal-form</div>
+                    <div class='desc'>AKITS is very student friendly college where we take into consideration their genuine grievances and issues brought to n...</div>
+                </td>
+                <td><a href="mandatory-documents\online-greviance-redressal-form\index.html" class="file-link">mandatory-documents\online-greviance-redressal-form\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>67</td>
+                <td>
+                    <a href="mba-department-achievements\index.html" class="page-link">MBA Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/mba-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="mba-department-achievements\index.html" class="file-link">mba-department-achievements\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>68</td>
+                <td>
+                    <a href="mba-labs\index.html" class="page-link">MBA Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/mba-labs</div>
+                    <div class='desc'>OUR LABS Business Communication Lab Statistical Data Analysis Lab Leadership Skills Lab Quick Links About Our Department...</div>
+                </td>
+                <td><a href="mba-labs\index.html" class="file-link">mba-labs\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>69</td>
+                <td>
+                    <a href="mba-mission-vision\index.html" class="page-link">MBA Mission & Vision - AKITS</a>
+                    <div class="url">https://akits.ac.in/mba-mission-vision</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONTo train and motivate fearless young management leaders who are in demand in the field an...</div>
+                </td>
+                <td><a href="mba-mission-vision\index.html" class="file-link">mba-mission-vision\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>70</td>
+                <td>
+                    <a href="mechanical-department-achievements\index.html" class="page-link">Mechanical Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/mechanical-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="mechanical-department-achievements\index.html" class="file-link">mechanical-department-achievements\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>71</td>
+                <td>
+                    <a href="mechanical-faculty\index.html" class="page-link">Mechanical Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/mechanical-faculty</div>
+                    <div class='desc'>OUR FACULTY Mechanical Faculty ListS.NoName of the FacultyDesignationExperience/Years 1Mr.BHUKYA SURESHAssistant Profess...</div>
+                </td>
+                <td><a href="mechanical-faculty\index.html" class="file-link">mechanical-faculty\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>72</td>
+                <td>
+                    <a href="mechanical-hod-profile\index.html" class="page-link">Mechanical Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/mechanical-hod-profile</div>
+                    <div class='desc'>HOD PROFILE B.SURESH is a Asst.Professor and Head of the Mechanical Engineering Department. He completed Master of Engin...</div>
+                </td>
+                <td><a href="mechanical-hod-profile\index.html" class="file-link">mechanical-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>73</td>
+                <td>
+                    <a href="mechanical-labs\index.html" class="page-link">Mechanical Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/mechanical-labs</div>
+                    <div class='desc'>Our LABS Engineering Workshop Lab Material Science & Mechanics of Solids Lab Production Technology Lab Machine Drawing L...</div>
+                </td>
+                <td><a href="mechanical-labs\index.html" class="file-link">mechanical-labs\index.html</a></td>
+                <td>16</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>74</td>
+                <td>
+                    <a href="mechanical-vision-mission\index.html" class="page-link">Mechanical Vision & Mission - AKITS</a>
+                    <div class="url">https://akits.ac.in/mechanical-vision-mission</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environmen...</div>
+                </td>
+                <td><a href="mechanical-vision-mission\index.html" class="file-link">mechanical-vision-mission\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>75</td>
+                <td>
+                    <a href="mining-engineering-department-achievements\index.html" class="page-link">Mining Engineering Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/mining-engineering-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="mining-engineering-department-achievements\index.html" class="file-link">mining-engineering-department-achievements\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>180</td>
+            </tr>
+            <tr>
+                <td>76</td>
+                <td>
+                    <a href="mining-engineering-faculty\index.html" class="page-link">Mining Engineering Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/mining-engineering-faculty</div>
+                    <div class='desc'>OUR FACULTY MINING Faculty List S.No Faculty Name Designation Experience/Years 1 VINOD BANOTH Assistant Professor 8 2 DO...</div>
+                </td>
+                <td><a href="mining-engineering-faculty\index.html" class="file-link">mining-engineering-faculty\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>179</td>
+            </tr>
+            <tr>
+                <td>77</td>
+                <td>
+                    <a href="mining-engineering-hod-profile\index.html" class="page-link">Mining Engineering Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/mining-engineering-hod-profile</div>
+                    <div class='desc'>HOD PROFILE MrB.VINOD KUMAR, B.Tech, M.tech, is a Asst.Professor and Head of the MINING Engineering Department. He has c...</div>
+                </td>
+                <td><a href="mining-engineering-hod-profile\index.html" class="file-link">mining-engineering-hod-profile\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>179</td>
+            </tr>
+            <tr>
+                <td>78</td>
+                <td>
+                    <a href="mining-engineering-labs\index.html" class="page-link">Mining Engineering Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/mining-engineering-labs</div>
+                    <div class='desc'>OUR LABS Mine Surveying Lab Mechanics Of Solids Lab Fluid Mechanics & Hydraulic Machines Lab Mineral Processing Engineer...</div>
+                </td>
+                <td><a href="mining-engineering-labs\index.html" class="file-link">mining-engineering-labs\index.html</a></td>
+                <td>13</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>79</td>
+                <td>
+                    <a href="miscellinous\index.html" class="page-link">Miscellinous - AKITS</a>
+                    <div class="url">https://akits.ac.in/miscellinous</div>
+                    <div class='desc'>Miscellinous</div>
+                </td>
+                <td><a href="miscellinous\index.html" class="file-link">miscellinous\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>80</td>
+                <td>
+                    <a href="mous-collobrations\index.html" class="page-link">MOUS & Collobrations - AKITS</a>
+                    <div class="url">https://akits.ac.in/mous-collobrations</div>
+                    <div class='desc'>MOUS Hackboats MOUS-IHackboats MOUS-IIMaramanishi MOUS-IMaramanishi MOUS-IINexaway MOUS-INexaway MOUS-IISamagra MOUS-ISa...</div>
+                </td>
+                <td><a href="mous-collobrations\index.html" class="file-link">mous-collobrations\index.html</a></td>
+                <td>22</td>
+                <td>0</td>
+                <td>188</td>
+            </tr>
+            <tr>
+                <td>81</td>
+                <td>
+                    <a href="nir\index.html" class="page-link">NIR - AKITS</a>
+                    <div class="url">https://akits.ac.in/nir</div>
+                    <div class='desc'>NIR</div>
+                </td>
+                <td><a href="nir\index.html" class="file-link">nir\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>82</td>
+                <td>
+                    <a href="nirf\index.html" class="page-link">NIRF - AKITS</a>
+                    <div class="url">https://akits.ac.in/nirf</div>
+                    <div class='desc'>NIRF</div>
+                </td>
+                <td><a href="nirf\index.html" class="file-link">nirf\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>83</td>
+                <td>
+                    <a href="non-academics-photos\index.html" class="page-link">Non-Academics Photos - AKITS</a>
+                    <div class="url">https://akits.ac.in/non-academics-photos</div>
+                    
+                </td>
+                <td><a href="non-academics-photos\index.html" class="file-link">non-academics-photos\index.html</a></td>
+                <td>80</td>
+                <td>0</td>
+                <td>243</td>
+            </tr>
+            <tr>
+                <td>84</td>
+                <td>
+                    <a href="non-teaching-staff\index.html" class="page-link">Non-Teaching Staff - AKITS</a>
+                    <div class="url">https://akits.ac.in/non-teaching-staff</div>
+                    
+                </td>
+                <td><a href="non-teaching-staff\index.html" class="file-link">non-teaching-staff\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>85</td>
+                <td>
+                    <a href="placement-photos\index.html" class="page-link">Placement Photos - AKITS</a>
+                    <div class="url">https://akits.ac.in/placement-photos</div>
+                    
+                </td>
+                <td><a href="placement-photos\index.html" class="file-link">placement-photos\index.html</a></td>
+                <td>41</td>
+                <td>0</td>
+                <td>201</td>
+            </tr>
+            <tr>
+                <td>86</td>
+                <td>
+                    <a href="placement-record\index.html" class="page-link">Placement Record | AKITS</a>
+                    <div class="url">https://akits.ac.in/placement-record</div>
+                    <div class='desc'>Explore Our Placement Record and details, we offer best placements for our students.</div>
+                </td>
+                <td><a href="placement-record\index.html" class="file-link">placement-record\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>87</td>
+                <td>
+                    <a href="prospectus\index.html" class="page-link">Prospectus - AKITS</a>
+                    <div class="url">https://akits.ac.in/prospectus</div>
+                    <div class='desc'>AKITS PROSPECTUS AKITS PROSPECTUS CLICK HERE (PROSPECTUS)</div>
+                </td>
+                <td><a href="prospectus\index.html" class="file-link">prospectus\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>173</td>
+            </tr>
+            <tr>
+                <td>88</td>
+                <td>
+                    <a href="research\index.html" class="page-link">Research - AKITS</a>
+                    <div class="url">https://akits.ac.in/research</div>
+                    <div class='desc'>Research ABDUL KALAM INSTITUTE OF TECHNOLOGICAL SCIENCES (AKITS) has promoted meaningful scientific industrial Research ...</div>
+                </td>
+                <td><a href="research\index.html" class="file-link">research\index.html</a></td>
+                <td>17</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>89</td>
+                <td>
+                    <a href="rti\index.html" class="page-link">RTI - AKITS</a>
+                    <div class="url">https://akits.ac.in/rti</div>
+                    <div class='desc'>RTI Statutory Declaration under Section 4 (1) b Right to Information (RTI) Act 2005, Particulars of the organization Cou...</div>
+                </td>
+                <td><a href="rti\index.html" class="file-link">rti\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>90</td>
+                <td>
+                    <a href="sexual-harassment-committee\index.html" class="page-link">Sexual Harassment Committee - AKITS</a>
+                    <div class="url">https://akits.ac.in/sexual-harassment-committee</div>
+                    <div class='desc'>ANTI SEXUAL HARASSMENT CELL Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. I...</div>
+                </td>
+                <td><a href="sexual-harassment-committee\index.html" class="file-link">sexual-harassment-committee\index.html</a></td>
+                <td>11</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>91</td>
+                <td>
+                    <a href="sports\index.html" class="page-link">Sports - AKITS</a>
+                    <div class="url">https://akits.ac.in/sports</div>
+                    <div class='desc'>The Department is headed by a Professor of Physical Education supported by two Assistant Physical Directors and two Grou...</div>
+                </td>
+                <td><a href="sports\index.html" class="file-link">sports\index.html</a></td>
+                <td>17</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>92</td>
+                <td>
+                    <a href="teaching-staff\index.html" class="page-link">Teaching Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/teaching-staff</div>
+                    <div class='desc'>FACULITY FOR THE A.Y-2024-2025</div>
+                </td>
+                <td><a href="teaching-staff\index.html" class="file-link">teaching-staff\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>93</td>
+                <td>
+                    <a href="thermal-engineering-department-achievements\index.html" class="page-link">Thermal Engineering Department Achievements - AKITS</a>
+                    <div class="url">https://akits.ac.in/thermal-engineering-department-achievements</div>
+                    <div class='desc'>Our Achivements Quick Links About Our Department Misson & Vision HOD Profile Our Faculty Labs Our Achivements</div>
+                </td>
+                <td><a href="thermal-engineering-department-achievements\index.html" class="file-link">thermal-engineering-department-achievements\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>94</td>
+                <td>
+                    <a href="thermal-engineering-faculty\index.html" class="page-link">Thermal Engineering Faculty - AKITS</a>
+                    <div class="url">https://akits.ac.in/thermal-engineering-faculty</div>
+                    <div class='desc'>OUR FACULTY M.TECH(TE)Faculty List S.No Name of the Faculty Designation Experience/Years 1 Dr.RAMAKRISHNA MUCHARLA Profe...</div>
+                </td>
+                <td><a href="thermal-engineering-faculty\index.html" class="file-link">thermal-engineering-faculty\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>95</td>
+                <td>
+                    <a href="thermal-engineering-hod-profile\index.html" class="page-link">Thermal Engineering Hod Profile - AKITS</a>
+                    <div class="url">https://akits.ac.in/thermal-engineering-hod-profile</div>
+                    <div class='desc'>HOD PROFILE Dr.M.RamaKrishna, B.Tech, M.Tech,Ph.D is a Associate Professor and Head of the M.Tech(TE),He has completed P...</div>
+                </td>
+                <td><a href="thermal-engineering-hod-profile\index.html" class="file-link">thermal-engineering-hod-profile\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>96</td>
+                <td>
+                    <a href="thermal-engineering-labs\index.html" class="page-link">Thermal Engineering Labs - AKITS</a>
+                    <div class="url">https://akits.ac.in/thermal-engineering-labs</div>
+                    <div class='desc'>Our LABS Advanced Thermal Engineering lab Advanced Fluid Mechanics Lab Advanced Heat Transfer Lab Computational Methods ...</div>
+                </td>
+                <td><a href="thermal-engineering-labs\index.html" class="file-link">thermal-engineering-labs\index.html</a></td>
+                <td>12</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>97</td>
+                <td>
+                    <a href="thermal-engineering-mission-vision\index.html" class="page-link">Thermal Engineering Mission & Vision - AKITS</a>
+                    <div class="url">https://akits.ac.in/thermal-engineering-mission-vision</div>
+                    <div class='desc'>Our Vision & Mission OUR VISIONTo be a centre of excellence for mechanical engineering, to offer the greatest environmen...</div>
+                </td>
+                <td><a href="thermal-engineering-mission-vision\index.html" class="file-link">thermal-engineering-mission-vision\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>178</td>
+            </tr>
+            <tr>
+                <td>98</td>
+                <td>
+                    <a href="training-placements\placement-activities\index.html" class="page-link">Placement Activities | AKITS</a>
+                    <div class="url">https://akits.ac.in/training-placements/placement-activities</div>
+                    <div class='desc'>We Conduct So many Placement Drives and activities for our students to get a better job in reputed company</div>
+                </td>
+                <td><a href="training-placements\placement-activities\index.html" class="file-link">training-placements\placement-activities\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>99</td>
+                <td>
+                    <a href="training-placements\placement-training\index.html" class="page-link">Training Activities | AKITS</a>
+                    <div class="url">https://akits.ac.in/training-placements/placement-training</div>
+                    <div class='desc'>We conduct Traning activities for our student to get better in every aspect of their learning</div>
+                </td>
+                <td><a href="training-placements\placement-training\index.html" class="file-link">training-placements\placement-training\index.html</a></td>
+                <td>10</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            <tr>
+                <td>100</td>
+                <td>
+                    <a href="ugc-2f12b\index.html" class="page-link">UGC 2F & 12B - AKITS</a>
+                    <div class="url">https://akits.ac.in/ugc-2f12b</div>
+                    <div class='desc'>UGC 2F & 12B UGC 2F & 12B ﻿</div>
+                </td>
+                <td><a href="ugc-2f12b\index.html" class="file-link">ugc-2f12b\index.html</a></td>
+                <td>9</td>
+                <td>0</td>
+                <td>172</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function filterTable() {
+            const query = document.getElementById('search').value.toLowerCase();
+            const rows = document.querySelectorAll('#pages-table tbody tr');
+            rows.forEach(row => {
+                const text = row.textContent.toLowerCase();
+                row.style.display = text.includes(query) ? '' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

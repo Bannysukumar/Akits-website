@@ -1,0 +1,97 @@
+{
+  "url": "https://akits.ac.in/committee-for-sc-st",
+  "title": "Committee For SC/ST",
+  "meta_description": "Committee For SC/ST Purpose of the Committee:The SC/ST Committee is constituted in accordance with the guidelines of the University Grants Commission (UGC) and/or AICTE to ensure the welfare, equal opportunity, and protection of rights for Scheduled Caste and Scheduled Tribe students, faculty, and staff within the institution. Objectives:1. To prevent caste-based discrimination in any form.2.",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "Committee For SC/ST",
+      "url": ""
+    }
+  ],
+  "banner_image": "",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Committee For SC/ST"
+    },
+    {
+      "level": 4,
+      "text": "Composition of the Committee:"
+    }
+  ],
+  "paragraphs": [
+    "Purpose of the Committee:The SC/ST Committee is constituted in accordance with the guidelines of the University Grants Commission (UGC) and/or AICTE to ensure the welfare, equal opportunity, and protection of rights for Scheduled Caste and Scheduled Tribe students, faculty, and staff within the institution. Objectives:1. To prevent caste-based discrimination in any form.2. To provide a platform for SC/ST members to raise grievances.3. To monitor the implementation of reservation policies.4. To promote equality, inclusion, and dignity on campus.5. To sensitize the campus community on issues related to caste equity."
+  ],
+  "sections": [],
+  "images": [],
+  "videos": [],
+  "iframes": [],
+  "tables": [
+    {
+      "headers": [
+        "S.No",
+        "Name of the Member",
+        "Designation",
+        "Category"
+      ],
+      "rows": [
+        [
+          "1",
+          "Dr.D.Dayakar Rao",
+          "Chair Person/Principal",
+          "General"
+        ],
+        [
+          "2",
+          "Mr.M.Lakpathi",
+          "Convenor",
+          "ST"
+        ],
+        [
+          "3",
+          "Mr.B.Vinod",
+          "Co-Convenor",
+          "ST"
+        ],
+        [
+          "4",
+          "Mr.B.Suresh",
+          "Member",
+          "ST"
+        ],
+        [
+          "5",
+          "Mr.I.Vinod Kumar",
+          "Member",
+          "SC"
+        ],
+        [
+          "6",
+          "Mrs.Y.Nirmala",
+          "Member",
+          "SC"
+        ],
+        [
+          "7",
+          "Mr.T.Aruna",
+          "Member",
+          "SC"
+        ],
+        [
+          "8",
+          "Mr.B.NarasimhaRao",
+          "Member",
+          "ST"
+        ]
+      ]
+    }
+  ],
+  "lists": [],
+  "documents": [],
+  "local_file": "committee-for-sc-st\\index.html",
+  "route": "/committee-for-sc-st"
+}

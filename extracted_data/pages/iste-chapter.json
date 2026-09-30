@@ -1,0 +1,41 @@
+{
+  "url": "https://akits.ac.in/iste-chapter",
+  "title": "ISTE Chapter",
+  "meta_description": "ISTE CHAPTER",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "ISTE Chapter",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/National-Servi-3.png",
+  "headings": [],
+  "paragraphs": [],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/National-Servi-3.png",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [],
+  "documents": [
+    {
+      "url": "https://akits.ac.in/wp-content/uploads/2025/04/AKITS-ISTE.pdf",
+      "text": "ISTE CHAPTER",
+      "type": "PDF"
+    }
+  ],
+  "local_file": "iste-chapter\\index.html",
+  "route": "/iste-chapter"
+}

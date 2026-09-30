@@ -1,0 +1,67 @@
+{
+  "url": "https://akits.ac.in/mba-mission-vision",
+  "title": "MBA Mission & Vision",
+  "meta_description": "Our Vision & Mission OUR VISIONTo train and motivate fearless young management leaders who are in demand in the field and who can become prosperous managers and business owners with a sense of social responsibility.OUR MISSIONThe goal of education is to give pupils the skills, information, and attitude they need to carry out managerial duties",
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://akits.ac.in/"
+    },
+    {
+      "name": "MBA Mission &amp; Vision",
+      "url": ""
+    }
+  ],
+  "banner_image": "//akits.ac.in/wp-content/uploads/2023/01/2-2-1.jpg",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Our Vision & Mission"
+    },
+    {
+      "level": 4,
+      "text": "OUR VISION"
+    },
+    {
+      "level": 4,
+      "text": "OUR MISSION"
+    },
+    {
+      "level": 1,
+      "text": "Quick Links"
+    }
+  ],
+  "paragraphs": [
+    "To train and motivate fearless young management leaders who are in demand in the field and who can become prosperous managers and business owners with a sense of social responsibility.",
+    "The goal of education is to give pupils the skills, information, and attitude they need to carry out managerial duties and uphold moral principles."
+  ],
+  "sections": [],
+  "images": [
+    {
+      "src": "//akits.ac.in/wp-content/uploads/2023/01/2-2-1.jpg",
+      "alt": "",
+      "width": "",
+      "height": "",
+      "class": "skip-lazy"
+    }
+  ],
+  "videos": [],
+  "iframes": [],
+  "tables": [],
+  "lists": [
+    {
+      "type": "unordered",
+      "items": [
+        "About Our Department",
+        "Misson & Vision",
+        "HOD Profile",
+        "Our Faculty",
+        "Labs",
+        "Our Achivements"
+      ]
+    }
+  ],
+  "documents": [],
+  "local_file": "mba-mission-vision\\index.html",
+  "route": "/mba-mission-vision"
+}
