@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akits-ac-in.vercel.app/sitemap.xml
