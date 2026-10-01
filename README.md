@@ -1,41 +1,76 @@
-<!-- readme-seo: bannysukumar -->
-
 # Akits Website
 
-**Akits Website** is an open-source website project. The code is written mainly in HTML and maintained by [Banny Sukumar](https://github.com/Bannysukumar), a blockchain and full-stack developer.
+Abdul Kalam Institute of Technological Sciences (AKITS), Vepalagadda, Kothagudem. Autonomous engineering college approved by AICTE, affiliated to JNTU Hyderabad, NAAC B++.
 
-This repository is public so developers can read the source, reuse it under the MIT License, and send improvements.
+[![License](https://img.shields.io/github/license/Bannysukumar/Akits-website)](https://github.com/Bannysukumar/Akits-website/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/Bannysukumar/Akits-website)](https://github.com/Bannysukumar/Akits-website/stargazers) [![Last commit](https://img.shields.io/github/last-commit/Bannysukumar/Akits-website)](https://github.com/Bannysukumar/Akits-website/commits/main)
 
-## About this project
+## Overview
 
-Akits Website lives at [`github.com/Bannysukumar/Akits-website`](https://github.com/Bannysukumar/Akits-website). Use it as a starting point for a website project, or study how the HTML parts fit together.
+Abdul Kalam Institute of Technological Sciences (AKITS), Vepalagadda, Kothagudem. Autonomous engineering college approved by AICTE, affiliated to JNTU Hyderabad, NAAC B++.
 
-## Tech stack
 
-- Primary language: **HTML**
-- License: **MIT**
-- Maintainer: [Banny Sukumar](https://github.com/Bannysukumar)
+What is actually in the repository: `akits_pages_source/`, `akits_scraped_resources/`, `extracted_data/`, `public/`, `scripts/`, `src/`. GitHub reports the primary language as HTML.
 
-## Getting started
+Published site recorded on the repository: https://akits-eight.vercel.app
+
+## Tech Stack
+
+| Technology | Where it shows up |
+|---|---|
+| React | User interface |
+| Vite | Frontend build tool |
+
+## Project Structure
+
+```text
+Akits-website/
+├── akits_pages_source/
+├── akits_scraped_resources/
+├── extracted_data/
+├── public/
+├── scripts/
+├── src/
+├── extract_content.py
+├── index.html
+├── package-lock.json
+├── package.json
+├── page_scraper.py
+├── scraper.py
+├── vercel.json
+├── vite.config.js
+```
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Bannysukumar/Akits-website.git
 cd Akits-website
+npm install
+npm run dev
 ```
 
-Open the project in your editor. Install dependencies only if this repo already includes a manifest such as `package.json`, `requirements.txt`, or a `.csproj` file.
+Scripts defined in package.json:
+
+- `npm run dev` — `vite`
+- `npm run build` — `vite build`
+
+## Deployment
+
+- vercel.json is in the repository root.
+- The repository homepage is https://akits-eight.vercel.app.
 
 ## Contributing
 
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you open a pull request.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Banny Sukumar.
+Licensed under MIT. See [LICENSE](LICENSE).
 
 ## Author
+
+[Banny Sukumar](https://github.com/Bannysukumar)
 
 - GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
 - Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
 - LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
-- ORCID: [0009-0007-9766-6579](https://orcid.org/0009-0007-9766-6579)
